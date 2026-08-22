@@ -1,0 +1,36 @@
+McGonagall whispered, patting Hagrid gingerly on the arm as Dumbledore stepped over the low 
+garden wall and walked to the front door. He laid Harry gently on the doorstep, took a letter out 
+of his cloak, tucked it inside Harry’s blankets, and then came back to the other two. For a full 
+minute the three of them stood and looked at the little bundle; Hagrid’s shoulders shook, 
+Professor McGonagall blinked furiously, and the twinkling light that usually shone from 
+Dumbledore’s eyes seemed to have gone out. 
+ 
+ «Well,» said Dumbledore finally, «that’s that. We’ve no business staying here. We may as well 
+go and join the celebrations.» 
+ 
+ «Yeah,» said Hagrid in a very muffled voice, "I best get this bike away. G’night, Professor 
+McGonagall، Professor Dumbledore, sir.» 
+ 
+ Wiping his streaming eyes on his jacket sleeve, Hagrid swung himself onto the motorcycle and 
+kicked the engine into life; with a roar it rose into the air and off into the night. 
+ 
+ «I shall see you soon, I expect, Professor McGonagall,» said Dumbledore, nodding to her. 
+Professor McGonagall blew her nose in reply. 
+ 
+ Dumbledore turned and walked back down the street. On the corner he stopped and took out the 
+silver Put-Outer. He clicked it once, and twelve balls of light sped back to their street lamps so 
+that Privet Drive glowed suddenly orange and he could make out a tabby cat slinking around the 
+corner at the other end of the street. He could just see the bundle of blankets on the step of 
+number four. 
+ 
+ «Good luck, Harry,» he murmured. He turned on his heel and with a swish of his cloak, he was 
+gone. 
+ 
+ A breeze ruffled the neat hedges of Privet Drive, which lay silent and tidy under the inky sky, the 
+very last place you would expect astonishing things to happen. Harry Potter rolled over inside his 
+blankets without waking up. One small hand closed on the letter beside him and he slept on, not 
+knowing he was special, not knowing he was famous, not knowing he would be woken in a few 
+hours’ time by Mrs. Dursley’s scream as she opened the front door to put out the milk bottles, 
+nor that he would spend the next few weeks being prodded and pinched by his cousin Dudley… 
+He couldn’t know that at this very moment, people meeting in secret all over the country were 
+holding up their glasses and saying in hushed voices: «To Harry Potter، the boy who lived!»

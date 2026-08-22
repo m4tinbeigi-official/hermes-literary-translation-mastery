@@ -1,0 +1,633 @@
+[2026-08-22 07:43:28] === Starting Translation for: هری پاتر و یادگاران مرگ (43 chapters) ===
+[2026-08-22 07:43:28] Processing ch01 with 9 pages...
+[2026-08-22 07:43:32] ✓ ch01/sec001.md (463 chars) | Time: 3.85s | Tokens: Prompt=628, Output=231, Total=859
+[2026-08-22 07:43:39] ✓ ch01/sec002.md (356 chars) | Time: 6.94s | Tokens: Prompt=636, Output=178, Total=814
+[2026-08-22 07:43:42] ✓ ch01/sec003.md (296 chars) | Time: 2.51s | Tokens: Prompt=615, Output=148, Total=763
+[2026-08-22 07:43:51] ✓ ch01/sec004.md (2938 chars) | Time: 9.21s | Tokens: Prompt=1274, Output=1469, Total=2743
+[2026-08-22 07:44:02] ✓ ch01/sec005.md (2651 chars) | Time: 10.61s | Tokens: Prompt=1200, Output=1325, Total=2525
+[2026-08-22 07:44:11] ✓ ch01/sec006.md (3114 chars) | Time: 9.35s | Tokens: Prompt=1307, Output=1557, Total=2864
+[2026-08-22 07:44:16] ✓ ch01/sec007.md (2729 chars) | Time: 4.71s | Tokens: Prompt=1179, Output=1364, Total=2543
+[2026-08-22 07:44:26] ✓ ch01/sec008.md (3557 chars) | Time: 10.3s | Tokens: Prompt=1331, Output=1778, Total=3109
+[2026-08-22 07:44:34] ✓ ch01/sec009.md (3059 chars) | Time: 8.29s | Tokens: Prompt=1259, Output=1529, Total=2788
+[2026-08-22 07:44:34] Processing ch02 with 7 pages...
+[2026-08-22 07:44:45] ✓ ch02/sec001.md (2604 chars) | Time: 10.24s | Tokens: Prompt=1156, Output=1302, Total=2458
+[2026-08-22 07:44:53] ✓ ch02/sec002.md (2590 chars) | Time: 8.76s | Tokens: Prompt=1194, Output=1295, Total=2489
+[2026-08-22 07:45:03] ✓ ch02/sec003.md (3090 chars) | Time: 9.69s | Tokens: Prompt=1284, Output=1545, Total=2829
+[2026-08-22 07:45:12] ✓ ch02/sec004.md (2893 chars) | Time: 9.32s | Tokens: Prompt=1258, Output=1446, Total=2704
+[2026-08-22 07:45:21] ✓ ch02/sec005.md (2634 chars) | Time: 8.72s | Tokens: Prompt=1184, Output=1317, Total=2501
+[2026-08-22 07:45:34] ✓ ch02/sec006.md (2215 chars) | Time: 12.78s | Tokens: Prompt=1051, Output=1107, Total=2158
+[2026-08-22 07:45:43] ✓ ch02/sec007.md (2897 chars) | Time: 9.1s | Tokens: Prompt=1189, Output=1448, Total=2637
+[2026-08-22 07:45:43] Processing ch03 with 1 pages...
+[2026-08-22 07:45:51] ✓ ch03/sec001.md (2646 chars) | Time: 8.36s | Tokens: Prompt=1128, Output=1323, Total=2451
+[2026-08-22 07:45:51] Processing ch04 with 1 pages...
+[2026-08-22 07:46:00] ✓ ch04/sec001.md (2410 chars) | Time: 9.24s | Tokens: Prompt=1105, Output=1205, Total=2310
+[2026-08-22 07:46:00] Processing ch05 with 6 pages...
+[2026-08-22 07:46:10] ✓ ch05/sec001.md (2871 chars) | Time: 9.52s | Tokens: Prompt=1221, Output=1435, Total=2656
+[2026-08-22 07:46:22] ✓ ch05/sec002.md (2974 chars) | Time: 12.3s | Tokens: Prompt=1276, Output=1487, Total=2763
+[2026-08-22 07:46:32] ✓ ch05/sec003.md (3193 chars) | Time: 9.9s | Tokens: Prompt=1326, Output=1596, Total=2922
+[2026-08-22 07:46:43] ✓ ch05/sec004.md (2995 chars) | Time: 10.89s | Tokens: Prompt=1265, Output=1497, Total=2762
+[2026-08-22 07:46:52] ✓ ch05/sec005.md (2615 chars) | Time: 8.72s | Tokens: Prompt=1193, Output=1307, Total=2500
+[2026-08-22 07:47:01] ✓ ch05/sec006.md (2880 chars) | Time: 9.01s | Tokens: Prompt=1245, Output=1440, Total=2685
+[2026-08-22 07:47:01] Processing ch06 with 10 pages...
+[2026-08-22 07:47:09] ✓ ch06/sec001.md (2756 chars) | Time: 8.61s | Tokens: Prompt=1188, Output=1378, Total=2566
+[2026-08-22 07:47:21] ✓ ch06/sec002.md (3648 chars) | Time: 11.12s | Tokens: Prompt=1410, Output=1824, Total=3234
+[2026-08-22 07:47:28] ✓ ch06/sec003.md (2914 chars) | Time: 7.61s | Tokens: Prompt=1215, Output=1457, Total=2672
+[2026-08-22 07:47:40] ✓ ch06/sec004.md (2973 chars) | Time: 11.3s | Tokens: Prompt=1275, Output=1486, Total=2761
+[2026-08-22 07:47:55] ✓ ch06/sec005.md (3004 chars) | Time: 15.14s | Tokens: Prompt=1248, Output=1502, Total=2750
+[2026-08-22 07:48:19] ✓ ch06/sec006.md (3215 chars) | Time: 24.62s | Tokens: Prompt=1275, Output=1607, Total=2882
+[2026-08-22 07:48:28] ✓ ch06/sec007.md (3140 chars) | Time: 8.39s | Tokens: Prompt=1302, Output=1570, Total=2872
+[2026-08-22 07:48:39] ✓ ch06/sec008.md (3486 chars) | Time: 10.96s | Tokens: Prompt=1343, Output=1743, Total=3086
+[2026-08-22 07:48:48] ✓ ch06/sec009.md (2950 chars) | Time: 9.12s | Tokens: Prompt=1238, Output=1475, Total=2713
+[2026-08-22 07:48:56] ✓ ch06/sec010.md (2993 chars) | Time: 8.38s | Tokens: Prompt=1214, Output=1496, Total=2710
+[2026-08-22 07:48:56] Processing ch07 with 12 pages...
+[2026-08-22 07:49:05] ✓ ch07/sec001.md (2564 chars) | Time: 9.25s | Tokens: Prompt=1165, Output=1282, Total=2447
+[2026-08-22 07:49:17] ✓ ch07/sec002.md (2634 chars) | Time: 11.42s | Tokens: Prompt=1248, Output=1317, Total=2565
+[2026-08-22 07:49:26] ✓ ch07/sec003.md (2911 chars) | Time: 9.14s | Tokens: Prompt=1308, Output=1455, Total=2763
+[2026-08-22 07:49:35] ✓ ch07/sec004.md (2946 chars) | Time: 9.46s | Tokens: Prompt=1335, Output=1473, Total=2808
+[2026-08-22 07:49:45] ✓ ch07/sec005.md (2903 chars) | Time: 9.09s | Tokens: Prompt=1310, Output=1451, Total=2761
+[2026-08-22 07:49:54] ✓ ch07/sec006.md (2793 chars) | Time: 9.0s | Tokens: Prompt=1298, Output=1396, Total=2694
+[2026-08-22 07:50:01] ✓ ch07/sec007.md (2698 chars) | Time: 7.66s | Tokens: Prompt=1248, Output=1349, Total=2597
+[2026-08-22 07:50:11] ✓ ch07/sec008.md (2947 chars) | Time: 9.87s | Tokens: Prompt=1256, Output=1473, Total=2729
+[2026-08-22 07:50:19] ✓ ch07/sec009.md (3027 chars) | Time: 7.55s | Tokens: Prompt=1328, Output=1513, Total=2841
+[2026-08-22 07:50:31] ✓ ch07/sec010.md (2982 chars) | Time: 12.65s | Tokens: Prompt=1310, Output=1491, Total=2801
+[2026-08-22 07:50:40] ✓ ch07/sec011.md (2352 chars) | Time: 9.09s | Tokens: Prompt=1194, Output=1176, Total=2370
+[2026-08-22 07:50:48] ✓ ch07/sec012.md (3005 chars) | Time: 8.1s | Tokens: Prompt=1332, Output=1502, Total=2834
+[2026-08-22 07:50:48] Processing ch08 with 12 pages...
+[2026-08-22 07:50:54] ✓ ch08/sec001.md (2380 chars) | Time: 5.54s | Tokens: Prompt=1129, Output=1190, Total=2319
+[2026-08-22 07:51:03] ✓ ch08/sec002.md (2992 chars) | Time: 9.41s | Tokens: Prompt=1269, Output=1496, Total=2765
+[2026-08-22 07:51:11] ✓ ch08/sec003.md (2937 chars) | Time: 7.55s | Tokens: Prompt=1269, Output=1468, Total=2737
+[2026-08-22 07:51:20] ✓ ch08/sec004.md (3005 chars) | Time: 9.27s | Tokens: Prompt=1271, Output=1502, Total=2773
+[2026-08-22 07:54:14] ✓ ch08/sec005.md (3103 chars) | Time: 11.79s | Tokens: Prompt=1244, Output=1551, Total=2795
+[2026-08-22 07:54:24] ✓ ch08/sec006.md (2848 chars) | Time: 9.61s | Tokens: Prompt=1188, Output=1424, Total=2612
+[2026-08-22 07:54:34] ✓ ch08/sec007.md (2994 chars) | Time: 9.95s | Tokens: Prompt=1234, Output=1497, Total=2731
+[2026-08-22 07:54:42] ✓ ch08/sec008.md (3291 chars) | Time: 8.17s | Tokens: Prompt=1317, Output=1645, Total=2962
+[2026-08-22 07:54:54] ✓ ch08/sec009.md (2815 chars) | Time: 11.75s | Tokens: Prompt=1206, Output=1407, Total=2613
+[2026-08-22 07:54:58] ✓ ch08/sec010.md (838 chars) | Time: 4.73s | Tokens: Prompt=1230, Output=419, Total=1649
+[2026-08-22 07:55:11] ✓ ch08/sec011.md (3275 chars) | Time: 12.49s | Tokens: Prompt=1325, Output=1637, Total=2962
+[2026-08-22 07:55:26] ✓ ch08/sec012.md (3468 chars) | Time: 14.62s | Tokens: Prompt=1346, Output=1734, Total=3080
+[2026-08-22 07:55:26] Processing ch09 with 5 pages...
+[2026-08-22 07:55:33] ✓ ch09/sec001.md (2758 chars) | Time: 7.22s | Tokens: Prompt=1226, Output=1379, Total=2605
+[2026-08-22 07:55:41] ✓ ch09/sec002.md (2347 chars) | Time: 8.57s | Tokens: Prompt=1089, Output=1173, Total=2262
+[2026-08-22 07:55:50] ✓ ch09/sec003.md (3102 chars) | Time: 8.41s | Tokens: Prompt=1298, Output=1551, Total=2849
+[2026-08-22 07:55:59] ✓ ch09/sec004.md (2831 chars) | Time: 9.66s | Tokens: Prompt=1179, Output=1415, Total=2594
+[2026-08-22 07:56:09] ✓ ch09/sec005.md (2945 chars) | Time: 9.99s | Tokens: Prompt=1219, Output=1472, Total=2691
+[2026-08-22 07:56:09] Processing ch10 with 9 pages...
+[2026-08-22 07:56:23] ✓ ch10/sec001.md (3044 chars) | Time: 13.23s | Tokens: Prompt=1210, Output=1522, Total=2732
+[2026-08-22 07:56:32] ✓ ch10/sec002.md (2654 chars) | Time: 9.07s | Tokens: Prompt=1207, Output=1327, Total=2534
+[2026-08-22 07:56:41] ✓ ch10/sec003.md (2791 chars) | Time: 9.33s | Tokens: Prompt=1190, Output=1395, Total=2585
+[2026-08-22 07:56:50] ✓ ch10/sec004.md (3208 chars) | Time: 8.73s | Tokens: Prompt=1280, Output=1604, Total=2884
+[2026-08-22 07:57:00] ✓ ch10/sec005.md (2941 chars) | Time: 10.0s | Tokens: Prompt=1269, Output=1470, Total=2739
+[2026-08-22 07:57:12] ✓ ch10/sec006.md (3413 chars) | Time: 11.91s | Tokens: Prompt=1316, Output=1706, Total=3022
+[2026-08-22 07:57:18] ✓ ch10/sec007.md (3360 chars) | Time: 5.97s | Tokens: Prompt=1322, Output=1680, Total=3002
+[2026-08-22 07:57:26] ✓ ch10/sec008.md (2709 chars) | Time: 8.22s | Tokens: Prompt=1172, Output=1354, Total=2526
+[2026-08-22 07:57:37] ✓ ch10/sec009.md (2476 chars) | Time: 11.27s | Tokens: Prompt=1164, Output=1238, Total=2402
+[2026-08-22 07:57:37] Processing ch11 with 11 pages...
+[2026-08-22 07:57:49] ✓ ch11/sec001.md (3123 chars) | Time: 11.58s | Tokens: Prompt=1308, Output=1561, Total=2869
+[2026-08-22 07:58:33] ✓ ch11/sec002.md (1608 chars) | Time: 43.71s | Tokens: Prompt=1281, Output=804, Total=2085
+[2026-08-22 07:58:44] ✓ ch11/sec003.md (2903 chars) | Time: 10.93s | Tokens: Prompt=1258, Output=1451, Total=2709
+[2026-08-22 07:58:55] ✓ ch11/sec004.md (3615 chars) | Time: 11.78s | Tokens: Prompt=1342, Output=1807, Total=3149
+[2026-08-22 07:59:07] ✓ ch11/sec005.md (3228 chars) | Time: 11.36s | Tokens: Prompt=1322, Output=1614, Total=2936
+[2026-08-22 07:59:18] ✓ ch11/sec006.md (2945 chars) | Time: 11.44s | Tokens: Prompt=1242, Output=1472, Total=2714
+[2026-08-22 07:59:28] ✓ ch11/sec007.md (2782 chars) | Time: 9.52s | Tokens: Prompt=1186, Output=1391, Total=2577
+[2026-08-22 07:59:35] ✓ ch11/sec008.md (2911 chars) | Time: 6.7s | Tokens: Prompt=1232, Output=1455, Total=2687
+[2026-08-22 07:59:44] ✓ ch11/sec009.md (2762 chars) | Time: 9.68s | Tokens: Prompt=1215, Output=1381, Total=2596
+[2026-08-22 07:59:56] ✓ ch11/sec010.md (3230 chars) | Time: 11.63s | Tokens: Prompt=1288, Output=1615, Total=2903
+[2026-08-22 08:00:04] ✓ ch11/sec011.md (3278 chars) | Time: 7.85s | Tokens: Prompt=1304, Output=1639, Total=2943
+[2026-08-22 08:00:04] Processing ch12 with 8 pages...
+[2026-08-22 08:00:11] ✓ ch12/sec001.md (3324 chars) | Time: 6.97s | Tokens: Prompt=1268, Output=1662, Total=2930
+[2026-08-22 08:00:19] ✓ ch12/sec002.md (3104 chars) | Time: 8.62s | Tokens: Prompt=1297, Output=1552, Total=2849
+[2026-08-22 08:00:29] ✓ ch12/sec003.md (3080 chars) | Time: 9.85s | Tokens: Prompt=1327, Output=1540, Total=2867
+[2026-08-22 08:00:40] ✓ ch12/sec004.md (3223 chars) | Time: 10.47s | Tokens: Prompt=1333, Output=1611, Total=2944
+[2026-08-22 08:00:57] ✓ ch12/sec005.md (2767 chars) | Time: 17.12s | Tokens: Prompt=1197, Output=1383, Total=2580
+[2026-08-22 08:01:08] ✓ ch12/sec006.md (3396 chars) | Time: 11.58s | Tokens: Prompt=1352, Output=1698, Total=3050
+[2026-08-22 08:01:18] ✓ ch12/sec007.md (3000 chars) | Time: 9.21s | Tokens: Prompt=1258, Output=1500, Total=2758
+[2026-08-22 08:01:29] ✓ ch12/sec008.md (3228 chars) | Time: 11.35s | Tokens: Prompt=1307, Output=1614, Total=2921
+[2026-08-22 08:01:29] Processing ch13 with 12 pages...
+[2026-08-22 08:01:39] ✓ ch13/sec001.md (3180 chars) | Time: 9.82s | Tokens: Prompt=1255, Output=1590, Total=2845
+[2026-08-22 08:01:50] ✓ ch13/sec002.md (3962 chars) | Time: 10.72s | Tokens: Prompt=1469, Output=1981, Total=3450
+[2026-08-22 08:01:58] ✓ ch13/sec003.md (3294 chars) | Time: 8.46s | Tokens: Prompt=1324, Output=1647, Total=2971
+[2026-08-22 08:02:06] ✓ ch13/sec004.md (2891 chars) | Time: 8.34s | Tokens: Prompt=1276, Output=1445, Total=2721
+[2026-08-22 08:02:12] ✓ ch13/sec005.md (2828 chars) | Time: 5.48s | Tokens: Prompt=1251, Output=1414, Total=2665
+[2026-08-22 08:02:20] ✓ ch13/sec006.md (2945 chars) | Time: 7.94s | Tokens: Prompt=1214, Output=1472, Total=2686
+[2026-08-22 08:02:28] ✓ ch13/sec007.md (2933 chars) | Time: 8.55s | Tokens: Prompt=1245, Output=1466, Total=2711
+[2026-08-22 08:02:39] ✓ ch13/sec008.md (3097 chars) | Time: 10.23s | Tokens: Prompt=1273, Output=1548, Total=2821
+[2026-08-22 08:02:49] ✓ ch13/sec009.md (3040 chars) | Time: 10.28s | Tokens: Prompt=1247, Output=1520, Total=2767
+[2026-08-22 08:03:01] ✓ ch13/sec010.md (2712 chars) | Time: 11.69s | Tokens: Prompt=1213, Output=1356, Total=2569
+[2026-08-22 08:03:12] ✓ ch13/sec011.md (2963 chars) | Time: 11.25s | Tokens: Prompt=1258, Output=1481, Total=2739
+[2026-08-22 08:03:19] ✓ ch13/sec012.md (3425 chars) | Time: 7.7s | Tokens: Prompt=1377, Output=1712, Total=3089
+[2026-08-22 08:03:19] Processing ch14 with 11 pages...
+[2026-08-22 08:03:32] ✓ ch14/sec001.md (2744 chars) | Time: 12.46s | Tokens: Prompt=1192, Output=1372, Total=2564
+[2026-08-22 08:03:42] ✓ ch14/sec002.md (2983 chars) | Time: 10.36s | Tokens: Prompt=1212, Output=1491, Total=2703
+[2026-08-22 08:03:52] ✓ ch14/sec003.md (2879 chars) | Time: 10.15s | Tokens: Prompt=1230, Output=1439, Total=2669
+[2026-08-22 08:03:58] ✓ ch14/sec004.md (484 chars) | Time: 5.3s | Tokens: Prompt=1234, Output=242, Total=1476
+[2026-08-22 08:04:08] ✓ ch14/sec005.md (2951 chars) | Time: 10.68s | Tokens: Prompt=1271, Output=1475, Total=2746
+[2026-08-22 08:04:18] ✓ ch14/sec006.md (2894 chars) | Time: 9.35s | Tokens: Prompt=1215, Output=1447, Total=2662
+[2026-08-22 08:04:25] ✓ ch14/sec007.md (2582 chars) | Time: 7.51s | Tokens: Prompt=1186, Output=1291, Total=2477
+[2026-08-22 08:04:34] ✓ ch14/sec008.md (3025 chars) | Time: 8.42s | Tokens: Prompt=1251, Output=1512, Total=2763
+[2026-08-22 08:04:45] ✓ ch14/sec009.md (2690 chars) | Time: 10.88s | Tokens: Prompt=1195, Output=1345, Total=2540
+[2026-08-22 08:04:52] ✓ ch14/sec010.md (3332 chars) | Time: 7.03s | Tokens: Prompt=1320, Output=1666, Total=2986
+[2026-08-22 08:05:01] ✓ ch14/sec011.md (2962 chars) | Time: 9.66s | Tokens: Prompt=1235, Output=1481, Total=2716
+[2026-08-22 08:05:01] Processing ch15 with 12 pages...
+[2026-08-22 08:05:15] ✓ ch15/sec001.md (2775 chars) | Time: 13.27s | Tokens: Prompt=1155, Output=1387, Total=2542
+[2026-08-22 08:05:23] ✓ ch15/sec002.md (3206 chars) | Time: 8.84s | Tokens: Prompt=1330, Output=1603, Total=2933
+[2026-08-22 08:05:32] ✓ ch15/sec003.md (3007 chars) | Time: 8.53s | Tokens: Prompt=1310, Output=1503, Total=2813
+[2026-08-22 08:05:37] ✓ ch15/sec004.md (2933 chars) | Time: 5.19s | Tokens: Prompt=1262, Output=1466, Total=2728
+[2026-08-22 08:05:48] ✓ ch15/sec005.md (3002 chars) | Time: 10.95s | Tokens: Prompt=1264, Output=1501, Total=2765
+[2026-08-22 08:05:59] ✓ ch15/sec006.md (2645 chars) | Time: 10.59s | Tokens: Prompt=1187, Output=1322, Total=2509
+[2026-08-22 08:06:08] ✓ ch15/sec007.md (2654 chars) | Time: 9.59s | Tokens: Prompt=1169, Output=1327, Total=2496
+[2026-08-22 08:06:18] ✓ ch15/sec008.md (2983 chars) | Time: 9.59s | Tokens: Prompt=1282, Output=1491, Total=2773
+[2026-08-22 08:06:28] ✓ ch15/sec009.md (2960 chars) | Time: 9.79s | Tokens: Prompt=1244, Output=1480, Total=2724
+[2026-08-22 08:06:38] ✓ ch15/sec010.md (3036 chars) | Time: 10.37s | Tokens: Prompt=1268, Output=1518, Total=2786
+[2026-08-22 08:06:53] ✓ ch15/sec011.md (3463 chars) | Time: 15.06s | Tokens: Prompt=1339, Output=1731, Total=3070
+[2026-08-22 08:07:01] ✓ ch15/sec012.md (3071 chars) | Time: 7.95s | Tokens: Prompt=1240, Output=1535, Total=2775
+[2026-08-22 08:07:01] Processing ch16 with 11 pages...
+[2026-08-22 08:07:07] ✓ ch16/sec001.md (2872 chars) | Time: 5.95s | Tokens: Prompt=1218, Output=1436, Total=2654
+[2026-08-22 08:07:19] ✓ ch16/sec002.md (3381 chars) | Time: 11.81s | Tokens: Prompt=1347, Output=1690, Total=3037
+[2026-08-22 08:07:27] ✓ ch16/sec003.md (2313 chars) | Time: 7.78s | Tokens: Prompt=1129, Output=1156, Total=2285
+[2026-08-22 08:07:36] ✓ ch16/sec004.md (2957 chars) | Time: 9.65s | Tokens: Prompt=1246, Output=1478, Total=2724
+[2026-08-22 08:07:48] ✓ ch16/sec005.md (3330 chars) | Time: 11.14s | Tokens: Prompt=1320, Output=1665, Total=2985
+[2026-08-22 08:08:15] ✓ ch16/sec006.md (3232 chars) | Time: 27.66s | Tokens: Prompt=1297, Output=1616, Total=2913
+[2026-08-22 08:08:26] ✓ ch16/sec007.md (3313 chars) | Time: 10.64s | Tokens: Prompt=1288, Output=1656, Total=2944
+[2026-08-22 08:08:34] ✓ ch16/sec008.md (3122 chars) | Time: 7.68s | Tokens: Prompt=1310, Output=1561, Total=2871
+[2026-08-22 08:08:41] ✓ ch16/sec009.md (3254 chars) | Time: 7.34s | Tokens: Prompt=1290, Output=1627, Total=2917
+[2026-08-22 08:08:49] ✓ ch16/sec010.md (2641 chars) | Time: 8.34s | Tokens: Prompt=1196, Output=1320, Total=2516
+[2026-08-22 08:08:59] ✓ ch16/sec011.md (2946 chars) | Time: 9.46s | Tokens: Prompt=1246, Output=1473, Total=2719
+[2026-08-22 08:08:59] Processing ch17 with 8 pages...
+[2026-08-22 08:09:05] ✓ ch17/sec001.md (2732 chars) | Time: 6.3s | Tokens: Prompt=1178, Output=1366, Total=2544
+[2026-08-22 08:09:12] ✓ ch17/sec002.md (3086 chars) | Time: 6.69s | Tokens: Prompt=1264, Output=1543, Total=2807
+[2026-08-22 08:09:22] ✓ ch17/sec003.md (3143 chars) | Time: 10.31s | Tokens: Prompt=1270, Output=1571, Total=2841
+[2026-08-22 08:09:32] ✓ ch17/sec004.md (2849 chars) | Time: 10.07s | Tokens: Prompt=1221, Output=1424, Total=2645
+[2026-08-22 08:09:42] ✓ ch17/sec005.md (3105 chars) | Time: 10.08s | Tokens: Prompt=1321, Output=1552, Total=2873
+[2026-08-22 08:09:52] ✓ ch17/sec006.md (3401 chars) | Time: 10.13s | Tokens: Prompt=1385, Output=1700, Total=3085
+[2026-08-22 08:10:05] ✓ ch17/sec007.md (3366 chars) | Time: 12.37s | Tokens: Prompt=1357, Output=1683, Total=3040
+[2026-08-22 08:10:13] ✓ ch17/sec008.md (2522 chars) | Time: 8.06s | Tokens: Prompt=1194, Output=1261, Total=2455
+[2026-08-22 08:10:13] Processing ch18 with 14 pages...
+[2026-08-22 08:10:20] ✓ ch18/sec001.md (2650 chars) | Time: 7.0s | Tokens: Prompt=1206, Output=1325, Total=2531
+[2026-08-22 08:10:31] ✓ ch18/sec002.md (3031 chars) | Time: 11.24s | Tokens: Prompt=1255, Output=1515, Total=2770
+[2026-08-22 08:10:41] ✓ ch18/sec003.md (3277 chars) | Time: 9.51s | Tokens: Prompt=1324, Output=1638, Total=2962
+[2026-08-22 08:10:50] ✓ ch18/sec004.md (3030 chars) | Time: 9.37s | Tokens: Prompt=1252, Output=1515, Total=2767
+[2026-08-22 08:11:03] ✓ ch18/sec005.md (3596 chars) | Time: 12.61s | Tokens: Prompt=1372, Output=1798, Total=3170
+[2026-08-22 08:11:12] ✓ ch18/sec006.md (3003 chars) | Time: 9.86s | Tokens: Prompt=1261, Output=1501, Total=2762
+[2026-08-22 08:11:21] ✓ ch18/sec007.md (2873 chars) | Time: 8.66s | Tokens: Prompt=1263, Output=1436, Total=2699
+[2026-08-22 08:11:30] ✓ ch18/sec008.md (2847 chars) | Time: 9.06s | Tokens: Prompt=1212, Output=1423, Total=2635
+[2026-08-22 08:11:38] ✓ ch18/sec009.md (3183 chars) | Time: 8.09s | Tokens: Prompt=1284, Output=1591, Total=2875
+[2026-08-22 08:11:44] ✓ ch18/sec010.md (2725 chars) | Time: 6.01s | Tokens: Prompt=1200, Output=1362, Total=2562
+[2026-08-22 08:11:54] ✓ ch18/sec011.md (2821 chars) | Time: 9.4s | Tokens: Prompt=1234, Output=1410, Total=2644
+[2026-08-22 08:12:03] ✓ ch18/sec012.md (2764 chars) | Time: 9.19s | Tokens: Prompt=1178, Output=1382, Total=2560
+[2026-08-22 08:12:09] ✓ ch18/sec013.md (668 chars) | Time: 5.71s | Tokens: Prompt=1275, Output=334, Total=1609
+[2026-08-22 08:12:18] ✓ ch18/sec014.md (2899 chars) | Time: 9.29s | Tokens: Prompt=1225, Output=1449, Total=2674
+[2026-08-22 08:12:18] Processing ch19 with 9 pages...
+[2026-08-22 08:12:28] ✓ ch19/sec001.md (3273 chars) | Time: 9.68s | Tokens: Prompt=1306, Output=1636, Total=2942
+[2026-08-22 08:12:38] ✓ ch19/sec002.md (3545 chars) | Time: 10.8s | Tokens: Prompt=1409, Output=1772, Total=3181
+[2026-08-22 08:12:49] ✓ ch19/sec003.md (3099 chars) | Time: 10.12s | Tokens: Prompt=1307, Output=1549, Total=2856
+[2026-08-22 08:12:56] ✓ ch19/sec004.md (2717 chars) | Time: 7.43s | Tokens: Prompt=1171, Output=1358, Total=2529
+[2026-08-22 08:13:05] ✓ ch19/sec005.md (2921 chars) | Time: 8.69s | Tokens: Prompt=1299, Output=1460, Total=2759
+[2026-08-22 08:13:14] ✓ ch19/sec006.md (3275 chars) | Time: 9.16s | Tokens: Prompt=1369, Output=1637, Total=3006
+[2026-08-22 08:13:21] ✓ ch19/sec007.md (3486 chars) | Time: 7.47s | Tokens: Prompt=1331, Output=1743, Total=3074
+[2026-08-22 08:13:29] ✓ ch19/sec008.md (2952 chars) | Time: 7.68s | Tokens: Prompt=1241, Output=1476, Total=2717
+[2026-08-22 08:13:38] ✓ ch19/sec009.md (2545 chars) | Time: 9.47s | Tokens: Prompt=1172, Output=1272, Total=2444
+[2026-08-22 08:13:38] Processing ch20 with 15 pages...
+[2026-08-22 08:13:44] ✓ ch20/sec001.md (2437 chars) | Time: 5.55s | Tokens: Prompt=1112, Output=1218, Total=2330
+[2026-08-22 08:13:52] ✓ ch20/sec002.md (2484 chars) | Time: 7.75s | Tokens: Prompt=1121, Output=1242, Total=2363
+[2026-08-22 08:13:59] ✓ ch20/sec003.md (2224 chars) | Time: 7.33s | Tokens: Prompt=1046, Output=1112, Total=2158
+[2026-08-22 08:14:05] ✓ ch20/sec004.md (2590 chars) | Time: 6.37s | Tokens: Prompt=1146, Output=1295, Total=2441
+[2026-08-22 08:14:14] ✓ ch20/sec005.md (2566 chars) | Time: 8.49s | Tokens: Prompt=1122, Output=1283, Total=2405
+[2026-08-22 08:14:22] ✓ ch20/sec006.md (2043 chars) | Time: 7.6s | Tokens: Prompt=1023, Output=1021, Total=2044
+[2026-08-22 08:14:28] ✓ ch20/sec007.md (1819 chars) | Time: 6.65s | Tokens: Prompt=987, Output=909, Total=1896
+[2026-08-22 08:14:35] ✓ ch20/sec008.md (2192 chars) | Time: 6.44s | Tokens: Prompt=1037, Output=1096, Total=2133
+[2026-08-22 08:14:49] ✓ ch20/sec009.md (2646 chars) | Time: 14.12s | Tokens: Prompt=1166, Output=1323, Total=2489
+[2026-08-22 08:14:58] ✓ ch20/sec010.md (2846 chars) | Time: 9.22s | Tokens: Prompt=1216, Output=1423, Total=2639
+[2026-08-22 08:15:05] ✓ ch20/sec011.md (2067 chars) | Time: 6.48s | Tokens: Prompt=1014, Output=1033, Total=2047
+[2026-08-22 08:15:10] ✓ ch20/sec012.md (1485 chars) | Time: 5.11s | Tokens: Prompt=909, Output=742, Total=1651
+[2026-08-22 08:15:17] ✓ ch20/sec013.md (1711 chars) | Time: 7.28s | Tokens: Prompt=936, Output=855, Total=1791
+[2026-08-22 08:15:23] ✓ ch20/sec014.md (1508 chars) | Time: 6.48s | Tokens: Prompt=892, Output=754, Total=1646
+[2026-08-22 08:15:31] ✓ ch20/sec015.md (1928 chars) | Time: 8.02s | Tokens: Prompt=987, Output=964, Total=1951
+[2026-08-22 08:15:31] Processing ch21 with 1 pages...
+[2026-08-22 08:15:42] ✓ ch21/sec001.md (3145 chars) | Time: 10.44s | Tokens: Prompt=1296, Output=1572, Total=2868
+[2026-08-22 08:15:42] Processing ch22 with 3 pages...
+[2026-08-22 08:15:51] ✓ ch22/sec001.md (2854 chars) | Time: 9.56s | Tokens: Prompt=1228, Output=1427, Total=2655
+[2026-08-22 08:16:00] ✓ ch22/sec002.md (3207 chars) | Time: 8.72s | Tokens: Prompt=1283, Output=1603, Total=2886
+[2026-08-22 08:16:04] ✓ ch22/sec003.md (834 chars) | Time: 4.1s | Tokens: Prompt=1224, Output=417, Total=1641
+[2026-08-22 08:16:04] Processing ch23 with 1 pages...
+[2026-08-22 08:16:13] ✓ ch23/sec001.md (3161 chars) | Time: 9.21s | Tokens: Prompt=1273, Output=1580, Total=2853
+[2026-08-22 08:16:13] Processing ch24 with 1 pages...
+[2026-08-22 08:16:23] ✓ ch24/sec001.md (2986 chars) | Time: 9.42s | Tokens: Prompt=1279, Output=1493, Total=2772
+[2026-08-22 08:16:23] Processing ch25 with 15 pages...
+[2026-08-22 08:16:31] ✓ ch25/sec001.md (2654 chars) | Time: 7.67s | Tokens: Prompt=1163, Output=1327, Total=2490
+[2026-08-22 08:16:41] ✓ ch25/sec002.md (3026 chars) | Time: 10.41s | Tokens: Prompt=1314, Output=1513, Total=2827
+[2026-08-22 08:16:51] ✓ ch25/sec003.md (3241 chars) | Time: 10.44s | Tokens: Prompt=1329, Output=1620, Total=2949
+[2026-08-22 08:17:00] ✓ ch25/sec004.md (3269 chars) | Time: 8.44s | Tokens: Prompt=1401, Output=1634, Total=3035
+[2026-08-22 08:17:10] ✓ ch25/sec005.md (3357 chars) | Time: 10.15s | Tokens: Prompt=1337, Output=1678, Total=3015
+[2026-08-22 08:17:16] ✓ ch25/sec006.md (2773 chars) | Time: 6.26s | Tokens: Prompt=1212, Output=1386, Total=2598
+[2026-08-22 08:17:28] ✓ ch25/sec007.md (2892 chars) | Time: 12.11s | Tokens: Prompt=1253, Output=1446, Total=2699
+[2026-08-22 08:17:38] ✓ ch25/sec008.md (2662 chars) | Time: 9.62s | Tokens: Prompt=1166, Output=1331, Total=2497
+[2026-08-22 08:17:46] ✓ ch25/sec009.md (2511 chars) | Time: 8.34s | Tokens: Prompt=1120, Output=1255, Total=2375
+[2026-08-22 08:17:53] ✓ ch25/sec010.md (1926 chars) | Time: 6.55s | Tokens: Prompt=972, Output=963, Total=1935
+[2026-08-22 08:18:00] ✓ ch25/sec011.md (1740 chars) | Time: 6.73s | Tokens: Prompt=915, Output=870, Total=1785
+[2026-08-22 08:18:09] ✓ ch25/sec012.md (2248 chars) | Time: 8.89s | Tokens: Prompt=1074, Output=1124, Total=2198
+[2026-08-22 08:18:17] ✓ ch25/sec013.md (1986 chars) | Time: 8.16s | Tokens: Prompt=971, Output=993, Total=1964
+[2026-08-22 08:18:26] ✓ ch25/sec014.md (2289 chars) | Time: 9.34s | Tokens: Prompt=1107, Output=1144, Total=2251
+[2026-08-22 08:18:34] ✓ ch25/sec015.md (1961 chars) | Time: 7.6s | Tokens: Prompt=996, Output=980, Total=1976
+[2026-08-22 08:18:34] Processing ch26 with 4 pages...
+[2026-08-22 08:18:41] ✓ ch26/sec001.md (2022 chars) | Time: 6.9s | Tokens: Prompt=1021, Output=1011, Total=2032
+[2026-08-22 08:18:48] ✓ ch26/sec002.md (1758 chars) | Time: 7.58s | Tokens: Prompt=941, Output=879, Total=1820
+[2026-08-22 08:18:55] ✓ ch26/sec003.md (2109 chars) | Time: 7.14s | Tokens: Prompt=1048, Output=1054, Total=2102
+[2026-08-22 08:19:05] ✓ ch26/sec004.md (2191 chars) | Time: 9.8s | Tokens: Prompt=1041, Output=1095, Total=2136
+[2026-08-22 08:19:05] Processing ch27 with 6 pages...
+[2026-08-22 08:19:14] ✓ ch27/sec001.md (2099 chars) | Time: 8.43s | Tokens: Prompt=1049, Output=1049, Total=2098
+[2026-08-22 08:19:25] ✓ ch27/sec002.md (3035 chars) | Time: 11.29s | Tokens: Prompt=1289, Output=1517, Total=2806
+[2026-08-22 08:19:35] ✓ ch27/sec003.md (2456 chars) | Time: 10.18s | Tokens: Prompt=1182, Output=1228, Total=2410
+[2026-08-22 08:19:41] ✓ ch27/sec004.md (3007 chars) | Time: 6.29s | Tokens: Prompt=1260, Output=1503, Total=2763
+[2026-08-22 08:19:50] ✓ ch27/sec005.md (2685 chars) | Time: 8.08s | Tokens: Prompt=1216, Output=1342, Total=2558
+[2026-08-22 08:19:59] ✓ ch27/sec006.md (2805 chars) | Time: 9.4s | Tokens: Prompt=1232, Output=1402, Total=2634
+[2026-08-22 08:19:59] Processing ch28 with 9 pages...
+[2026-08-22 08:20:05] ✓ ch28/sec001.md (2430 chars) | Time: 6.33s | Tokens: Prompt=1131, Output=1215, Total=2346
+[2026-08-22 08:20:11] ✓ ch28/sec002.md (804 chars) | Time: 5.59s | Tokens: Prompt=1234, Output=402, Total=1636
+[2026-08-22 08:20:19] ✓ ch28/sec003.md (3118 chars) | Time: 7.81s | Tokens: Prompt=1335, Output=1559, Total=2894
+[2026-08-22 08:20:28] ✓ ch28/sec004.md (2963 chars) | Time: 9.0s | Tokens: Prompt=1234, Output=1481, Total=2715
+[2026-08-22 08:20:37] ✓ ch28/sec005.md (2934 chars) | Time: 9.47s | Tokens: Prompt=1263, Output=1467, Total=2730
+[2026-08-22 08:20:42] === Starting Translation for: هری پاتر و یادگاران مرگ (43 chapters) ===
+[2026-08-22 08:20:42] Processing ch01 with 9 pages...
+[2026-08-22 08:20:42] Processing ch02 with 7 pages...
+[2026-08-22 08:20:42] Processing ch03 with 1 pages...
+[2026-08-22 08:20:42] Processing ch04 with 1 pages...
+[2026-08-22 08:20:42] Processing ch05 with 6 pages...
+[2026-08-22 08:20:42] Processing ch06 with 10 pages...
+[2026-08-22 08:20:42] Processing ch07 with 12 pages...
+[2026-08-22 08:20:42] Processing ch08 with 12 pages...
+[2026-08-22 08:20:42] Processing ch09 with 5 pages...
+[2026-08-22 08:20:42] Processing ch10 with 9 pages...
+[2026-08-22 08:20:42] Processing ch11 with 11 pages...
+[2026-08-22 08:20:42] Processing ch12 with 8 pages...
+[2026-08-22 08:20:42] Processing ch13 with 12 pages...
+[2026-08-22 08:20:42] Processing ch14 with 11 pages...
+[2026-08-22 08:20:42] Processing ch15 with 12 pages...
+[2026-08-22 08:20:42] Processing ch16 with 11 pages...
+[2026-08-22 08:20:42] Processing ch17 with 8 pages...
+[2026-08-22 08:20:42] Processing ch18 with 14 pages...
+[2026-08-22 08:20:42] Processing ch19 with 9 pages...
+[2026-08-22 08:20:42] Processing ch20 with 15 pages...
+[2026-08-22 08:20:42] Processing ch21 with 1 pages...
+[2026-08-22 08:20:42] Processing ch22 with 3 pages...
+[2026-08-22 08:20:42] Processing ch23 with 1 pages...
+[2026-08-22 08:20:42] Processing ch24 with 1 pages...
+[2026-08-22 08:20:42] Processing ch25 with 15 pages...
+[2026-08-22 08:20:42] Processing ch26 with 4 pages...
+[2026-08-22 08:20:42] Processing ch27 with 6 pages...
+[2026-08-22 08:20:42] Processing ch28 with 9 pages...
+[2026-08-22 08:20:51] ✓ ch28/sec006.md (3102 chars) | Time: 9.02s | Tokens: Prompt=1268, Output=1551, Total=2819
+[2026-08-22 08:20:57] ✓ ch28/sec006.md (2924 chars) | Time: 19.65s | Tokens: Prompt=1268, Output=1462, Total=2730
+[2026-08-22 08:21:03] ✓ ch28/sec007.md (3485 chars) | Time: 11.74s | Tokens: Prompt=1389, Output=1742, Total=3131
+[2026-08-22 08:21:08] ✓ ch28/sec007.md (3451 chars) | Time: 11.28s | Tokens: Prompt=1389, Output=1725, Total=3114
+[2026-08-22 08:21:15] ✓ ch28/sec008.md (3117 chars) | Time: 11.55s | Tokens: Prompt=1235, Output=1558, Total=2793
+[2026-08-22 08:21:18] ✓ ch28/sec008.md (3020 chars) | Time: 9.89s | Tokens: Prompt=1235, Output=1510, Total=2745
+[2026-08-22 08:21:29] ✓ ch28/sec009.md (3328 chars) | Time: 14.69s | Tokens: Prompt=1320, Output=1664, Total=2984
+[2026-08-22 08:21:29] Processing ch29 with 11 pages...
+[2026-08-22 08:21:30] ✓ ch28/sec009.md (3298 chars) | Time: 12.16s | Tokens: Prompt=1320, Output=1649, Total=2969
+[2026-08-22 08:21:30] Processing ch29 with 11 pages...
+[2026-08-22 08:21:38] ✓ ch29/sec001.md (2677 chars) | Time: 8.69s | Tokens: Prompt=1162, Output=1338, Total=2500
+[2026-08-22 08:21:38] ✓ ch29/sec001.md (2674 chars) | Time: 8.02s | Tokens: Prompt=1162, Output=1337, Total=2499
+[2026-08-22 08:21:47] ✓ ch29/sec002.md (2949 chars) | Time: 9.08s | Tokens: Prompt=1206, Output=1474, Total=2680
+[2026-08-22 08:21:48] ✓ ch29/sec002.md (2858 chars) | Time: 9.55s | Tokens: Prompt=1206, Output=1429, Total=2635
+[2026-08-22 08:21:58] ✓ ch29/sec003.md (2964 chars) | Time: 9.73s | Tokens: Prompt=1253, Output=1482, Total=2735
+[2026-08-22 08:21:59] ✓ ch29/sec003.md (2960 chars) | Time: 11.85s | Tokens: Prompt=1253, Output=1480, Total=2733
+[2026-08-22 08:22:02] ✓ ch29/sec004.md (607 chars) | Time: 4.91s | Tokens: Prompt=1271, Output=303, Total=1574
+[2026-08-22 08:22:05] ✓ ch29/sec004.md (755 chars) | Time: 5.67s | Tokens: Prompt=1271, Output=377, Total=1648
+[2026-08-22 08:22:12] ✓ ch29/sec005.md (2965 chars) | Time: 9.72s | Tokens: Prompt=1262, Output=1482, Total=2744
+[2026-08-22 08:22:15] ✓ ch29/sec005.md (3101 chars) | Time: 10.62s | Tokens: Prompt=1262, Output=1550, Total=2812
+[2026-08-22 08:22:20] ✓ ch29/sec006.md (2624 chars) | Time: 8.27s | Tokens: Prompt=1177, Output=1312, Total=2489
+[2026-08-22 08:22:25] ✓ ch29/sec006.md (2638 chars) | Time: 9.52s | Tokens: Prompt=1177, Output=1319, Total=2496
+[2026-08-22 08:22:27] ✓ ch29/sec007.md (3287 chars) | Time: 6.51s | Tokens: Prompt=1355, Output=1643, Total=2998
+[2026-08-22 08:22:36] ✓ ch29/sec007.md (3346 chars) | Time: 11.13s | Tokens: Prompt=1355, Output=1673, Total=3028
+[2026-08-22 08:22:47] ✓ ch29/sec008.md (3406 chars) | Time: 20.19s | Tokens: Prompt=1357, Output=1703, Total=3060
+[2026-08-22 08:22:48] ✓ ch29/sec008.md (3352 chars) | Time: 12.35s | Tokens: Prompt=1357, Output=1676, Total=3033
+[2026-08-22 08:22:58] ✓ ch29/sec009.md (2927 chars) | Time: 9.26s | Tokens: Prompt=1268, Output=1463, Total=2731
+[2026-08-22 08:23:01] ✓ ch29/sec009.md (2975 chars) | Time: 14.06s | Tokens: Prompt=1268, Output=1487, Total=2755
+[2026-08-22 08:23:04] ✓ ch29/sec010.md (2922 chars) | Time: 6.35s | Tokens: Prompt=1245, Output=1461, Total=2706
+[2026-08-22 08:23:11] ✓ ch29/sec010.md (2839 chars) | Time: 9.78s | Tokens: Prompt=1245, Output=1419, Total=2664
+[2026-08-22 08:23:17] ✓ ch29/sec011.md (3026 chars) | Time: 13.32s | Tokens: Prompt=1292, Output=1513, Total=2805
+[2026-08-22 08:23:17] Processing ch30 with 16 pages...
+[2026-08-22 08:23:24] ✓ ch29/sec011.md (3117 chars) | Time: 12.65s | Tokens: Prompt=1292, Output=1558, Total=2850
+[2026-08-22 08:23:24] Processing ch30 with 16 pages...
+[2026-08-22 08:23:28] ✓ ch30/sec001.md (2985 chars) | Time: 10.78s | Tokens: Prompt=1188, Output=1492, Total=2680
+[2026-08-22 08:23:35] ✓ ch30/sec001.md (2799 chars) | Time: 9.23s | Tokens: Prompt=1188, Output=1399, Total=2587
+[2026-08-22 08:23:39] ✓ ch30/sec002.md (2440 chars) | Time: 11.19s | Tokens: Prompt=1146, Output=1220, Total=2366
+[2026-08-22 08:23:40] ✓ ch30/sec002.md (2536 chars) | Time: 5.74s | Tokens: Prompt=1146, Output=1268, Total=2414
+[2026-08-22 08:23:48] ✓ ch30/sec003.md (2413 chars) | Time: 9.07s | Tokens: Prompt=1155, Output=1206, Total=2361
+[2026-08-22 08:23:52] ✓ ch30/sec003.md (2571 chars) | Time: 11.9s | Tokens: Prompt=1155, Output=1285, Total=2440
+[2026-08-22 08:23:56] ✓ ch30/sec004.md (3085 chars) | Time: 7.19s | Tokens: Prompt=1302, Output=1542, Total=2844
+[2026-08-22 08:24:03] ✓ ch30/sec004.md (2882 chars) | Time: 10.98s | Tokens: Prompt=1302, Output=1441, Total=2743
+[2026-08-22 08:24:07] ✓ ch30/sec005.md (2746 chars) | Time: 11.01s | Tokens: Prompt=1216, Output=1373, Total=2589
+[2026-08-22 08:24:12] ✓ ch30/sec005.md (2758 chars) | Time: 8.7s | Tokens: Prompt=1216, Output=1379, Total=2595
+[2026-08-22 08:24:14] ✓ ch30/sec006.md (2872 chars) | Time: 7.21s | Tokens: Prompt=1257, Output=1436, Total=2693
+[2026-08-22 08:24:22] ✓ ch30/sec006.md (2859 chars) | Time: 9.9s | Tokens: Prompt=1257, Output=1429, Total=2686
+[2026-08-22 08:24:23] ✓ ch30/sec007.md (2900 chars) | Time: 9.33s | Tokens: Prompt=1244, Output=1450, Total=2694
+[2026-08-22 08:24:35] ✓ ch30/sec007.md (3026 chars) | Time: 13.6s | Tokens: Prompt=1244, Output=1513, Total=2757
+[2026-08-22 08:24:36] ✓ ch30/sec008.md (2733 chars) | Time: 12.67s | Tokens: Prompt=1231, Output=1366, Total=2597
+[2026-08-22 08:24:45] ✓ ch30/sec008.md (2781 chars) | Time: 9.56s | Tokens: Prompt=1231, Output=1390, Total=2621
+[2026-08-22 08:24:47] ✓ ch30/sec009.md (2963 chars) | Time: 11.45s | Tokens: Prompt=1272, Output=1481, Total=2753
+[2026-08-22 08:24:55] ✓ ch30/sec010.md (2927 chars) | Time: 7.95s | Tokens: Prompt=1233, Output=1463, Total=2696
+[2026-08-22 08:24:57] ✓ ch30/sec009.md (3018 chars) | Time: 11.55s | Tokens: Prompt=1272, Output=1509, Total=2781
+[2026-08-22 08:25:05] ✓ ch30/sec011.md (2746 chars) | Time: 9.47s | Tokens: Prompt=1188, Output=1373, Total=2561
+[2026-08-22 08:25:05] ✓ ch30/sec010.md (2764 chars) | Time: 8.38s | Tokens: Prompt=1233, Output=1382, Total=2615
+[2026-08-22 08:25:13] ✓ ch30/sec012.md (2965 chars) | Time: 8.17s | Tokens: Prompt=1294, Output=1482, Total=2776
+[2026-08-22 08:25:14] ✓ ch30/sec011.md (2666 chars) | Time: 9.52s | Tokens: Prompt=1188, Output=1333, Total=2521
+[2026-08-22 08:25:22] ✓ ch30/sec013.md (2730 chars) | Time: 8.99s | Tokens: Prompt=1208, Output=1365, Total=2573
+[2026-08-22 08:25:24] ✓ ch30/sec012.md (3061 chars) | Time: 9.21s | Tokens: Prompt=1294, Output=1530, Total=2824
+[2026-08-22 08:25:29] ✓ ch30/sec013.md (2829 chars) | Time: 5.46s | Tokens: Prompt=1208, Output=1414, Total=2622
+[2026-08-22 08:25:33] ✓ ch30/sec014.md (2888 chars) | Time: 10.85s | Tokens: Prompt=1242, Output=1444, Total=2686
+[2026-08-22 08:25:38] ✓ ch30/sec014.md (2923 chars) | Time: 9.11s | Tokens: Prompt=1242, Output=1461, Total=2703
+[2026-08-22 08:25:43] ✓ ch30/sec015.md (3102 chars) | Time: 9.79s | Tokens: Prompt=1278, Output=1551, Total=2829
+[2026-08-22 08:25:48] ✓ ch30/sec015.md (3157 chars) | Time: 10.02s | Tokens: Prompt=1278, Output=1578, Total=2856
+[2026-08-22 08:25:53] ✓ ch30/sec016.md (3181 chars) | Time: 10.66s | Tokens: Prompt=1296, Output=1590, Total=2886
+[2026-08-22 08:25:53] Processing ch31 with 13 pages...
+[2026-08-22 08:25:58] ✓ ch30/sec016.md (3120 chars) | Time: 9.71s | Tokens: Prompt=1296, Output=1560, Total=2856
+[2026-08-22 08:25:58] Processing ch31 with 13 pages...
+[2026-08-22 08:25:59] ✓ ch31/sec001.md (2278 chars) | Time: 5.9s | Tokens: Prompt=1076, Output=1139, Total=2215
+[2026-08-22 08:26:03] ✓ ch31/sec001.md (2130 chars) | Time: 5.37s | Tokens: Prompt=1076, Output=1065, Total=2141
+[2026-08-22 08:26:12] ✓ ch31/sec002.md (3560 chars) | Time: 12.71s | Tokens: Prompt=1392, Output=1780, Total=3172
+[2026-08-22 08:26:13] ✓ ch31/sec002.md (3391 chars) | Time: 9.84s | Tokens: Prompt=1392, Output=1695, Total=3087
+[2026-08-22 08:26:22] ✓ ch31/sec003.md (3463 chars) | Time: 10.41s | Tokens: Prompt=1366, Output=1731, Total=3097
+[2026-08-22 08:26:23] ✓ ch31/sec003.md (3326 chars) | Time: 9.82s | Tokens: Prompt=1366, Output=1663, Total=3029
+[2026-08-22 08:26:29] ✓ ch31/sec004.md (3037 chars) | Time: 6.36s | Tokens: Prompt=1294, Output=1518, Total=2812
+[2026-08-22 08:26:30] ✓ ch31/sec004.md (2991 chars) | Time: 7.86s | Tokens: Prompt=1294, Output=1495, Total=2789
+[2026-08-22 08:26:37] ✓ ch31/sec005.md (2888 chars) | Time: 7.17s | Tokens: Prompt=1240, Output=1444, Total=2684
+[2026-08-22 08:26:38] ✓ ch31/sec005.md (2860 chars) | Time: 8.05s | Tokens: Prompt=1240, Output=1430, Total=2670
+[2026-08-22 08:26:46] ✓ ch31/sec006.md (2603 chars) | Time: 9.6s | Tokens: Prompt=1179, Output=1301, Total=2480
+[2026-08-22 08:26:50] ✓ ch31/sec006.md (2716 chars) | Time: 11.79s | Tokens: Prompt=1179, Output=1358, Total=2537
+[2026-08-22 08:26:54] ✓ ch31/sec007.md (3072 chars) | Time: 7.32s | Tokens: Prompt=1251, Output=1536, Total=2787
+[2026-08-22 08:27:00] ✓ ch31/sec007.md (2957 chars) | Time: 9.57s | Tokens: Prompt=1251, Output=1478, Total=2729
+[2026-08-22 08:27:04] ✓ ch31/sec008.md (3060 chars) | Time: 10.47s | Tokens: Prompt=1302, Output=1530, Total=2832
+[2026-08-22 08:27:08] ✓ ch31/sec008.md (3010 chars) | Time: 8.28s | Tokens: Prompt=1302, Output=1505, Total=2807
+[2026-08-22 08:27:14] ✓ ch31/sec009.md (2857 chars) | Time: 9.89s | Tokens: Prompt=1189, Output=1428, Total=2617
+[2026-08-22 08:27:17] ✓ ch31/sec009.md (2731 chars) | Time: 8.99s | Tokens: Prompt=1189, Output=1365, Total=2554
+[2026-08-22 08:27:26] ✓ ch31/sec010.md (2770 chars) | Time: 11.58s | Tokens: Prompt=1190, Output=1385, Total=2575
+[2026-08-22 08:27:26] ✓ ch31/sec010.md (2782 chars) | Time: 8.94s | Tokens: Prompt=1190, Output=1391, Total=2581
+[2026-08-22 08:27:33] ✓ ch31/sec011.md (2990 chars) | Time: 7.52s | Tokens: Prompt=1256, Output=1495, Total=2751
+[2026-08-22 08:27:36] ✓ ch31/sec011.md (3140 chars) | Time: 9.89s | Tokens: Prompt=1256, Output=1570, Total=2826
+[2026-08-22 08:27:44] ✓ ch31/sec012.md (3051 chars) | Time: 11.07s | Tokens: Prompt=1255, Output=1525, Total=2780
+[2026-08-22 08:27:47] ✓ ch31/sec012.md (3036 chars) | Time: 10.83s | Tokens: Prompt=1255, Output=1518, Total=2773
+[2026-08-22 08:27:56] ✓ ch31/sec013.md (3001 chars) | Time: 11.9s | Tokens: Prompt=1274, Output=1500, Total=2774
+[2026-08-22 08:27:56] Processing ch32 with 8 pages...
+[2026-08-22 08:27:58] ✓ ch31/sec013.md (3111 chars) | Time: 11.1s | Tokens: Prompt=1274, Output=1555, Total=2829
+[2026-08-22 08:27:58] Processing ch32 with 8 pages...
+[2026-08-22 08:28:02] ✓ ch32/sec001.md (651 chars) | Time: 6.2s | Tokens: Prompt=1202, Output=325, Total=1527
+[2026-08-22 08:28:03] ✓ ch32/sec001.md (714 chars) | Time: 5.24s | Tokens: Prompt=1202, Output=357, Total=1559
+[2026-08-22 08:28:12] ✓ ch32/sec002.md (2815 chars) | Time: 8.62s | Tokens: Prompt=1171, Output=1407, Total=2578
+[2026-08-22 08:28:13] ✓ ch32/sec002.md (2744 chars) | Time: 10.79s | Tokens: Prompt=1171, Output=1372, Total=2543
+[2026-08-22 08:28:20] ✓ ch32/sec003.md (3013 chars) | Time: 7.2s | Tokens: Prompt=1258, Output=1506, Total=2764
+[2026-08-22 08:28:21] ✓ ch32/sec003.md (3066 chars) | Time: 9.3s | Tokens: Prompt=1258, Output=1533, Total=2791
+[2026-08-22 08:28:29] ✓ ch32/sec004.md (2906 chars) | Time: 7.53s | Tokens: Prompt=1216, Output=1453, Total=2669
+[2026-08-22 08:28:29] ✓ ch32/sec004.md (2814 chars) | Time: 8.62s | Tokens: Prompt=1216, Output=1407, Total=2623
+[2026-08-22 08:28:37] ✓ ch32/sec005.md (3651 chars) | Time: 8.17s | Tokens: Prompt=1368, Output=1825, Total=3193
+[2026-08-22 08:28:39] ✓ ch32/sec005.md (3538 chars) | Time: 10.06s | Tokens: Prompt=1368, Output=1769, Total=3137
+[2026-08-22 08:28:49] ✓ ch32/sec006.md (3285 chars) | Time: 12.05s | Tokens: Prompt=1315, Output=1642, Total=2957
+[2026-08-22 08:29:07] ✓ ch32/sec007.md (3120 chars) | Time: 18.21s | Tokens: Prompt=1278, Output=1560, Total=2838
+[2026-08-22 08:29:25] ✓ ch32/sec006.md (3189 chars) | Time: 45.82s | Tokens: Prompt=1315, Output=1594, Total=2909
+[2026-08-22 08:29:25] ✓ ch32/sec008.md (2940 chars) | Time: 18.15s | Tokens: Prompt=1270, Output=1470, Total=2740
+[2026-08-22 08:29:25] Processing ch33 with 12 pages...
+[2026-08-22 08:29:35] ✓ ch33/sec001.md (2623 chars) | Time: 9.47s | Tokens: Prompt=1169, Output=1311, Total=2480
+[2026-08-22 08:29:37] ✓ ch32/sec007.md (3204 chars) | Time: 11.99s | Tokens: Prompt=1278, Output=1602, Total=2880
+[2026-08-22 08:29:47] ✓ ch33/sec002.md (3719 chars) | Time: 12.7s | Tokens: Prompt=1455, Output=1859, Total=3314
+[2026-08-22 08:29:48] ✓ ch32/sec008.md (2967 chars) | Time: 11.04s | Tokens: Prompt=1270, Output=1483, Total=2753
+[2026-08-22 08:29:48] Processing ch33 with 12 pages...
+[2026-08-22 08:29:56] ✓ ch33/sec001.md (2630 chars) | Time: 8.37s | Tokens: Prompt=1169, Output=1315, Total=2484
+[2026-08-22 08:29:59] ✓ ch33/sec003.md (3299 chars) | Time: 11.86s | Tokens: Prompt=1329, Output=1649, Total=2978
+[2026-08-22 08:30:07] ✓ ch33/sec002.md (3643 chars) | Time: 10.35s | Tokens: Prompt=1455, Output=1821, Total=3276
+[2026-08-22 08:30:09] ✓ ch33/sec004.md (2972 chars) | Time: 9.83s | Tokens: Prompt=1230, Output=1486, Total=2716
+[2026-08-22 08:30:17] ✓ ch33/sec003.md (3258 chars) | Time: 10.08s | Tokens: Prompt=1329, Output=1629, Total=2958
+[2026-08-22 08:30:21] ✓ ch33/sec005.md (2741 chars) | Time: 12.32s | Tokens: Prompt=1202, Output=1370, Total=2572
+[2026-08-22 08:30:27] ✓ ch33/sec004.md (3034 chars) | Time: 10.75s | Tokens: Prompt=1230, Output=1517, Total=2747
+[2026-08-22 08:30:32] ✓ ch33/sec006.md (3396 chars) | Time: 10.63s | Tokens: Prompt=1325, Output=1698, Total=3023
+[2026-08-22 08:30:39] ✓ ch33/sec007.md (2841 chars) | Time: 6.88s | Tokens: Prompt=1224, Output=1420, Total=2644
+[2026-08-22 08:30:39] ✓ ch33/sec005.md (2666 chars) | Time: 11.76s | Tokens: Prompt=1202, Output=1333, Total=2535
+[2026-08-22 08:30:49] ✓ ch33/sec006.md (3364 chars) | Time: 9.59s | Tokens: Prompt=1325, Output=1682, Total=3007
+[2026-08-22 08:30:56] ✓ ch33/sec008.md (3411 chars) | Time: 17.14s | Tokens: Prompt=1326, Output=1705, Total=3031
+[2026-08-22 08:30:57] ✓ ch33/sec007.md (2954 chars) | Time: 7.8s | Tokens: Prompt=1224, Output=1477, Total=2701
+[2026-08-22 08:31:07] ✓ ch33/sec009.md (3320 chars) | Time: 11.13s | Tokens: Prompt=1340, Output=1660, Total=3000
+[2026-08-22 08:31:08] ✓ ch33/sec008.md (3499 chars) | Time: 11.41s | Tokens: Prompt=1326, Output=1749, Total=3075
+[2026-08-22 08:31:16] ✓ ch33/sec009.md (3363 chars) | Time: 7.77s | Tokens: Prompt=1340, Output=1681, Total=3021
+[2026-08-22 08:31:21] ✓ ch33/sec010.md (3260 chars) | Time: 13.72s | Tokens: Prompt=1304, Output=1630, Total=2934
+[2026-08-22 08:31:27] ✓ ch33/sec010.md (3277 chars) | Time: 10.66s | Tokens: Prompt=1304, Output=1638, Total=2942
+[2026-08-22 08:31:30] ✓ ch33/sec011.md (3013 chars) | Time: 8.86s | Tokens: Prompt=1293, Output=1506, Total=2799
+[2026-08-22 08:31:38] ✓ ch33/sec011.md (2949 chars) | Time: 11.0s | Tokens: Prompt=1293, Output=1474, Total=2767
+[2026-08-22 08:31:39] ✓ ch33/sec012.md (2998 chars) | Time: 9.18s | Tokens: Prompt=1260, Output=1499, Total=2759
+[2026-08-22 08:31:39] Processing ch34 with 5 pages...
+[2026-08-22 08:31:49] ✓ ch33/sec012.md (2957 chars) | Time: 11.62s | Tokens: Prompt=1260, Output=1478, Total=2738
+[2026-08-22 08:31:49] Processing ch34 with 5 pages...
+[2026-08-22 08:31:55] ✓ ch34/sec001.md (2974 chars) | Time: 6.09s | Tokens: Prompt=1231, Output=1487, Total=2718
+[2026-08-22 08:31:58] ✓ ch34/sec001.md (2936 chars) | Time: 19.14s | Tokens: Prompt=1231, Output=1468, Total=2699
+[2026-08-22 08:32:38] ✓ ch34/sec002.md (2973 chars) | Time: 39.66s | Tokens: Prompt=1281, Output=1486, Total=2767
+[2026-08-22 08:32:49] ✓ ch34/sec003.md (3070 chars) | Time: 11.0s | Tokens: Prompt=1266, Output=1535, Total=2801
+[2026-08-22 08:32:54] ✓ ch34/sec002.md (3014 chars) | Time: 58.41s | Tokens: Prompt=1281, Output=1507, Total=2788
+[2026-08-22 08:33:00] ✓ ch34/sec003.md (2976 chars) | Time: 6.06s | Tokens: Prompt=1266, Output=1488, Total=2754
+[2026-08-22 08:33:01] ✓ ch34/sec004.md (2950 chars) | Time: 12.24s | Tokens: Prompt=1234, Output=1475, Total=2709
+[2026-08-22 08:33:10] ✓ ch34/sec004.md (2973 chars) | Time: 10.08s | Tokens: Prompt=1234, Output=1486, Total=2720
+[2026-08-22 08:33:10] ✓ ch34/sec005.md (2968 chars) | Time: 8.78s | Tokens: Prompt=1281, Output=1484, Total=2765
+[2026-08-22 08:33:10] Processing ch35 with 11 pages...
+[2026-08-22 08:33:18] ✓ ch35/sec001.md (2384 chars) | Time: 7.94s | Tokens: Prompt=1108, Output=1192, Total=2300
+[2026-08-22 08:33:18] ✓ ch34/sec005.md (3025 chars) | Time: 8.19s | Tokens: Prompt=1281, Output=1512, Total=2793
+[2026-08-22 08:33:18] Processing ch35 with 11 pages...
+[2026-08-22 08:33:25] ✓ ch35/sec001.md (2420 chars) | Time: 6.5s | Tokens: Prompt=1108, Output=1210, Total=2318
+[2026-08-22 08:33:26] ✓ ch35/sec002.md (2295 chars) | Time: 8.24s | Tokens: Prompt=1104, Output=1147, Total=2251
+[2026-08-22 08:33:33] ✓ ch35/sec003.md (2521 chars) | Time: 6.68s | Tokens: Prompt=1117, Output=1260, Total=2377
+[2026-08-22 08:33:33] ✓ ch35/sec002.md (2427 chars) | Time: 8.65s | Tokens: Prompt=1104, Output=1213, Total=2317
+[2026-08-22 08:33:41] ✓ ch35/sec003.md (2307 chars) | Time: 7.97s | Tokens: Prompt=1117, Output=1153, Total=2270
+[2026-08-22 08:33:47] ✓ ch35/sec004.md (2430 chars) | Time: 14.26s | Tokens: Prompt=1118, Output=1215, Total=2333
+[2026-08-22 08:33:49] ✓ ch35/sec004.md (2374 chars) | Time: 7.95s | Tokens: Prompt=1118, Output=1187, Total=2305
+[2026-08-22 08:33:55] ✓ ch35/sec005.md (2490 chars) | Time: 6.25s | Tokens: Prompt=1159, Output=1245, Total=2404
+[2026-08-22 08:33:57] ✓ ch35/sec005.md (2365 chars) | Time: 9.71s | Tokens: Prompt=1159, Output=1182, Total=2341
+[2026-08-22 08:34:04] ✓ ch35/sec006.md (2302 chars) | Time: 8.54s | Tokens: Prompt=1134, Output=1151, Total=2285
+[2026-08-22 08:34:07] ✓ ch35/sec006.md (2303 chars) | Time: 9.9s | Tokens: Prompt=1134, Output=1151, Total=2285
+[2026-08-22 08:34:13] ✓ ch35/sec007.md (2365 chars) | Time: 9.23s | Tokens: Prompt=1150, Output=1182, Total=2332
+[2026-08-22 08:34:17] ✓ ch35/sec007.md (2432 chars) | Time: 10.27s | Tokens: Prompt=1150, Output=1216, Total=2366
+[2026-08-22 08:34:24] ✓ ch35/sec008.md (2638 chars) | Time: 10.75s | Tokens: Prompt=1153, Output=1319, Total=2472
+[2026-08-22 08:34:27] ✓ ch35/sec008.md (2455 chars) | Time: 9.53s | Tokens: Prompt=1153, Output=1227, Total=2380
+[2026-08-22 08:34:34] ✓ ch35/sec009.md (2694 chars) | Time: 10.31s | Tokens: Prompt=1149, Output=1347, Total=2496
+[2026-08-22 08:34:36] ✓ ch35/sec009.md (2627 chars) | Time: 9.21s | Tokens: Prompt=1149, Output=1313, Total=2462
+[2026-08-22 08:34:45] ✓ ch35/sec010.md (2760 chars) | Time: 10.49s | Tokens: Prompt=1250, Output=1380, Total=2630
+[2026-08-22 08:34:46] ✓ ch35/sec010.md (2709 chars) | Time: 10.55s | Tokens: Prompt=1250, Output=1354, Total=2604
+[2026-08-22 08:34:55] ✓ ch35/sec011.md (2796 chars) | Time: 10.52s | Tokens: Prompt=1258, Output=1398, Total=2656
+[2026-08-22 08:34:55] Processing ch36 with 8 pages...
+[2026-08-22 08:34:58] ✓ ch35/sec011.md (2923 chars) | Time: 12.12s | Tokens: Prompt=1258, Output=1461, Total=2719
+[2026-08-22 08:34:58] Processing ch36 with 8 pages...
+[2026-08-22 08:35:07] ✓ ch36/sec001.md (2932 chars) | Time: 11.47s | Tokens: Prompt=1240, Output=1466, Total=2706
+[2026-08-22 08:35:10] ✓ ch36/sec001.md (2846 chars) | Time: 11.63s | Tokens: Prompt=1240, Output=1423, Total=2663
+[2026-08-22 08:35:12] ✓ ch36/sec002.md (621 chars) | Time: 5.7s | Tokens: Prompt=1211, Output=310, Total=1521
+[2026-08-22 08:35:14] ✓ ch36/sec002.md (854 chars) | Time: 3.54s | Tokens: Prompt=1211, Output=427, Total=1638
+[2026-08-22 08:35:22] ✓ ch36/sec003.md (3032 chars) | Time: 9.61s | Tokens: Prompt=1298, Output=1516, Total=2814
+[2026-08-22 08:35:29] ✓ ch36/sec003.md (3132 chars) | Time: 15.38s | Tokens: Prompt=1298, Output=1566, Total=2864
+[2026-08-22 08:35:33] ✓ ch36/sec004.md (3270 chars) | Time: 10.78s | Tokens: Prompt=1353, Output=1635, Total=2988
+[2026-08-22 08:35:38] ✓ ch36/sec004.md (3154 chars) | Time: 9.39s | Tokens: Prompt=1353, Output=1577, Total=2930
+[2026-08-22 08:35:41] ✓ ch36/sec005.md (2669 chars) | Time: 8.36s | Tokens: Prompt=1214, Output=1334, Total=2548
+[2026-08-22 08:35:46] ✓ ch36/sec005.md (2657 chars) | Time: 8.04s | Tokens: Prompt=1214, Output=1328, Total=2542
+[2026-08-22 08:35:50] ✓ ch36/sec006.md (2778 chars) | Time: 9.01s | Tokens: Prompt=1237, Output=1389, Total=2626
+[2026-08-22 08:35:55] ✓ ch36/sec007.md (795 chars) | Time: 4.73s | Tokens: Prompt=1297, Output=397, Total=1694
+[2026-08-22 08:35:56] ✓ ch36/sec006.md (2998 chars) | Time: 9.31s | Tokens: Prompt=1237, Output=1499, Total=2736
+[2026-08-22 08:36:01] ✓ ch36/sec007.md (821 chars) | Time: 4.82s | Tokens: Prompt=1297, Output=410, Total=1707
+[2026-08-22 08:36:05] ✓ ch36/sec008.md (3112 chars) | Time: 9.66s | Tokens: Prompt=1292, Output=1556, Total=2848
+[2026-08-22 08:36:05] Processing ch37 with 10 pages...
+[2026-08-22 08:36:11] ✓ ch36/sec008.md (3115 chars) | Time: 10.76s | Tokens: Prompt=1292, Output=1557, Total=2849
+[2026-08-22 08:36:11] Processing ch37 with 10 pages...
+[2026-08-22 08:36:13] ✓ ch37/sec001.md (2863 chars) | Time: 8.6s | Tokens: Prompt=1225, Output=1431, Total=2656
+[2026-08-22 08:36:21] ✓ ch37/sec002.md (3015 chars) | Time: 7.59s | Tokens: Prompt=1278, Output=1507, Total=2785
+[2026-08-22 08:36:22] ✓ ch37/sec001.md (3003 chars) | Time: 10.8s | Tokens: Prompt=1225, Output=1501, Total=2726
+[2026-08-22 08:36:30] ✓ ch37/sec002.md (3047 chars) | Time: 7.52s | Tokens: Prompt=1278, Output=1523, Total=2801
+[2026-08-22 08:36:33] ✓ ch37/sec003.md (2859 chars) | Time: 11.84s | Tokens: Prompt=1242, Output=1429, Total=2671
+[2026-08-22 08:36:37] ✓ ch37/sec004.md (800 chars) | Time: 4.11s | Tokens: Prompt=1252, Output=400, Total=1652
+[2026-08-22 08:36:39] ✓ ch37/sec003.md (2792 chars) | Time: 8.93s | Tokens: Prompt=1242, Output=1396, Total=2638
+[2026-08-22 08:36:44] ✓ ch37/sec004.md (798 chars) | Time: 5.27s | Tokens: Prompt=1252, Output=399, Total=1651
+[2026-08-22 08:36:48] ✓ ch37/sec005.md (2883 chars) | Time: 11.46s | Tokens: Prompt=1250, Output=1441, Total=2691
+[2026-08-22 08:36:55] ✓ ch37/sec005.md (2916 chars) | Time: 10.78s | Tokens: Prompt=1250, Output=1458, Total=2708
+[2026-08-22 08:36:58] ✓ ch37/sec006.md (3025 chars) | Time: 9.62s | Tokens: Prompt=1244, Output=1512, Total=2756
+[2026-08-22 08:37:05] ✓ ch37/sec006.md (3092 chars) | Time: 9.9s | Tokens: Prompt=1244, Output=1546, Total=2790
+[2026-08-22 08:37:07] ✓ ch37/sec007.md (3166 chars) | Time: 8.74s | Tokens: Prompt=1263, Output=1583, Total=2846
+[2026-08-22 08:37:15] ✓ ch37/sec007.md (3144 chars) | Time: 10.43s | Tokens: Prompt=1263, Output=1572, Total=2835
+[2026-08-22 08:37:16] ✓ ch37/sec008.md (3214 chars) | Time: 9.43s | Tokens: Prompt=1289, Output=1607, Total=2896
+[2026-08-22 08:37:20] ✓ ch37/sec009.md (605 chars) | Time: 3.8s | Tokens: Prompt=1195, Output=302, Total=1497
+[2026-08-22 08:37:25] ✓ ch37/sec008.md (3195 chars) | Time: 9.82s | Tokens: Prompt=1289, Output=1597, Total=2886
+[2026-08-22 08:37:28] ✓ ch37/sec010.md (2750 chars) | Time: 7.88s | Tokens: Prompt=1204, Output=1375, Total=2579
+[2026-08-22 08:37:28] Processing ch38 with 17 pages...
+[2026-08-22 08:37:30] ✓ ch37/sec009.md (880 chars) | Time: 5.34s | Tokens: Prompt=1195, Output=440, Total=1635
+[2026-08-22 08:37:36] ✓ ch38/sec001.md (2236 chars) | Time: 8.56s | Tokens: Prompt=1082, Output=1118, Total=2200
+[2026-08-22 08:37:40] ✓ ch37/sec010.md (2731 chars) | Time: 9.47s | Tokens: Prompt=1204, Output=1365, Total=2569
+[2026-08-22 08:37:40] Processing ch38 with 17 pages...
+[2026-08-22 08:37:44] ✓ ch38/sec002.md (2176 chars) | Time: 7.73s | Tokens: Prompt=1076, Output=1088, Total=2164
+[2026-08-22 08:37:48] ✓ ch38/sec001.md (2245 chars) | Time: 7.97s | Tokens: Prompt=1082, Output=1122, Total=2204
+[2026-08-22 08:37:52] ✓ ch38/sec003.md (2332 chars) | Time: 7.58s | Tokens: Prompt=1080, Output=1166, Total=2246
+[2026-08-22 08:37:53] ✓ ch38/sec002.md (668 chars) | Time: 5.64s | Tokens: Prompt=1076, Output=334, Total=1410
+[2026-08-22 08:37:59] ✓ ch38/sec004.md (2494 chars) | Time: 7.14s | Tokens: Prompt=1148, Output=1247, Total=2395
+[2026-08-22 08:38:00] ✓ ch38/sec003.md (2259 chars) | Time: 6.53s | Tokens: Prompt=1080, Output=1129, Total=2209
+[2026-08-22 08:38:07] ✓ ch38/sec004.md (2543 chars) | Time: 7.36s | Tokens: Prompt=1148, Output=1271, Total=2419
+[2026-08-22 08:38:11] ✓ ch38/sec005.md (1702 chars) | Time: 11.76s | Tokens: Prompt=933, Output=851, Total=1784
+[2026-08-22 08:38:14] ✓ ch38/sec005.md (1641 chars) | Time: 6.27s | Tokens: Prompt=933, Output=820, Total=1753
+[2026-08-22 08:38:16] ✓ ch38/sec006.md (1372 chars) | Time: 5.13s | Tokens: Prompt=848, Output=686, Total=1534
+[2026-08-22 08:38:19] ✓ ch38/sec006.md (1381 chars) | Time: 5.23s | Tokens: Prompt=848, Output=690, Total=1538
+[2026-08-22 08:38:22] ✓ ch38/sec007.md (1879 chars) | Time: 5.75s | Tokens: Prompt=994, Output=939, Total=1933
+[2026-08-22 08:38:28] ✓ ch38/sec007.md (1884 chars) | Time: 8.88s | Tokens: Prompt=994, Output=942, Total=1936
+[2026-08-22 08:38:29] ✓ ch38/sec008.md (2211 chars) | Time: 7.81s | Tokens: Prompt=1021, Output=1105, Total=2126
+[2026-08-22 08:38:35] ✓ ch38/sec008.md (2205 chars) | Time: 7.64s | Tokens: Prompt=1021, Output=1102, Total=2123
+[2026-08-22 08:38:40] ✓ ch38/sec009.md (3047 chars) | Time: 10.06s | Tokens: Prompt=1283, Output=1523, Total=2806
+[2026-08-22 08:38:50] ✓ ch38/sec010.md (3344 chars) | Time: 10.02s | Tokens: Prompt=1340, Output=1672, Total=3012
+[2026-08-22 08:38:52] ✓ ch38/sec009.md (3123 chars) | Time: 16.45s | Tokens: Prompt=1283, Output=1561, Total=2844
+[2026-08-22 08:39:01] ✓ ch38/sec011.md (2855 chars) | Time: 11.19s | Tokens: Prompt=1217, Output=1427, Total=2644
+[2026-08-22 08:39:03] ✓ ch38/sec010.md (3448 chars) | Time: 10.94s | Tokens: Prompt=1340, Output=1724, Total=3064
+[2026-08-22 08:39:10] ✓ ch38/sec012.md (2807 chars) | Time: 9.55s | Tokens: Prompt=1215, Output=1403, Total=2618
+[2026-08-22 08:39:13] ✓ ch38/sec011.md (2789 chars) | Time: 9.8s | Tokens: Prompt=1217, Output=1394, Total=2611
+[2026-08-22 08:39:19] ✓ ch38/sec013.md (3251 chars) | Time: 9.12s | Tokens: Prompt=1318, Output=1625, Total=2943
+[2026-08-22 08:39:22] ✓ ch38/sec012.md (2768 chars) | Time: 9.41s | Tokens: Prompt=1215, Output=1384, Total=2599
+[2026-08-22 08:39:27] ✓ ch38/sec014.md (2971 chars) | Time: 7.1s | Tokens: Prompt=1273, Output=1485, Total=2758
+[2026-08-22 08:39:33] ✓ ch38/sec013.md (3361 chars) | Time: 10.65s | Tokens: Prompt=1318, Output=1680, Total=2998
+[2026-08-22 08:39:36] ✓ ch38/sec015.md (3021 chars) | Time: 9.16s | Tokens: Prompt=1263, Output=1510, Total=2773
+[2026-08-22 08:39:40] ✓ ch38/sec014.md (2979 chars) | Time: 7.0s | Tokens: Prompt=1273, Output=1489, Total=2762
+[2026-08-22 08:39:47] ✓ ch38/sec016.md (3552 chars) | Time: 11.44s | Tokens: Prompt=1355, Output=1776, Total=3131
+[2026-08-22 08:39:51] ✓ ch38/sec015.md (3086 chars) | Time: 10.84s | Tokens: Prompt=1263, Output=1543, Total=2806
+[2026-08-22 08:39:56] ✓ ch38/sec017.md (3130 chars) | Time: 8.44s | Tokens: Prompt=1264, Output=1565, Total=2829
+[2026-08-22 08:39:56] Processing ch39 with 13 pages...
+[2026-08-22 08:39:59] ✓ ch38/sec016.md (3658 chars) | Time: 8.67s | Tokens: Prompt=1355, Output=1829, Total=3184
+[2026-08-22 08:40:06] ✓ ch39/sec001.md (2544 chars) | Time: 10.1s | Tokens: Prompt=1189, Output=1272, Total=2461
+[2026-08-22 08:40:10] ✓ ch38/sec017.md (3006 chars) | Time: 10.7s | Tokens: Prompt=1264, Output=1503, Total=2767
+[2026-08-22 08:40:10] Processing ch39 with 13 pages...
+[2026-08-22 08:40:16] ✓ ch39/sec002.md (2688 chars) | Time: 10.55s | Tokens: Prompt=1148, Output=1344, Total=2492
+[2026-08-22 08:40:19] ✓ ch39/sec001.md (2507 chars) | Time: 8.94s | Tokens: Prompt=1189, Output=1253, Total=2442
+[2026-08-22 08:40:22] ✓ ch39/sec003.md (2609 chars) | Time: 6.03s | Tokens: Prompt=1172, Output=1304, Total=2476
+[2026-08-22 08:40:27] ✓ ch39/sec002.md (2677 chars) | Time: 8.1s | Tokens: Prompt=1148, Output=1338, Total=2486
+[2026-08-22 08:40:27] ✓ ch39/sec004.md (2155 chars) | Time: 4.83s | Tokens: Prompt=1058, Output=1077, Total=2135
+[2026-08-22 08:40:34] ✓ ch39/sec005.md (2762 chars) | Time: 7.13s | Tokens: Prompt=1153, Output=1381, Total=2534
+[2026-08-22 08:40:35] ✓ ch39/sec003.md (2601 chars) | Time: 8.33s | Tokens: Prompt=1172, Output=1300, Total=2472
+[2026-08-22 08:40:42] ✓ ch39/sec004.md (2134 chars) | Time: 7.01s | Tokens: Prompt=1058, Output=1067, Total=2125
+[2026-08-22 08:40:44] ✓ ch39/sec006.md (2758 chars) | Time: 10.09s | Tokens: Prompt=1162, Output=1379, Total=2541
+[2026-08-22 08:40:52] ✓ ch39/sec005.md (2786 chars) | Time: 9.45s | Tokens: Prompt=1153, Output=1393, Total=2546
+[2026-08-22 08:40:53] ✓ ch39/sec007.md (2600 chars) | Time: 8.18s | Tokens: Prompt=1149, Output=1300, Total=2449
+[2026-08-22 08:40:59] ✓ ch39/sec006.md (2757 chars) | Time: 7.56s | Tokens: Prompt=1162, Output=1378, Total=2540
+[2026-08-22 08:41:02] ✓ ch39/sec008.md (2774 chars) | Time: 8.92s | Tokens: Prompt=1163, Output=1387, Total=2550
+[2026-08-22 08:41:05] ✓ ch39/sec007.md (2559 chars) | Time: 5.87s | Tokens: Prompt=1149, Output=1279, Total=2428
+[2026-08-22 08:41:17] ✓ ch39/sec008.md (2793 chars) | Time: 11.14s | Tokens: Prompt=1163, Output=1396, Total=2559
+[2026-08-22 08:41:24] ✓ ch39/sec009.md (2757 chars) | Time: 7.86s | Tokens: Prompt=1146, Output=1378, Total=2524
+[2026-08-22 08:41:30] ✓ ch39/sec009.md (2844 chars) | Time: 27.92s | Tokens: Prompt=1146, Output=1422, Total=2568
+[2026-08-22 08:41:36] ✓ ch39/sec010.md (2556 chars) | Time: 11.28s | Tokens: Prompt=1137, Output=1278, Total=2415
+[2026-08-22 08:41:38] ✓ ch39/sec010.md (2661 chars) | Time: 8.84s | Tokens: Prompt=1137, Output=1330, Total=2467
+[2026-08-22 08:41:47] ✓ ch39/sec011.md (2493 chars) | Time: 8.66s | Tokens: Prompt=1137, Output=1246, Total=2383
+[2026-08-22 08:41:48] ✓ ch39/sec011.md (2644 chars) | Time: 12.72s | Tokens: Prompt=1137, Output=1322, Total=2459
+[2026-08-22 08:41:57] ✓ ch39/sec012.md (2585 chars) | Time: 8.59s | Tokens: Prompt=1121, Output=1292, Total=2413
+[2026-08-22 08:41:59] ✓ ch39/sec012.md (2426 chars) | Time: 11.83s | Tokens: Prompt=1121, Output=1213, Total=2334
+[2026-08-22 08:42:05] ✓ ch39/sec013.md (2746 chars) | Time: 8.34s | Tokens: Prompt=1156, Output=1373, Total=2529
+[2026-08-22 08:42:05] Processing ch40 with 16 pages...
+[2026-08-22 08:42:06] ✓ ch39/sec013.md (2613 chars) | Time: 7.59s | Tokens: Prompt=1156, Output=1306, Total=2462
+[2026-08-22 08:42:06] Processing ch40 with 16 pages...
+[2026-08-22 08:42:12] ✓ ch40/sec001.md (2879 chars) | Time: 7.05s | Tokens: Prompt=1210, Output=1439, Total=2649
+[2026-08-22 08:42:16] ✓ ch40/sec001.md (2812 chars) | Time: 9.63s | Tokens: Prompt=1210, Output=1406, Total=2616
+[2026-08-22 08:42:22] ✓ ch40/sec002.md (3431 chars) | Time: 10.03s | Tokens: Prompt=1334, Output=1715, Total=3049
+[2026-08-22 08:42:23] ✓ ch40/sec002.md (3516 chars) | Time: 7.21s | Tokens: Prompt=1334, Output=1758, Total=3092
+[2026-08-22 08:42:31] ✓ ch40/sec003.md (1076 chars) | Time: 8.3s | Tokens: Prompt=1267, Output=538, Total=1805
+[2026-08-22 08:42:31] ✓ ch40/sec003.md (2963 chars) | Time: 7.95s | Tokens: Prompt=1267, Output=1481, Total=2748
+[2026-08-22 08:42:40] ✓ ch40/sec004.md (3265 chars) | Time: 9.64s | Tokens: Prompt=1293, Output=1632, Total=2925
+[2026-08-22 08:42:43] ✓ ch40/sec004.md (3272 chars) | Time: 12.13s | Tokens: Prompt=1293, Output=1636, Total=2929
+[2026-08-22 08:42:49] ✓ ch40/sec005.md (2405 chars) | Time: 8.73s | Tokens: Prompt=1103, Output=1202, Total=2305
+[2026-08-22 08:42:53] ✓ ch40/sec005.md (2457 chars) | Time: 9.35s | Tokens: Prompt=1103, Output=1228, Total=2331
+[2026-08-22 08:42:58] ✓ ch40/sec006.md (3099 chars) | Time: 8.83s | Tokens: Prompt=1254, Output=1549, Total=2803
+[2026-08-22 08:43:02] ✓ ch40/sec006.md (3080 chars) | Time: 9.11s | Tokens: Prompt=1254, Output=1540, Total=2794
+[2026-08-22 08:43:06] ✓ ch40/sec007.md (2631 chars) | Time: 7.55s | Tokens: Prompt=1141, Output=1315, Total=2456
+[2026-08-22 08:43:11] ✓ ch40/sec007.md (2538 chars) | Time: 9.14s | Tokens: Prompt=1141, Output=1269, Total=2410
+[2026-08-22 08:43:15] ✓ ch40/sec008.md (2786 chars) | Time: 9.19s | Tokens: Prompt=1240, Output=1393, Total=2633
+[2026-08-22 08:43:20] ✓ ch40/sec008.md (2777 chars) | Time: 8.99s | Tokens: Prompt=1240, Output=1388, Total=2628
+[2026-08-22 08:43:25] ✓ ch40/sec009.md (2802 chars) | Time: 10.25s | Tokens: Prompt=1230, Output=1401, Total=2631
+[2026-08-22 08:43:30] ✓ ch40/sec009.md (2864 chars) | Time: 10.15s | Tokens: Prompt=1230, Output=1432, Total=2662
+[2026-08-22 08:43:34] ✓ ch40/sec010.md (2920 chars) | Time: 9.2s | Tokens: Prompt=1266, Output=1460, Total=2726
+[2026-08-22 08:43:40] ✓ ch40/sec010.md (2934 chars) | Time: 9.69s | Tokens: Prompt=1266, Output=1467, Total=2733
+[2026-08-22 08:43:42] ✓ ch40/sec011.md (2710 chars) | Time: 8.05s | Tokens: Prompt=1184, Output=1355, Total=2539
+[2026-08-22 08:43:47] ✓ ch40/sec011.md (2792 chars) | Time: 6.59s | Tokens: Prompt=1184, Output=1396, Total=2580
+[2026-08-22 08:43:50] ✓ ch40/sec012.md (2787 chars) | Time: 7.77s | Tokens: Prompt=1226, Output=1393, Total=2619
+[2026-08-22 08:43:57] ✓ ch40/sec012.md (2824 chars) | Time: 10.31s | Tokens: Prompt=1226, Output=1412, Total=2638
+[2026-08-22 08:44:00] ✓ ch40/sec013.md (3094 chars) | Time: 9.66s | Tokens: Prompt=1219, Output=1547, Total=2766
+[2026-08-22 08:44:03] ✓ ch40/sec013.md (3026 chars) | Time: 6.33s | Tokens: Prompt=1219, Output=1513, Total=2732
+[2026-08-22 08:44:08] ✓ ch40/sec014.md (2604 chars) | Time: 8.58s | Tokens: Prompt=1201, Output=1302, Total=2503
+[2026-08-22 08:44:14] ✓ ch40/sec014.md (2728 chars) | Time: 10.48s | Tokens: Prompt=1201, Output=1364, Total=2565
+[2026-08-22 08:44:18] ✓ ch40/sec015.md (2828 chars) | Time: 9.27s | Tokens: Prompt=1242, Output=1414, Total=2656
+[2026-08-22 08:44:22] ✓ ch40/sec015.md (2779 chars) | Time: 8.24s | Tokens: Prompt=1242, Output=1389, Total=2631
+[2026-08-22 08:44:25] ✓ ch40/sec016.md (2579 chars) | Time: 7.41s | Tokens: Prompt=1164, Output=1289, Total=2453
+[2026-08-22 08:44:25] Processing ch41 with 7 pages...
+[2026-08-22 08:44:31] ✓ ch40/sec016.md (2581 chars) | Time: 8.83s | Tokens: Prompt=1164, Output=1290, Total=2454
+[2026-08-22 08:44:31] Processing ch41 with 7 pages...
+[2026-08-22 08:44:36] ✓ ch41/sec001.md (2935 chars) | Time: 11.22s | Tokens: Prompt=1263, Output=1467, Total=2730
+[2026-08-22 08:44:42] ✓ ch41/sec001.md (2983 chars) | Time: 11.03s | Tokens: Prompt=1263, Output=1491, Total=2754
+[2026-08-22 08:44:46] ✓ ch41/sec002.md (3597 chars) | Time: 9.88s | Tokens: Prompt=1408, Output=1798, Total=3206
+[2026-08-22 08:44:52] ✓ ch41/sec002.md (3718 chars) | Time: 10.1s | Tokens: Prompt=1408, Output=1859, Total=3267
+[2026-08-22 08:44:56] ✓ ch41/sec003.md (2869 chars) | Time: 9.93s | Tokens: Prompt=1245, Output=1434, Total=2679
+[2026-08-22 08:55:04] === Starting HP7 Priority Finalizer ===
+[2026-08-22 08:55:16] Attempt 1 failed for ch41/sec004.md: Expecting value: line 1 column 1 (char 0)
+[2026-08-22 08:55:31] Attempt 2 failed for ch41/sec004.md: Expecting value: line 1 column 1 (char 0)
+[2026-08-22 08:55:44] Attempt 3 failed for ch41/sec004.md: Expecting value: line 1 column 1 (char 0)
+[2026-08-22 08:55:50] === Starting HP7 Priority Finalizer ===
+[2026-08-22 08:56:05] ✓ ch41/sec004.md (3133 chars) | Time: 15.13s | Tokens: 6622
+[2026-08-22 08:56:18] ✓ ch41/sec005.md (3187 chars) | Time: 12.98s | Tokens: 6599
+[2026-08-22 08:56:32] ✓ ch41/sec006.md (3093 chars) | Time: 14.74s | Tokens: 6585
+[2026-08-22 08:56:46] ✓ ch41/sec007.md (3148 chars) | Time: 13.72s | Tokens: 6630
+[2026-08-22 08:56:55] ✓ ch42/sec001.md (641 chars) | Time: 8.54s | Tokens: 4353
+[2026-08-22 08:57:07] ✓ ch42/sec002.md (2716 chars) | Time: 11.77s | Tokens: 6063
+[2026-08-22 08:57:14] ✓ ch42/sec003.md (823 chars) | Time: 7.88s | Tokens: 4446
+[2026-08-22 08:57:27] ✓ ch42/sec004.md (3321 chars) | Time: 12.18s | Tokens: 6791
+[2026-08-22 08:57:39] ✓ ch42/sec005.md (2768 chars) | Time: 12.84s | Tokens: 6262
+[2026-08-22 08:57:53] ✓ ch42/sec006.md (3129 chars) | Time: 13.53s | Tokens: 6510
+[2026-08-22 08:58:08] ✓ ch42/sec007.md (3449 chars) | Time: 15.13s | Tokens: 6890
+[2026-08-22 08:58:15] ✓ ch42/sec008.md (884 chars) | Time: 7.23s | Tokens: 4486
+[2026-08-22 08:58:22] ✓ ch42/sec009.md (919 chars) | Time: 6.21s | Tokens: 3965
+[2026-08-22 08:58:32] ✓ ch43/sec001.md (551 chars) | Time: 10.83s | Tokens: 4661
+[2026-08-22 08:58:42] ✓ ch43/sec002.md (2314 chars) | Time: 9.83s | Tokens: 5328
+[2026-08-22 08:58:57] ✓ ch43/sec003.md (2851 chars) | Time: 14.33s | Tokens: 6026
+[2026-08-22 08:59:10] ✓ ch43/sec004.md (2749 chars) | Time: 13.44s | Tokens: 5333
+[2026-08-22 08:59:23] ✓ ch43/sec005.md (2689 chars) | Time: 13.33s | Tokens: 5764
+[2026-08-22 08:59:36] ✓ ch43/sec006.md (3270 chars) | Time: 12.76s | Tokens: 4782
+[2026-08-22 08:59:51] ✓ ch43/sec007.md (3570 chars) | Time: 14.82s | Tokens: 7155
+[2026-08-22 09:00:07] ✓ ch43/sec008.md (3348 chars) | Time: 15.75s | Tokens: 6973
+[2026-08-22 09:00:21] ✓ ch43/sec009.md (3095 chars) | Time: 13.78s | Tokens: 6725
+[2026-08-22 09:00:34] ✓ ch43/sec010.md (3335 chars) | Time: 13.85s | Tokens: 6870
+[2026-08-22 09:00:51] ✓ ch43/sec011.md (3186 chars) | Time: 16.54s | Tokens: 6800
+[2026-08-22 09:01:08] ✓ ch43/sec012.md (3502 chars) | Time: 17.23s | Tokens: 7107
+[2026-08-22 09:01:23] ✓ ch43/sec013.md (3239 chars) | Time: 14.85s | Tokens: 6565
+[2026-08-22 09:01:39] ✓ ch43/sec014.md (3218 chars) | Time: 15.47s | Tokens: 6876
+[2026-08-22 09:01:50] ✓ ch43/sec015.md (2742 chars) | Time: 11.24s | Tokens: 5961
+[2026-08-22 09:02:11] ✓ ch43/sec016.md (2959 chars) | Time: 20.84s | Tokens: 6508
+[2026-08-22 09:02:25] ✓ ch43/sec017.md (2824 chars) | Time: 14.73s | Tokens: 6294
+[2026-08-22 09:02:36] ✓ ch43/sec018.md (1351 chars) | Time: 10.73s | Tokens: 4846
+[2026-08-22 09:02:36] === HP7 Translation 100% Complete! ===

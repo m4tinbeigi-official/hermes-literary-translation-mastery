@@ -1,0 +1,46 @@
+It was very cold outside the car. Uncle Vernon was pointing at what looked like a large rock way 
+out at sea. Perched on top of the rock was the most miserable little shack you could imagine. One 
+thing was certain, there was no television in there. 
+ 
+ «Storm forecast for tonight!» said Uncle Vernon gleefully, clapping his hands together. «And this 
+gentleman’s kindly agreed to lend us his boat!» 
+ 
+ A toothless old man came ambling up to them, pointing, with a rather wicked grin, at an old 
+rowboat bobbing in the iron-gray water below them. 
+ 
+ «I’ve already got us some rations,» said Uncle Vernon, «so all aboard!» 
+ 
+ It was freezing in the boat. Icy sea spray and rain crept down their necks and a chilly wind 
+whipped their faces. After what seemed like hours they reached the rock, where Uncle Vernon, 
+slipping and sliding, led the way to the broken-down house. 
+ 
+ The inside was horrible; it smelled strongly of seaweed, the wind whistled through the gaps in 
+the wooden walls, and the fireplace was damp and empty. There were only two rooms. 
+ 
+ Uncle Vernon’s rations turned out to be a bag of chips each and four bananas. He tried to start a 
+fire but the empty chip bags just smoked and shriveled up. 
+ 
+ «Could do with some of those letters now, eh?» he said cheerfully. 
+ 
+ He was in a very good mood. Obviously he thought nobody stood a chance of reaching them 
+here in a storm to deliver mail. Harry privately agreed, though the thought didn’t cheer him up at 
+all. 
+ 
+ As night fell, the promised storm blew up around them. Spray from the high waves splattered the 
+walls of the hut and a fierce wind rattled the filthy windows. Aunt Petunia found a few moldy 
+blankets in the second room and made up a bed for Dudley on the moth-eaten sofa. She and 
+Uncle Vernon went off to the lumpy bed next door, and Harry was left to find the softest bit of 
+floor he could and to curl up under the thinnest, most ragged blanket. 
+ 
+ The storm raged more and more ferociously as the night went on. Harry couldn’t sleep. He 
+shivered and turned over, trying to get comfortable, his stomach rumbling with hunger. Dudley’s 
+snores were drowned by the low rolls of thunder that started near midnight. The lighted dial of 
+Dudley’s watch, which was dangling over the edge of the sofa on his fat wrist, told Harry he’d be 
+eleven in ten minutes’ time. He lay and watched his birthday tick nearer, wondering if the 
+Dursleys would remember at all, wondering where the letter writer was now. 
+ 
+ Five minutes to go. Harry heard something creak outside. He hoped the roof wasn’t going to fall 
+in, although he might be warmer if it did. Four minutes to go. Maybe the house in Privet Drive 
+would be so full of letters when they got back that he’d be able to steal one somehow. 
+ 
+ Three minutes to go. Was that the sea, slapping hard on the rock like that? And (two minutes to

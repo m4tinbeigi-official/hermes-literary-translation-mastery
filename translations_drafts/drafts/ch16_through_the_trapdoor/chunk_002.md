@@ -1,0 +1,46 @@
+yet.» 
+ 
+ Harry was rubbing his forehead. 
+ 
+ «I wish I knew what this means!» he burst out angrily. «My scar keeps hurting، it’s happened 
+before, but never as often as this.» 
+ 
+ «Go to Madam Pomfrey,» Hermione suggested. 
+ 
+ «I’m not ill,» said Harry. «I think it’s a warning… it means danger’s coming…» 
+ 
+ Ron couldn’t get worked up, it was too hot. 
+ 
+ «Harry, relax, Hermione’s right, the Stone’s safe as long as Dumbledore’s around. Anyway, 
+we’ve never had any proof Snape found out how to get past Fluffy. He nearly had his leg ripped 
+off once, he’s not going to try it again in a hurry. And Neville will play Quidditch for England 
+before Hagrid lets Dumbledore down.» 
+ 
+ Harry nodded, but he couldn’t shake off a lurking feeling that there was something he’d 
+forgotten to do, something important. When he tried to explain this, Hermione said, «That’s just 
+the exams. I woke up last night and was halfway through my Transfiguration notes before I 
+remembered we’d done that one.» 
+ 
+ Harry was quite sure the unsettled feeling didn’t have anything to do with work, though. He 
+watched an owl flutter toward the school across the bright blue sky, a note clamped in its mouth. 
+Hagrid was the only one who ever sent him letters. Hagrid would never betray Dumbledore. 
+Hagrid would never tell anyone how to get past Fluffy… never… but… 
+ 
+ Harry suddenly jumped to his feet. 
+ 
+ «Where’re you going?» said Ron sleepily. 
+ 
+ «I’ve just thought of something,» said Harry. He had turned white. «We’ve got to go and see 
+Hagrid, now.» 
+ 
+ «Why?» panted Hermione, hurrying to keep up. 
+ 
+ «Don’t you think it’s a bit odd,» said Harry, scrambling up the grassy slope, «that what Hagrid 
+wants more than anything else is a dragon, and a stranger turns up who just happens to have an 
+egg in his pocket? How many people wander around with dragon eggs if it’s against wizard law? 
+Lucky they found Hagrid, don’t you think? Why didn’t I see it before?» 
+ 
+ «What are you talking about?» said Ron, but Harry, sprinting across the grounds toward the 
+forest, didn’t answer. 
+ 
+ Hagrid was sitting in an armchair outside his house; his trousers and sleeves were rolled up, and

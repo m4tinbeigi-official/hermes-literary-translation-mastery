@@ -1,0 +1,45 @@
+«Knuts?» 
+ 
+ «The little bronze ones.» 
+ 
+ Harry counted out five little bronze coins, and the owl held out his leg so Harry could put the 
+money into a small leather pouch tied to it. Then he flew off through the open window. 
+ 
+ Hagrid yawned loudly, sat up, and stretched. 
+ 
+ «Best be off, Harry, lots ter do today, gotta get up ter London an’ buy all yer stuff fer school.» 
+ 
+ Harry was turning over the wizard coins and looking at them. He had just thought of something 
+that made him feel as though the happy balloon inside him had got a puncture. 
+ 
+ «Um، Hagrid?» 
+ 
+ «Mm?» said Hagrid, who was pulling on his huge boots. 
+ 
+ «I haven’t got any money، and you heard Uncle Vernon last night… he won’t pay for me to go 
+and learn magic.» 
+ 
+ «Don’t worry about that,» said Hagrid, standing up and scratching his head. «D’yeh think yer 
+parents didn’t leave yeh anything?» 
+ 
+ «But if their house was destroyed، » 
+ 
+ «They didn’ keep their gold in the house, boy! Nah, first stop fer us is Gringotts. Wizards’ bank. 
+Have a sausage, they’re not bad cold، an’ I wouldn’ say no teh a bit o’ yer birthday cake, 
+neither.» 
+ 
+ «Wizards have banks?» 
+ 
+ «Just the one. Gringotts. Run by goblins.» 
+ 
+ Harry dropped the bit of sausage he was holding. 
+ 
+ «Goblins?» 
+ 
+ «Yeah، so yeh’d be mad ter try an’ rob it, I’ll tell yeh that. Never mess with goblins, Harry. 
+Gringotts is the safest place in the world fer anything yeh want ter keep safe، ‘cept maybe 
+Hogwarts. As a matter o’ fact, I gotta visit Gringotts anyway. Fer Dumbledore. Hogwarts 
+business.» Hagrid drew himself up proudly. «He usually gets me ter do important stuff fer him. 
+Fetchin’ you، gettin’ things from Gringotts، knows he can trust me, see.» 
+ 
+ «Got everythin’? Come on, then.»

@@ -1,0 +1,9 @@
+it. He asked if he knew how to get past Fluffy، and he said something about Quirrell’s ‘hocus 
+pocus’، I reckon there are other things guarding the stone apart from Fluffy, loads of 
+enchantments, probably, and Quirrell would have done some anti-Dark Arts spell that Snape 
+needs to break through، » 
+ 
+ «So you mean the Stone’s only safe as long as Quirrell stands up to Snape?» said Hermione in 
+alarm. 
+ 
+ «It’ll be gone by next Tuesday,» said Ron.

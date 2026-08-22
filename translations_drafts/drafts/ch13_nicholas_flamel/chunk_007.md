@@ -1,0 +1,45 @@
+The stands erupted; it had to be a record, no one could ever remember the Snitch being caught so 
+quickly. 
+ 
+ «Ron! Ron! Where are you? The game’s over! Harry’s won! We’ve won! Gryffindor is in the 
+lead!» shrieked Hermione, dancing up and down on her seat and hugging Parvati Patil in the row 
+in front. 
+ 
+ Harry jumped off his broom, a foot from the ground. He couldn’t believe it. He’d done it، the 
+game was over; it had barely lasted five minutes. As Gryffindors came spilling onto the field, he 
+saw Snape land nearby, white-faced and tight-lipped، then Harry felt a hand on his shoulder 
+and looked up into Dumbledore’s smiling face. 
+ 
+ «Well done,» said Dumbledore quietly, so that only Harry could hear. «Nice to see you haven’t 
+been brooding about that mirror… been keeping busy… excellent…» 
+ 
+ Snape spat bitterly on the ground. 
+ 
+ Harry left the locker room alone some time late r, to take his Nimbus Two Thousand back to the 
+broomshed. He couldn’t ever remember feeling happier. He’d really done something to be proud 
+of now، no one could say he was just a famous name any more. The evening air had never 
+smelled so sweet. He walked over the damp grass, reliving the last hour in his head, which was a 
+happy blur: Gryffindors running to lift him onto their shoulders; Ron and Hermione in the 
+distance, jumping up and down, Ron cheering through a heavy nosebleed. 
+ 
+ Harry had reached the shed. He leaned against the wooden door and looked up at Hogwarts, with 
+its windows glowing red in the setting sun. Gryffindor in the lead. He’d done it, he’d shown 
+Snape… 
+ 
+ And speaking of Snape… 
+ 
+ A hooded figure came swiftly down the front steps of the castle. Clearly not wanting to be seen, 
+it walked as fast as possible toward the forbidden forest. Harry’s victory faded from his mind as 
+he watched. He recognized the figure’s prowling walk. Snape, sneaking into the forest while 
+everyone else was at dinner، what was going on? 
+ 
+ Harry jumped back on his Nimbus Two Thousand and took off. Gliding silently over the castle 
+he saw Snape enter the forest at a run. He followed. 
+ 
+ The trees were so thick he couldn’t see where Snape had gone. He flew in circles, lower and 
+lower, brushing the top branches of trees until he heard voices. He glided toward them and 
+landed noiselessly in a towering beech tree. 
+ 
+ He climbed carefully along one of the branches, holding tight to his broomstick, trying to see 
+through the leaves. 
+ Below, in a shadowy clearing, stood Snape, but he wasn’t alone. Quirrell was there, too. Harry

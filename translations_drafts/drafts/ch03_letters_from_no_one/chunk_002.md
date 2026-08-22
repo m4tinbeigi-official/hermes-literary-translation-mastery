@@ -1,0 +1,46 @@
+of what looked like dirty rags swimming in gray water. 
+ 
+ «What’s this?» he asked Aunt Petunia. Her lips tightened as they always did if he dared to ask a 
+question. 
+ 
+ «Your new school uniform,» she said. 
+ 
+ Harry looked in the bowl again. 
+ 
+ «Oh,» he said, «I didn’t realize it had to be so wet.» 
+ 
+ «Don’t be stupid,» snapped Aunt Petunia. «I’m dyeing some of Dudley’s old things gray for you. 
+It’ll look just like everyone else’s when I’ve finished.» 
+ 
+ Harry seriously doubted this, but thought it best not to argue. He sat down at the table and tried 
+not to think about how he was going to look on his first day at Stonewall High، like he was 
+wearing bits of old elephant skin, probably. 
+ 
+ Dudley and Uncle Vernon came in, both with wrinkled noses because of the smell from Harry’s 
+new uniform. Uncle Vernon opened his newspaper as usual and Dudley banged his Smelting 
+stick, which he carried everywhere, on the table. 
+ 
+ They heard the click of the mail slot and flop of letters on the doormat. 
+ 
+ «Get the mail, Dudley,» said Uncle Vernon from behind his paper. 
+ 
+ «Make Harry get it.» 
+ 
+ «Get the mail, Harry.» 
+ 
+ «Make Dudley get it.» 
+ 
+ «Poke him with your Smelting stick, Dudley.» 
+ 
+ Harry dodged the Smelting stick and went to get the mail. Three things lay on the doormat: a 
+postcard from Uncle Vernon’s sister Marge, who was vacationing on the Isle of Wight, a brown 
+envelope that looked like a bill, and، a letter for Harry. 
+ 
+ Harry picked it up and stared at it, his heart twanging like a giant elastic band. No one, ever, in 
+his whole life, had written to him. Who would? He had no friends, no other relatives، he didn’t 
+belong to the library, so he’d never even got rude notes asking for books back. Yet here it was, a 
+letter, addressed so plainly there could be no mistake: 
+ 
+ Mr. H. Potter 
+ 
+ The Cupboard under the Stairs

@@ -1,0 +1,46 @@
+«Shut up!» Harry whispered. 
+ 
+ Malfoy was only a few feet away and he had stopped dead to listen. How much had he heard? 
+Harry didn’t like the look on Malfoy’s face at all. 
+ 
+ Ron and Hermione argued all the way to Herbology and in the end, Hermione agreed to run 
+down to Hagrid’s with the other two during morning break. When the bell sounded from the 
+castle at the end of their lesson, the three of them dropped their trowels at once and hurried 
+through the grounds to the edge of the forest. Hagrid greeted them, looking flushed and excited. 
+ 
+ «It’s nearly out.» He ushered them inside. 
+ 
+ The egg was lying on the table. There were deep cracks in it. Something was moving inside; a 
+funny clicking noise was coming from it. 
+ 
+ They all drew their chairs up to the table and watched with bated breath. 
+ 
+ All at once there was a scraping noise and the egg split open. The baby dragon flopped onto the 
+table. It wasn’t exactly pretty; Harry thought it looked like a crumpled, black umbrella. Its spiny 
+wings were huge compared to its skinny jet body, it had a long snout with wide nostrils, the stubs 
+of horns and bulging, orange eyes. 
+ 
+ It sneezed. A couple of sparks flew out of its snout. 
+ 
+ «Isn’t he beautiful?» Hagrid murmured. He reached out a hand to stroke the dragon’s head. It 
+snapped at his fingers, showing pointed fangs. 
+ 
+ «Bless him, look, he knows his mommy!» said Hagrid. 
+ 
+ «Hagrid,» said Hermione, «how fast do Norwegian Ridgebacks grow, exactly?» 
+ 
+ Hagrid was about to answer when the color suddenly drained from his face، he leapt to his feet 
+and ran to the window. 
+ 
+ «What’s the matter?» 
+ 
+ «Someone was lookin’ through the gap in the curtains، it’s a kid، he’s runnin’ back up ter 
+the school.» 
+ 
+ Harry bolted to the door and looked out. Even at a distance there was no mistaking him. 
+ 
+ Malfoy had seen the dragon. 
+ 
+ Something about the smile lurking on Malfoy’ s face during the next week made Harry, Ron, and 
+Hermione very nervous. They spent most of their free time in Hagrid’s darkened hut, trying to 
+reason with him.

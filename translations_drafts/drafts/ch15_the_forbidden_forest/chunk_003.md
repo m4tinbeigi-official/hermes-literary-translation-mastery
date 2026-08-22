@@ -1,0 +1,44 @@
+ashamed of himself that he went to Wood and offered to resign from the Quidditch team. 
+ 
+ «Resign?» Wood thundered. «What good’ll that do? How are we going to get any points back if 
+we can’t win at Quidditch?» 
+ 
+ But even Quidditch had lost its fun. The rest of the team wouldn’t speak to Harry during 
+practice, and if they had to speak about him, they called him «the Seeker.» 
+ 
+ Hermione and Neville were suffering, too. They didn’t have as bad a time as Harry, because they 
+weren’t as well-known, but nobody would speak to them, either. Hermione had stopped drawing 
+attention to herself in class, keeping her head down and working in silence. 
+ 
+ Harry was almost glad that the exams weren’t far away. All the studying he had to do kept his 
+mind off his misery. He, Ron, and Hermione kept to themselves, working late into the night, 
+trying to remember the ingredients in complicated potions, learn charms and spells by heart, 
+memorize the dates of magical discoveries and goblin rebellions… 
+ 
+ Then, about a week before the exams were due to start, Harry’s new resolution not to interfere in 
+anything that didn’t concern him was put to an unexpected test. Walking back from the library 
+on his own one afternoon, he heard somebody whimpering from a classroom up ahead. As he 
+drew closer, he heard Quirrell’s voice. 
+ 
+ «No، no، not again, please، » 
+ 
+ It sounded as though someone was threatening him. Harry moved closer. 
+ 
+ «All right، all right، » he heard Quirrell sob. 
+ 
+ Next second, Quirrell came hurrying out of the classroom straightening his turban. He was pale 
+and looked as though he was about to cry. He strode out of sight; Harry didn’t think Quirrell had 
+even noticed him. He waited until Quirrell’s footsteps had disappeared, then peered into the 
+classroom. It was empty, but a door stood ajar at the other end. Harry was halfway toward it 
+before he remembered what he’d promised himself about not meddling. 
+ 
+ All the same, he’d have gambled twelve Sorcerer’s Stones that Snape had just left the room, and 
+from what Harry had just heard, Snape would be walking with a new spring in his step، 
+Quirrell seemed to have given in at last. 
+ 
+ Harry went back to the library, where Hermione was testing Ron on Astronomy. Harry told them 
+what he’d heard. 
+ 
+ «Snape’s done it, then!» said Ron. «If Quirrell’s told him how to break his Anti-Dark Force spell، » 
+ 
+ «There’s still Fluffy, though,» said Hermione.

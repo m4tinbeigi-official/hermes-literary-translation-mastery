@@ -1,0 +1,45 @@
+Uncle Vernon made a funny rasping noise. 
+ 
+ «I demand that you leave at once, sir!» he said. «You are breaking and entering!» 
+ 
+ «Ah, shut up, Dursley, yeh great prune,» said the giant; he reached over the back of the sofa, 
+jerked the gun out of Uncle Vernon’s hands, bent it into a knot as easily as if it had been made of 
+rubber, and threw it into a corner of the room. 
+ 
+ Uncle Vernon made another funny noise, like a mouse being trodden on. 
+ 
+ «Anyway، Harry,» said the giant, turning his back on the Dursleys, «a very happy birthday to 
+yeh. Got summat fer yeh here، I mighta sat on it at some point, but it’ll taste all right.» 
+ 
+ From an inside pocket of his black overcoat he pulled a slightly squashed box. Harry opened it 
+with trembling fingers. Inside was a large, sticky chocolate cake with Happy Birthday Harry 
+written on it in green icing. 
+ 
+ Harry looked up at the giant. He meant to say thank you, but the words got lost on the way to his 
+mouth, and what he said instead was, «Who are you?» 
+ 
+ The giant chuckled. 
+ 
+ «True, I haven’t introduced meself. Rubeus Hagrid, Keeper of Keys and Grounds at Hogwarts.» 
+ 
+ He held out an enormous hand and shook Harry’s whole arm. 
+ 
+ «What about that tea then, eh?» he said, rubbing his hands together. «I’d not say no ter summat 
+stronger if yeh’ve got it, mind.» 
+ 
+ His eyes fell on the empty grate with the shriveled chip bags in it and he snorted. He bent down 
+over the fireplace; they couldn’t see what he was doing but when he drew back a second later, 
+there was a roaring fire there. It filled the whole damp hut with flickering light and Harry felt the 
+warmth wash over him as though he’d sunk into a hot bath. 
+ 
+ The giant sat back down on the sofa, which sagged under his weight, and began taking all sorts 
+of things out of the pockets of his coat: a copper kettle, a squashy package of sausages, a poker, a 
+teapot, several chipped mugs, and a bottle of some amber liquid that he took a swig from before 
+starting to make tea. Soon the hut was full of the sound and smell of sizzling sausage. Nobody 
+said a thing while the giant was working, but as he slid the first six fat, juicy, slightly burnt 
+sausages from the poker, Dudley fidgeted a little. Uncle Vernon said sharply, «Don’t touch 
+anything he gives you, Dudley.» 
+ 
+ The giant chuckled darkly. 
+ 
+ «Yer great puddin’ of a son don’ need fattenin’ anymore, Dursley, don’ worry.»

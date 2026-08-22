@@ -1,0 +1,762 @@
+{
+  "completed_sections": [
+    "ch01_the_boy_who_lived/chunk_001.md",
+    "ch01_the_boy_who_lived/chunk_002.md",
+    "ch01_the_boy_who_lived/chunk_003.md",
+    "ch01_the_boy_who_lived/chunk_004.md",
+    "ch01_the_boy_who_lived/chunk_005.md",
+    "ch01_the_boy_who_lived/chunk_006.md",
+    "ch01_the_boy_who_lived/chunk_007.md",
+    "ch01_the_boy_who_lived/chunk_008.md",
+    "ch01_the_boy_who_lived/chunk_009.md",
+    "ch01_the_boy_who_lived/chunk_010.md",
+    "ch02_the_vanishing_glass/chunk_001.md",
+    "ch02_the_vanishing_glass/chunk_002.md",
+    "ch02_the_vanishing_glass/chunk_003.md",
+    "ch02_the_vanishing_glass/chunk_004.md",
+    "ch02_the_vanishing_glass/chunk_005.md",
+    "ch02_the_vanishing_glass/chunk_006.md",
+    "ch02_the_vanishing_glass/chunk_007.md",
+    "ch02_the_vanishing_glass/chunk_008.md",
+    "ch03_letters_from_no_one/chunk_001.md",
+    "ch03_letters_from_no_one/chunk_002.md",
+    "ch03_letters_from_no_one/chunk_003.md",
+    "ch03_letters_from_no_one/chunk_004.md",
+    "ch03_letters_from_no_one/chunk_005.md",
+    "ch03_letters_from_no_one/chunk_006.md",
+    "ch03_letters_from_no_one/chunk_007.md",
+    "ch03_letters_from_no_one/chunk_008.md",
+    "ch03_letters_from_no_one/chunk_009.md",
+    "ch03_letters_from_no_one/chunk_010.md",
+    "ch04_the_keeper_of_the_keys/chunk_001.md",
+    "ch04_the_keeper_of_the_keys/chunk_002.md",
+    "ch04_the_keeper_of_the_keys/chunk_003.md",
+    "ch04_the_keeper_of_the_keys/chunk_004.md",
+    "ch04_the_keeper_of_the_keys/chunk_005.md",
+    "ch04_the_keeper_of_the_keys/chunk_006.md",
+    "ch04_the_keeper_of_the_keys/chunk_007.md",
+    "ch04_the_keeper_of_the_keys/chunk_008.md",
+    "ch04_the_keeper_of_the_keys/chunk_009.md",
+    "ch04_the_keeper_of_the_keys/chunk_010.md",
+    "ch05_diagon_alley/chunk_001.md",
+    "ch05_diagon_alley/chunk_002.md",
+    "ch05_diagon_alley/chunk_003.md",
+    "ch05_diagon_alley/chunk_004.md",
+    "ch05_diagon_alley/chunk_005.md",
+    "ch05_diagon_alley/chunk_006.md",
+    "ch05_diagon_alley/chunk_007.md",
+    "ch05_diagon_alley/chunk_008.md",
+    "ch05_diagon_alley/chunk_009.md",
+    "ch05_diagon_alley/chunk_010.md",
+    "ch05_diagon_alley/chunk_011.md",
+    "ch05_diagon_alley/chunk_012.md",
+    "ch05_diagon_alley/chunk_013.md",
+    "ch05_diagon_alley/chunk_014.md",
+    "ch05_diagon_alley/chunk_015.md",
+    "ch05_diagon_alley/chunk_016.md",
+    "ch05_diagon_alley/chunk_017.md",
+    "ch05_diagon_alley/chunk_018.md",
+    "ch06_the_journey_from_platform_nine_and_threequarters/chunk_001.md",
+    "ch06_the_journey_from_platform_nine_and_threequarters/chunk_002.md",
+    "ch06_the_journey_from_platform_nine_and_threequarters/chunk_003.md",
+    "ch06_the_journey_from_platform_nine_and_threequarters/chunk_004.md",
+    "ch06_the_journey_from_platform_nine_and_threequarters/chunk_005.md",
+    "ch06_the_journey_from_platform_nine_and_threequarters/chunk_006.md",
+    "ch06_the_journey_from_platform_nine_and_threequarters/chunk_007.md",
+    "ch06_the_journey_from_platform_nine_and_threequarters/chunk_008.md",
+    "ch06_the_journey_from_platform_nine_and_threequarters/chunk_009.md",
+    "ch06_the_journey_from_platform_nine_and_threequarters/chunk_010.md",
+    "ch06_the_journey_from_platform_nine_and_threequarters/chunk_011.md",
+    "ch06_the_journey_from_platform_nine_and_threequarters/chunk_012.md",
+    "ch06_the_journey_from_platform_nine_and_threequarters/chunk_013.md",
+    "ch06_the_journey_from_platform_nine_and_threequarters/chunk_014.md",
+    "ch06_the_journey_from_platform_nine_and_threequarters/chunk_015.md",
+    "ch06_the_journey_from_platform_nine_and_threequarters/chunk_016.md",
+    "ch06_the_journey_from_platform_nine_and_threequarters/chunk_017.md",
+    "ch06_the_journey_from_platform_nine_and_threequarters/chunk_018.md",
+    "ch07_the_sorting_hat/chunk_001.md",
+    "ch07_the_sorting_hat/chunk_002.md",
+    "ch07_the_sorting_hat/chunk_003.md",
+    "ch07_the_sorting_hat/chunk_004.md",
+    "ch07_the_sorting_hat/chunk_005.md",
+    "ch07_the_sorting_hat/chunk_006.md",
+    "ch07_the_sorting_hat/chunk_007.md",
+    "ch07_the_sorting_hat/chunk_008.md",
+    "ch07_the_sorting_hat/chunk_009.md",
+    "ch07_the_sorting_hat/chunk_010.md",
+    "ch07_the_sorting_hat/chunk_011.md",
+    "ch07_the_sorting_hat/chunk_012.md",
+    "ch08_the_potions_master/chunk_001.md",
+    "ch08_the_potions_master/chunk_002.md",
+    "ch08_the_potions_master/chunk_003.md",
+    "ch08_the_potions_master/chunk_004.md",
+    "ch08_the_potions_master/chunk_005.md",
+    "ch08_the_potions_master/chunk_006.md",
+    "ch08_the_potions_master/chunk_007.md",
+    "ch09_the_midnight_duel/chunk_001.md",
+    "ch09_the_midnight_duel/chunk_002.md",
+    "ch09_the_midnight_duel/chunk_003.md",
+    "ch09_the_midnight_duel/chunk_004.md",
+    "ch09_the_midnight_duel/chunk_005.md",
+    "ch09_the_midnight_duel/chunk_006.md",
+    "ch09_the_midnight_duel/chunk_007.md",
+    "ch09_the_midnight_duel/chunk_008.md",
+    "ch09_the_midnight_duel/chunk_009.md",
+    "ch09_the_midnight_duel/chunk_010.md",
+    "ch09_the_midnight_duel/chunk_011.md",
+    "ch09_the_midnight_duel/chunk_012.md",
+    "ch09_the_midnight_duel/chunk_013.md",
+    "ch09_the_midnight_duel/chunk_014.md",
+    "ch10_halloween/chunk_001.md"
+  ],
+  "section_stats": {
+    "ch01_the_boy_who_lived/chunk_001.md": {
+      "prompt_tokens": 615,
+      "completion_tokens": 385,
+      "total_tokens": 1000,
+      "duration_seconds": 5.01
+    },
+    "ch01_the_boy_who_lived/chunk_002.md": {
+      "prompt_tokens": 850,
+      "completion_tokens": 1760,
+      "total_tokens": 2610,
+      "duration_seconds": 13.27
+    },
+    "ch01_the_boy_who_lived/chunk_003.md": {
+      "prompt_tokens": 784,
+      "completion_tokens": 1728,
+      "total_tokens": 2512,
+      "duration_seconds": 10.84
+    },
+    "ch01_the_boy_who_lived/chunk_004.md": {
+      "prompt_tokens": 605,
+      "completion_tokens": 1199,
+      "total_tokens": 1804,
+      "duration_seconds": 9.13
+    },
+    "ch01_the_boy_who_lived/chunk_005.md": {
+      "prompt_tokens": 782,
+      "completion_tokens": 1517,
+      "total_tokens": 2299,
+      "duration_seconds": 10.01
+    },
+    "ch01_the_boy_who_lived/chunk_006.md": {
+      "prompt_tokens": 597,
+      "completion_tokens": 1187,
+      "total_tokens": 1784,
+      "duration_seconds": 9.56
+    },
+    "ch01_the_boy_who_lived/chunk_007.md": {
+      "prompt_tokens": 627,
+      "completion_tokens": 1301,
+      "total_tokens": 1928,
+      "duration_seconds": 9.72
+    },
+    "ch01_the_boy_who_lived/chunk_008.md": {
+      "prompt_tokens": 684,
+      "completion_tokens": 1371,
+      "total_tokens": 2055,
+      "duration_seconds": 7.81
+    },
+    "ch01_the_boy_who_lived/chunk_009.md": {
+      "prompt_tokens": 574,
+      "completion_tokens": 1181,
+      "total_tokens": 1755,
+      "duration_seconds": 8.28
+    },
+    "ch01_the_boy_who_lived/chunk_010.md": {
+      "prompt_tokens": 603,
+      "completion_tokens": 1209,
+      "total_tokens": 1812,
+      "duration_seconds": 7.59
+    },
+    "ch02_the_vanishing_glass/chunk_001.md": {
+      "prompt_tokens": 562,
+      "completion_tokens": 349,
+      "total_tokens": 911,
+      "duration_seconds": 3.93
+    },
+    "ch02_the_vanishing_glass/chunk_002.md": {
+      "prompt_tokens": 736,
+      "completion_tokens": 1634,
+      "total_tokens": 2370,
+      "duration_seconds": 13.26
+    },
+    "ch02_the_vanishing_glass/chunk_003.md": {
+      "prompt_tokens": 563,
+      "completion_tokens": 1094,
+      "total_tokens": 1657,
+      "duration_seconds": 7.76
+    },
+    "ch02_the_vanishing_glass/chunk_004.md": {
+      "prompt_tokens": 593,
+      "completion_tokens": 1270,
+      "total_tokens": 1863,
+      "duration_seconds": 8.76
+    },
+    "ch02_the_vanishing_glass/chunk_005.md": {
+      "prompt_tokens": 738,
+      "completion_tokens": 1467,
+      "total_tokens": 2205,
+      "duration_seconds": 9.22
+    },
+    "ch02_the_vanishing_glass/chunk_006.md": {
+      "prompt_tokens": 681,
+      "completion_tokens": 1357,
+      "total_tokens": 2038,
+      "duration_seconds": 9.34
+    },
+    "ch02_the_vanishing_glass/chunk_007.md": {
+      "prompt_tokens": 523,
+      "completion_tokens": 1055,
+      "total_tokens": 1578,
+      "duration_seconds": 7.84
+    },
+    "ch02_the_vanishing_glass/chunk_008.md": {
+      "prompt_tokens": 616,
+      "completion_tokens": 343,
+      "total_tokens": 959,
+      "duration_seconds": 4.11
+    },
+    "ch03_letters_from_no_one/chunk_001.md": {
+      "prompt_tokens": 737,
+      "completion_tokens": 1542,
+      "total_tokens": 2279,
+      "duration_seconds": 10.56
+    },
+    "ch03_letters_from_no_one/chunk_002.md": {
+      "prompt_tokens": 488,
+      "completion_tokens": 931,
+      "total_tokens": 1419,
+      "duration_seconds": 5.81
+    },
+    "ch03_letters_from_no_one/chunk_003.md": {
+      "prompt_tokens": 510,
+      "completion_tokens": 438,
+      "total_tokens": 948,
+      "duration_seconds": 3.32
+    },
+    "ch03_letters_from_no_one/chunk_004.md": {
+      "prompt_tokens": 500,
+      "completion_tokens": 1001,
+      "total_tokens": 1501,
+      "duration_seconds": 6.95
+    },
+    "ch03_letters_from_no_one/chunk_005.md": {
+      "prompt_tokens": 765,
+      "completion_tokens": 1560,
+      "total_tokens": 2325,
+      "duration_seconds": 10.46
+    },
+    "ch03_letters_from_no_one/chunk_006.md": {
+      "prompt_tokens": 657,
+      "completion_tokens": 1295,
+      "total_tokens": 1952,
+      "duration_seconds": 10.19
+    },
+    "ch03_letters_from_no_one/chunk_007.md": {
+      "prompt_tokens": 664,
+      "completion_tokens": 1331,
+      "total_tokens": 1995,
+      "duration_seconds": 12.45
+    },
+    "ch03_letters_from_no_one/chunk_008.md": {
+      "prompt_tokens": 503,
+      "completion_tokens": 382,
+      "total_tokens": 885,
+      "duration_seconds": 4.53
+    },
+    "ch03_letters_from_no_one/chunk_009.md": {
+      "prompt_tokens": 735,
+      "completion_tokens": 1515,
+      "total_tokens": 2250,
+      "duration_seconds": 11.28
+    },
+    "ch03_letters_from_no_one/chunk_010.md": {
+      "prompt_tokens": 91,
+      "completion_tokens": 186,
+      "total_tokens": 277,
+      "duration_seconds": 3.71
+    },
+    "ch04_the_keeper_of_the_keys/chunk_001.md": {
+      "prompt_tokens": 425,
+      "completion_tokens": 777,
+      "total_tokens": 1202,
+      "duration_seconds": 7.21
+    },
+    "ch04_the_keeper_of_the_keys/chunk_002.md": {
+      "prompt_tokens": 624,
+      "completion_tokens": 1223,
+      "total_tokens": 1847,
+      "duration_seconds": 9.82
+    },
+    "ch04_the_keeper_of_the_keys/chunk_003.md": {
+      "prompt_tokens": 456,
+      "completion_tokens": 892,
+      "total_tokens": 1348,
+      "duration_seconds": 6.38
+    },
+    "ch04_the_keeper_of_the_keys/chunk_004.md": {
+      "prompt_tokens": 472,
+      "completion_tokens": 926,
+      "total_tokens": 1398,
+      "duration_seconds": 8.39
+    },
+    "ch04_the_keeper_of_the_keys/chunk_005.md": {
+      "prompt_tokens": 407,
+      "completion_tokens": 801,
+      "total_tokens": 1208,
+      "duration_seconds": 6.78
+    },
+    "ch04_the_keeper_of_the_keys/chunk_006.md": {
+      "prompt_tokens": 627,
+      "completion_tokens": 1181,
+      "total_tokens": 1808,
+      "duration_seconds": 9.46
+    },
+    "ch04_the_keeper_of_the_keys/chunk_007.md": {
+      "prompt_tokens": 643,
+      "completion_tokens": 301,
+      "total_tokens": 944,
+      "duration_seconds": 4.7
+    },
+    "ch04_the_keeper_of_the_keys/chunk_008.md": {
+      "prompt_tokens": 655,
+      "completion_tokens": 1305,
+      "total_tokens": 1960,
+      "duration_seconds": 19.65
+    },
+    "ch04_the_keeper_of_the_keys/chunk_009.md": {
+      "prompt_tokens": 635,
+      "completion_tokens": 1322,
+      "total_tokens": 1957,
+      "duration_seconds": 10.74
+    },
+    "ch04_the_keeper_of_the_keys/chunk_010.md": {
+      "prompt_tokens": 453,
+      "completion_tokens": 988,
+      "total_tokens": 1441,
+      "duration_seconds": 9.5
+    },
+    "ch05_diagon_alley/chunk_001.md": {
+      "prompt_tokens": 446,
+      "completion_tokens": 827,
+      "total_tokens": 1273,
+      "duration_seconds": 6.15
+    },
+    "ch05_diagon_alley/chunk_002.md": {
+      "prompt_tokens": 462,
+      "completion_tokens": 919,
+      "total_tokens": 1381,
+      "duration_seconds": 7.05
+    },
+    "ch05_diagon_alley/chunk_003.md": {
+      "prompt_tokens": 549,
+      "completion_tokens": 1123,
+      "total_tokens": 1672,
+      "duration_seconds": 7.0
+    },
+    "ch05_diagon_alley/chunk_004.md": {
+      "prompt_tokens": 443,
+      "completion_tokens": 862,
+      "total_tokens": 1305,
+      "duration_seconds": 7.0
+    },
+    "ch05_diagon_alley/chunk_005.md": {
+      "prompt_tokens": 286,
+      "completion_tokens": 590,
+      "total_tokens": 876,
+      "duration_seconds": 5.62
+    },
+    "ch05_diagon_alley/chunk_006.md": {
+      "prompt_tokens": 725,
+      "completion_tokens": 1416,
+      "total_tokens": 2141,
+      "duration_seconds": 9.57
+    },
+    "ch05_diagon_alley/chunk_007.md": {
+      "prompt_tokens": 517,
+      "completion_tokens": 1049,
+      "total_tokens": 1566,
+      "duration_seconds": 7.32
+    },
+    "ch05_diagon_alley/chunk_008.md": {
+      "prompt_tokens": 698,
+      "completion_tokens": 1383,
+      "total_tokens": 2081,
+      "duration_seconds": 9.59
+    },
+    "ch05_diagon_alley/chunk_009.md": {
+      "prompt_tokens": 449,
+      "completion_tokens": 949,
+      "total_tokens": 1398,
+      "duration_seconds": 8.03
+    },
+    "ch05_diagon_alley/chunk_010.md": {
+      "prompt_tokens": 639,
+      "completion_tokens": 1320,
+      "total_tokens": 1959,
+      "duration_seconds": 11.2
+    },
+    "ch05_diagon_alley/chunk_011.md": {
+      "prompt_tokens": 629,
+      "completion_tokens": 1275,
+      "total_tokens": 1904,
+      "duration_seconds": 8.74
+    },
+    "ch05_diagon_alley/chunk_012.md": {
+      "prompt_tokens": 505,
+      "completion_tokens": 1039,
+      "total_tokens": 1544,
+      "duration_seconds": 8.85
+    },
+    "ch05_diagon_alley/chunk_013.md": {
+      "prompt_tokens": 571,
+      "completion_tokens": 1067,
+      "total_tokens": 1638,
+      "duration_seconds": 8.34
+    },
+    "ch05_diagon_alley/chunk_014.md": {
+      "prompt_tokens": 648,
+      "completion_tokens": 1265,
+      "total_tokens": 1913,
+      "duration_seconds": 10.47
+    },
+    "ch05_diagon_alley/chunk_015.md": {
+      "prompt_tokens": 652,
+      "completion_tokens": 1346,
+      "total_tokens": 1998,
+      "duration_seconds": 9.65
+    },
+    "ch05_diagon_alley/chunk_016.md": {
+      "prompt_tokens": 544,
+      "completion_tokens": 1104,
+      "total_tokens": 1648,
+      "duration_seconds": 7.54
+    },
+    "ch05_diagon_alley/chunk_017.md": {
+      "prompt_tokens": 591,
+      "completion_tokens": 1211,
+      "total_tokens": 1802,
+      "duration_seconds": 7.63
+    },
+    "ch05_diagon_alley/chunk_018.md": {
+      "prompt_tokens": 609,
+      "completion_tokens": 1258,
+      "total_tokens": 1867,
+      "duration_seconds": 10.37
+    },
+    "ch06_the_journey_from_platform_nine_and_threequarters/chunk_001.md": {
+      "prompt_tokens": 529,
+      "completion_tokens": 1085,
+      "total_tokens": 1614,
+      "duration_seconds": 6.49
+    },
+    "ch06_the_journey_from_platform_nine_and_threequarters/chunk_002.md": {
+      "prompt_tokens": 581,
+      "completion_tokens": 345,
+      "total_tokens": 926,
+      "duration_seconds": 4.32
+    },
+    "ch06_the_journey_from_platform_nine_and_threequarters/chunk_003.md": {
+      "prompt_tokens": 637,
+      "completion_tokens": 1240,
+      "total_tokens": 1877,
+      "duration_seconds": 7.77
+    },
+    "ch06_the_journey_from_platform_nine_and_threequarters/chunk_004.md": {
+      "prompt_tokens": 595,
+      "completion_tokens": 1136,
+      "total_tokens": 1731,
+      "duration_seconds": 7.66
+    },
+    "ch06_the_journey_from_platform_nine_and_threequarters/chunk_005.md": {
+      "prompt_tokens": 432,
+      "completion_tokens": 768,
+      "total_tokens": 1200,
+      "duration_seconds": 6.49
+    },
+    "ch06_the_journey_from_platform_nine_and_threequarters/chunk_006.md": {
+      "prompt_tokens": 386,
+      "completion_tokens": 710,
+      "total_tokens": 1096,
+      "duration_seconds": 5.65
+    },
+    "ch06_the_journey_from_platform_nine_and_threequarters/chunk_007.md": {
+      "prompt_tokens": 393,
+      "completion_tokens": 775,
+      "total_tokens": 1168,
+      "duration_seconds": 8.48
+    },
+    "ch06_the_journey_from_platform_nine_and_threequarters/chunk_008.md": {
+      "prompt_tokens": 425,
+      "completion_tokens": 298,
+      "total_tokens": 723,
+      "duration_seconds": 3.81
+    },
+    "ch06_the_journey_from_platform_nine_and_threequarters/chunk_009.md": {
+      "prompt_tokens": 576,
+      "completion_tokens": 1108,
+      "total_tokens": 1684,
+      "duration_seconds": 11.42
+    },
+    "ch06_the_journey_from_platform_nine_and_threequarters/chunk_010.md": {
+      "prompt_tokens": 600,
+      "completion_tokens": 1218,
+      "total_tokens": 1818,
+      "duration_seconds": 10.72
+    },
+    "ch06_the_journey_from_platform_nine_and_threequarters/chunk_011.md": {
+      "prompt_tokens": 506,
+      "completion_tokens": 309,
+      "total_tokens": 815,
+      "duration_seconds": 4.14
+    },
+    "ch06_the_journey_from_platform_nine_and_threequarters/chunk_012.md": {
+      "prompt_tokens": 547,
+      "completion_tokens": 1130,
+      "total_tokens": 1677,
+      "duration_seconds": 7.85
+    },
+    "ch06_the_journey_from_platform_nine_and_threequarters/chunk_013.md": {
+      "prompt_tokens": 494,
+      "completion_tokens": 974,
+      "total_tokens": 1468,
+      "duration_seconds": 7.44
+    },
+    "ch06_the_journey_from_platform_nine_and_threequarters/chunk_014.md": {
+      "prompt_tokens": 607,
+      "completion_tokens": 1251,
+      "total_tokens": 1858,
+      "duration_seconds": 8.83
+    },
+    "ch06_the_journey_from_platform_nine_and_threequarters/chunk_015.md": {
+      "prompt_tokens": 614,
+      "completion_tokens": 1228,
+      "total_tokens": 1842,
+      "duration_seconds": 9.34
+    },
+    "ch06_the_journey_from_platform_nine_and_threequarters/chunk_016.md": {
+      "prompt_tokens": 567,
+      "completion_tokens": 1171,
+      "total_tokens": 1738,
+      "duration_seconds": 7.76
+    },
+    "ch06_the_journey_from_platform_nine_and_threequarters/chunk_017.md": {
+      "prompt_tokens": 678,
+      "completion_tokens": 1378,
+      "total_tokens": 2056,
+      "duration_seconds": 9.3
+    },
+    "ch06_the_journey_from_platform_nine_and_threequarters/chunk_018.md": {
+      "prompt_tokens": 166,
+      "completion_tokens": 337,
+      "total_tokens": 503,
+      "duration_seconds": 4.57
+    },
+    "ch07_the_sorting_hat/chunk_001.md": {
+      "prompt_tokens": 638,
+      "completion_tokens": 1259,
+      "total_tokens": 1897,
+      "duration_seconds": 7.85
+    },
+    "ch07_the_sorting_hat/chunk_002.md": {
+      "prompt_tokens": 605,
+      "completion_tokens": 1214,
+      "total_tokens": 1819,
+      "duration_seconds": 9.83
+    },
+    "ch07_the_sorting_hat/chunk_003.md": {
+      "prompt_tokens": 520,
+      "completion_tokens": 1061,
+      "total_tokens": 1581,
+      "duration_seconds": 10.08
+    },
+    "ch07_the_sorting_hat/chunk_004.md": {
+      "prompt_tokens": 240,
+      "completion_tokens": 521,
+      "total_tokens": 761,
+      "duration_seconds": 4.68
+    },
+    "ch07_the_sorting_hat/chunk_005.md": {
+      "prompt_tokens": 536,
+      "completion_tokens": 1030,
+      "total_tokens": 1566,
+      "duration_seconds": 7.09
+    },
+    "ch07_the_sorting_hat/chunk_006.md": {
+      "prompt_tokens": 576,
+      "completion_tokens": 1175,
+      "total_tokens": 1751,
+      "duration_seconds": 8.64
+    },
+    "ch07_the_sorting_hat/chunk_007.md": {
+      "prompt_tokens": 735,
+      "completion_tokens": 1585,
+      "total_tokens": 2320,
+      "duration_seconds": 12.25
+    },
+    "ch07_the_sorting_hat/chunk_008.md": {
+      "prompt_tokens": 648,
+      "completion_tokens": 335,
+      "total_tokens": 983,
+      "duration_seconds": 4.43
+    },
+    "ch07_the_sorting_hat/chunk_009.md": {
+      "prompt_tokens": 651,
+      "completion_tokens": 1254,
+      "total_tokens": 1905,
+      "duration_seconds": 10.54
+    },
+    "ch07_the_sorting_hat/chunk_010.md": {
+      "prompt_tokens": 491,
+      "completion_tokens": 932,
+      "total_tokens": 1423,
+      "duration_seconds": 9.03
+    },
+    "ch07_the_sorting_hat/chunk_011.md": {
+      "prompt_tokens": 484,
+      "completion_tokens": 1025,
+      "total_tokens": 1509,
+      "duration_seconds": 7.99
+    },
+    "ch07_the_sorting_hat/chunk_012.md": {
+      "prompt_tokens": 551,
+      "completion_tokens": 1085,
+      "total_tokens": 1636,
+      "duration_seconds": 7.75
+    },
+    "ch08_the_potions_master/chunk_001.md": {
+      "prompt_tokens": 614,
+      "completion_tokens": 1269,
+      "total_tokens": 1883,
+      "duration_seconds": 8.68
+    },
+    "ch08_the_potions_master/chunk_002.md": {
+      "prompt_tokens": 840,
+      "completion_tokens": 1667,
+      "total_tokens": 2507,
+      "duration_seconds": 10.8
+    },
+    "ch08_the_potions_master/chunk_003.md": {
+      "prompt_tokens": 599,
+      "completion_tokens": 1210,
+      "total_tokens": 1809,
+      "duration_seconds": 8.09
+    },
+    "ch08_the_potions_master/chunk_004.md": {
+      "prompt_tokens": 602,
+      "completion_tokens": 1231,
+      "total_tokens": 1833,
+      "duration_seconds": 9.49
+    },
+    "ch08_the_potions_master/chunk_005.md": {
+      "prompt_tokens": 673,
+      "completion_tokens": 1299,
+      "total_tokens": 1972,
+      "duration_seconds": 8.01
+    },
+    "ch08_the_potions_master/chunk_006.md": {
+      "prompt_tokens": 555,
+      "completion_tokens": 1114,
+      "total_tokens": 1669,
+      "duration_seconds": 8.64
+    },
+    "ch08_the_potions_master/chunk_007.md": {
+      "prompt_tokens": 608,
+      "completion_tokens": 1302,
+      "total_tokens": 1910,
+      "duration_seconds": 19.64
+    },
+    "ch09_the_midnight_duel/chunk_001.md": {
+      "prompt_tokens": 729,
+      "completion_tokens": 1576,
+      "total_tokens": 2305,
+      "duration_seconds": 10.04
+    },
+    "ch09_the_midnight_duel/chunk_002.md": {
+      "prompt_tokens": 604,
+      "completion_tokens": 1165,
+      "total_tokens": 1769,
+      "duration_seconds": 8.07
+    },
+    "ch09_the_midnight_duel/chunk_003.md": {
+      "prompt_tokens": 556,
+      "completion_tokens": 1082,
+      "total_tokens": 1638,
+      "duration_seconds": 6.5
+    },
+    "ch09_the_midnight_duel/chunk_004.md": {
+      "prompt_tokens": 603,
+      "completion_tokens": 1105,
+      "total_tokens": 1708,
+      "duration_seconds": 8.83
+    },
+    "ch09_the_midnight_duel/chunk_005.md": {
+      "prompt_tokens": 531,
+      "completion_tokens": 1144,
+      "total_tokens": 1675,
+      "duration_seconds": 8.77
+    },
+    "ch09_the_midnight_duel/chunk_006.md": {
+      "prompt_tokens": 516,
+      "completion_tokens": 477,
+      "total_tokens": 993,
+      "duration_seconds": 4.3
+    },
+    "ch09_the_midnight_duel/chunk_007.md": {
+      "prompt_tokens": 546,
+      "completion_tokens": 1089,
+      "total_tokens": 1635,
+      "duration_seconds": 6.96
+    },
+    "ch09_the_midnight_duel/chunk_008.md": {
+      "prompt_tokens": 531,
+      "completion_tokens": 995,
+      "total_tokens": 1526,
+      "duration_seconds": 7.72
+    },
+    "ch09_the_midnight_duel/chunk_009.md": {
+      "prompt_tokens": 521,
+      "completion_tokens": 940,
+      "total_tokens": 1461,
+      "duration_seconds": 7.57
+    },
+    "ch09_the_midnight_duel/chunk_010.md": {
+      "prompt_tokens": 543,
+      "completion_tokens": 1080,
+      "total_tokens": 1623,
+      "duration_seconds": 9.59
+    },
+    "ch09_the_midnight_duel/chunk_011.md": {
+      "prompt_tokens": 587,
+      "completion_tokens": 1197,
+      "total_tokens": 1784,
+      "duration_seconds": 9.21
+    },
+    "ch09_the_midnight_duel/chunk_012.md": {
+      "prompt_tokens": 472,
+      "completion_tokens": 875,
+      "total_tokens": 1347,
+      "duration_seconds": 7.51
+    },
+    "ch09_the_midnight_duel/chunk_013.md": {
+      "prompt_tokens": 628,
+      "completion_tokens": 1283,
+      "total_tokens": 1911,
+      "duration_seconds": 9.18
+    },
+    "ch09_the_midnight_duel/chunk_014.md": {
+      "prompt_tokens": 127,
+      "completion_tokens": 238,
+      "total_tokens": 365,
+      "duration_seconds": 3.63
+    },
+    "ch10_halloween/chunk_001.md": {
+      "prompt_tokens": 578,
+      "completion_tokens": 1193,
+      "total_tokens": 1771,
+      "duration_seconds": 8.12
+    }
+  }
+}

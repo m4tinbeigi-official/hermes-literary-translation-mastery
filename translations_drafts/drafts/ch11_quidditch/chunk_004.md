@@ -1,0 +1,45 @@
+Wood cleared his throat for silence. 
+ 
+ «Okay, men,» he said. 
+ 
+ «And women,» said Chaser Angelina Johnson. 
+ 
+ «And women,» Wood agreed. «This is it.» 
+ 
+ «The big one,» said Fred Weasley. 
+ 
+ «The one we’ve all been waiting for,» said George. 
+ 
+ «We know Oliver’s speech by heart,» Fred told Harry, «we were on the team last year.» 
+ 
+ «Shut up, you two,» said Wood. «This is the best team Gryffindor’s had in years. We’re going to 
+win. I know it.» 
+ 
+ He glared at them all as if to say, «Or else.» 
+ 
+ «Right. It’s time. Good luck, all of you.» 
+ 
+ Harry followed Fred and George out of the locker room and, hoping his knees weren’t going to 
+give way, walked onto the field to loud cheers. 
+ 
+ Madam Hooch was refereeing. She stood in the middle of the field waiting for the two teams, her 
+broom in her hand. 
+ 
+ «Now, I want a nice fair game, all of you,» she said, once they were all gathered around her. 
+Harry noticed that she seemed to be speaking particularly to the Slytherin Captain, Marcus Flint, 
+a sixth year. Harry thought Flint looked as if he had some troll blood in him. Out of the corner of 
+his eye he saw the fluttering banner high above, flashing Potter for President over the crowd. His 
+heart skipped. He felt braver. 
+ 
+ «Mount your brooms, please.» 
+ 
+ Harry clambered onto his Nimbus Two Thousand. 
+ 
+ Madam Hooch gave a loud blast on her silver whistle. 
+ 
+ Fifteen brooms rose up, high, high into the air. They were off. 
+ 
+ «And the Quaffle is taken immediately by Angelina Johnson of Gryffindor، what an excellent 
+Chaser that girl is, and rather attractive, too، » 
+ 
+ «JORDAN!»

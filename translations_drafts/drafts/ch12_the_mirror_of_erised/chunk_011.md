@@ -1,0 +1,45 @@
+maybe it only shows dead people. Shame about not finding Flamel, though. Have some bacon or 
+something, why aren’t you eating anything?» 
+ 
+ Harry couldn’t eat. He had seen his parents and would be seeing them again tonight. He had 
+almost forgotten about Flamel. It didn’t seem very important anymore. Who cared what the three 
+headed dog was guarding? What did it matter if Snape stole it, really? 
+ 
+ «Are you all right?» said Ron. «You look odd.» 
+ 
+ What Harry feared most was th at he might not be able to find the mirror room again. With Ron 
+covered in the cloak, too, they had to walk much more slowly the next night. They tried retracing 
+Harry’s route from the library, wandering around the dark passageways for nearly an hour. 
+ 
+ «I’m freezing,» said Ron. «Let’s forget it and go back.» 
+ 
+ «No!» Harry hissed. «I know it’s here somewhere.» 
+ 
+ They passed the ghost of a tall witch gliding in the opposite direction, but saw no one else. just 
+as Ron started moaning that his feet were dead with cold, Harry spotted the suit of armor. 
+ 
+ «It’s here، just here، yes!» 
+ 
+ They pushed the door open. Harry dropped the cloak from around his shoulders and ran to the 
+mirror. 
+ 
+ There they were. His mother and father beamed at the sight of him. 
+ 
+ «See?» Harry whispered. 
+ 
+ «I can’t see anything.» 
+ 
+ «Look! Look at them all… there are loads of them…» 
+ 
+ «I can only see you.» 
+ 
+ «Look in it properly, go on, stand where I am.» 
+ 
+ Harry stepped aside, but with Ron in front of the mirror, he couldn’t see his family anymore, just 
+Ron in his paisley pajamas. 
+ 
+ Ron, though, was staring transfixed at his image. 
+ 
+ «Look at me!» he said. 
+ 
+ «Can you see all your family standing around you?»

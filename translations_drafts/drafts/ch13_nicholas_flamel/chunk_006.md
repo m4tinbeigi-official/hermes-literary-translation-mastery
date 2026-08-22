@@ -1,0 +1,45 @@
+«Wonder how long Potter’s going to stay on his broom this time? Anyone want a bet? What 
+about you, Weasley?» 
+ 
+ Ron didn’t answer; Snape had just awarded Hufflepuff a penalty because George Weasley had 
+hit a Bludger at him. Hermione, who had all her fingers crossed in her lap, was squinting fixedly 
+at Harry, who was circling the game like a hawk, looking for the Snitch. 
+ 
+ «You know how I think they choose people for the Gryffindor team?» said Malfoy loudly a few 
+minutes later, as Snape awarded Hufflepuff another penalty for no reason at all. «It’s people they 
+feel sorry for. See, there’s Potter, who’s got no parents, then there’s the Weasleys, who’ve got no 
+money، you should be on the team, Longbottom, you’ve got no brains.» 
+ 
+ Neville went bright red but turned in his seat to face Malfoy. 
+ 
+ «I’m worth twelve of you, Malfoy,» he stammered. 
+ 
+ Malfoy, Crabbe, and Goyle howled with laughter, but Ron, still not daring to take his eyes from 
+the game, said, «You tell him, Neville.» 
+ 
+ «Longbottom, if brains were gold you’d be poorer than Weasley, and that’s saying something.» 
+ 
+ Ron’s nerves were already stretched to the breaking point with anxiety about Harry. 
+ 
+ «I’m warning you, Malfoy، one more word، » 
+ 
+ «Ron!» said Hermione suddenly, «Harry، » 
+ 
+ «What? Where?» 
+ 
+ Harry had suddenly gone into a spectacular dive, which drew gasps and cheers from the crowd. 
+Hermione stood up, her crossed fingers in her mouth, as Harry streaked toward the ground like a 
+bullet. 
+ 
+ «You’re in luck, Weasley, Potter’s obviously spotted some money on the ground!» said Malfoy. 
+ 
+ Ron snapped. Before Malfoy knew what was happening, Ron was on top of him, wrestling him 
+to the ground. Neville hesitated, then clambered over the back of his seat to help. 
+ 
+ «Come on, Harry!» Hermione screamed, leaping onto her seat to watch as Harry sped straight at 
+Snape، she didn’t even notice Malfoy and Ron rolling around under her seat, or the scuffles 
+and yelps coming from the whirl of fists that was Neville, Crabbe, and Goyle. 
+ 
+ Up in the air, Snape turned on his broomstick just in time to see something scarlet shoot past 
+him, missing him by inches، the next second, Harry had pulled out of the dive, his arm raised 
+in triumph, the Snitch clasped in his hand.

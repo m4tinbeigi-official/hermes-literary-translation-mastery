@@ -1,0 +1,45 @@
+«I want to read it,» said Harry furiously, «as it’s mine.» 
+ 
+ «Get out, both of you,» croaked Uncle Vernon, stuffing the letter back inside its envelope. 
+ 
+ Harry didn’t move. 
+ 
+ «I WANT MY LETTER!» he shouted. 
+ 
+ «Let me see it!» demanded Dudley. 
+ 
+ «OUT!» roared Uncle Vernon, and he took both Harry and Dudley by the scruffs of their necks 
+and threw them into the hall, slamming the kitchen door behind them. Harry and Dudley 
+promptly had a furious but silent fight over who would listen at the keyhole; Dudley won, so 
+Harry, his glasses dangling from one ear, lay flat on his stomach to listen at the crack between 
+door and floor. 
+ 
+ «Vernon,» Aunt Petunia was saying in a quivering voice, «look at the address، how could they 
+possibly know where he sleeps? You don’t think they’re watching the house?» 
+ 
+ «Watching، spying، might be following us,» muttered Uncle Vernon wildly. 
+ 
+ «But what should we do, Vernon? Should we write back? Tell them we don’t want، » 
+ 
+ Harry could see Uncle Vernon’s shiny black shoes pacing up and down the kitchen. 
+ 
+ «No,» he said finally. «No, we’ll ignore it. If they don’t get an answer… Yes, that’s best… we 
+won’t do anything…» 
+ 
+ «But، » 
+ 
+ «I’m not having one in the house, Petunia! Didn’t we swear when we took him in we’d stamp out 
+that dangerous nonsense?» 
+ 
+ That evening when he got back from work, Uncle Vernon did something he’d never done before; 
+he visited Harry in his cupboard. 
+ 
+ «Where’s my letter?» said Harry, the moment Uncle Vernon had squeezed through the door. 
+«Who’s writing to me?» 
+ 
+ «No one. It was addressed to you by mistake,» said Uncle Vernon shortly. «I have burned it.» 
+ 
+ «It was not a mistake,» said Harry angrily, «it had my cupboard on it.» 
+ 
+ «SILENCE!» yelled Uncle Vernon, and a couple of spiders fell from the ceiling. He took a few 
+deep breaths and then forced his face into a smile, which looked quite painful.

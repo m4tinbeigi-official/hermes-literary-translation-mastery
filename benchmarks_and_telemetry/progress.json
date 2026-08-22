@@ -1,0 +1,111 @@
+{
+  "current_book": "Book 1 - Harry Potter and the Sorcerer's Stone",
+  "total_pages": 206,
+  "status": "COMPLETED",
+  "total_chapters": 17,
+  "master_file": "finalized/کتاب_کامل_هری_پاتر_و_سنگ_جادو_نسخه_نهایی.md",
+  "completed_chapters": [
+    {
+      "chapter": 1,
+      "title": "پسری که زنده ماند",
+      "pages": "1-10",
+      "file": "finalized/فصل_۰۱_پسری_که_زنده_ماند.md"
+    },
+    {
+      "chapter": 2,
+      "title": "شیشه ناپدیدشده",
+      "pages": "11-19",
+      "file": "finalized/فصل_۰۲_شیشه_ناپدیدشده.md"
+    },
+    {
+      "chapter": 3,
+      "title": "نامه‌هایی از ناکجا",
+      "pages": "20-28",
+      "file": "finalized/فصل_۰۳_نامه‌هایی_از_ناکجا.md"
+    },
+    {
+      "chapter": 4,
+      "title": "کلیددار و نگهبان شکارگاه",
+      "pages": "29-38",
+      "file": "finalized/فصل_۰۴_کلیددار_و_نگهبان_شکارگاه.md"
+    },
+    {
+      "chapter": 5,
+      "title": "کوچهٔ دیاگون",
+      "pages": "39-56",
+      "file": "finalized/فصل_۰۵_کوچه_دیاگون.md"
+    },
+    {
+      "chapter": 6,
+      "title": "سفر از سکوی نه و سه‌چهارم",
+      "pages": "57-74",
+      "file": "finalized/فصل_۰۶_سفر_از_سکوی_نه_و_سه_چهارم.md"
+    },
+    {
+      "chapter": 7,
+      "title": "کلاه گروه‌بندی",
+      "pages": "75-86",
+      "file": "finalized/فصل_۰۷_کلاه_گروه_بندی.md"
+    },
+    {
+      "chapter": 8,
+      "title": "استاد معجون‌سازی",
+      "pages": "87-93",
+      "file": "finalized/فصل_۰۸_استاد_معجون_سازی.md"
+    },
+    {
+      "chapter": 9,
+      "title": "دوئل نیمه‌شب",
+      "pages": "94-107",
+      "file": "finalized/فصل_۰۹_دوئل_نیمه_شب.md"
+    },
+    {
+      "chapter": 10,
+      "title": "هالووین",
+      "pages": "108-118",
+      "file": "finalized/فصل_۱۰_هالووین.md"
+    },
+    {
+      "chapter": 11,
+      "title": "کوییدیچ",
+      "pages": "119-127",
+      "file": "finalized/فصل_۱۱_کوییدیچ.md"
+    },
+    {
+      "chapter": 12,
+      "title": "آینه نفاق",
+      "pages": "128-141",
+      "file": "finalized/فصل_۱۲_آینه_نفاق.md"
+    },
+    {
+      "chapter": 13,
+      "title": "نیکولاس فلامل",
+      "pages": "142-150",
+      "file": "finalized/فصل_۱۳_نیکولاس_فلامل.md"
+    },
+    {
+      "chapter": 14,
+      "title": "نوربرت، اژدهای پوزه‌برآمده نروژی",
+      "pages": "151-159",
+      "file": "finalized/فصل_۱۴_نوربرت_اژدهای_پوزه_برآمده_نروژی.md"
+    },
+    {
+      "chapter": 15,
+      "title": "جنگل ممنوعه",
+      "pages": "160-172",
+      "file": "finalized/فصل_۱۵_جنگل_ممنوعه.md"
+    },
+    {
+      "chapter": 16,
+      "title": "دروازه تله‌دار",
+      "pages": "173-191",
+      "file": "finalized/فصل_۱۶_دروازه_تله_دار.md"
+    },
+    {
+      "chapter": 17,
+      "title": "مرد دوچهره",
+      "pages": "192-206",
+      "file": "finalized/فصل_۱۷_مرد_دوچهره.md"
+    }
+  ]
+}

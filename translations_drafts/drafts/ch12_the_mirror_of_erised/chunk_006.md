@@ -1,0 +1,46 @@
+He pulled the cloak over his head and his reflection vanished completely. 
+ 
+ «There’s a note!» said Ron suddenly. «A note fell out of it!» 
+ 
+ Harry pulled off the cloak and seized the letter. Written in narrow, loopy writing he had never 
+seen before were the following words: 
+ 
+ Your father left this in my possession before he died. 
+ 
+ It is time it was returned to you. 
+ 
+ Use it well. 
+ 
+ A Very Merry Christmas to you. 
+ 
+ There was no signature. Harry stared at the note. Ron was admiring the cloak. 
+ 
+ «I’d give anything for one of these,» he said. «Anything. What’s the matter?» 
+ 
+ «Nothing,» said Harry. He felt very strange. Who had sent the cloak? Had it really once belonged 
+to his father? 
+ 
+ Before he could say or think anything else, the dormitory door was flung open and Fred and 
+George Weasley bounded in. Harry stuffed the cloak quickly out of sight. He didn’t feel like 
+sharing it with anyone else yet. 
+ 
+ «Merry Christmas!» 
+ 
+ «Hey, look، Harry’s got a Weasley sweater, too!» 
+ 
+ Fred and George were wearing blue sweaters, one with a large yellow F on it, the other a G. 
+ 
+ «Harry’s is better than ours, though,» said Fred, holding up Harry’s sweater. «She obviously 
+makes more of an effort if you’re not family.» 
+ 
+ «Why aren’t you wearing yours, Ron?» George demanded. «Come on, get it on, they’re lovely 
+and warm.» 
+ 
+ «I hate maroon,» Ron moaned halfheartedly as he pulled it over his head. 
+ 
+ «You haven’t got a letter on yours,» George observed. «I suppose she thinks you don’t forget 
+your name. But we’re not stupid، we know we’re called Gred and Forge.» 
+ 
+ «What’s all this noise?» 
+ 
+ Percy Weasley stuck his head through the door, looking disapproving. He had clearly gotten

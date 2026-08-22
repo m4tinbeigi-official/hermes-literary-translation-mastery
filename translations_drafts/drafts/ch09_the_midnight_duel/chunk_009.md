@@ -1,0 +1,46 @@
+They pulled on their bathrobes, picked up their wands, and crept across the tower room, down 
+the spiral staircase, and into the Gryffindor common room. A few embers were still glowing in 
+the fireplace, turning all the armchairs into hunched black shadows. They had almost reached the 
+portrait hole when a voice spoke from the chair nearest them, «I can’t believe you’re going to do 
+this, Harry.» 
+ 
+ A lamp flickered on. It was Hermione Granger, wearing a pink bathrobe and a frown. 
+ 
+ «You!» said Ron furiously. «Go back to bed!» 
+ 
+ «I almost told your brother,» Hermione snapped, «Percy، he’s a prefect, he’d put a stop to 
+this.» 
+ 
+ Harry couldn’t believe anyone could be so interfering. 
+ 
+ «Come on,» he said to Ron. He pushed open the portrait of the Fat Lady and climbed through the 
+hole. 
+ 
+ Hermione wasn’t going to give up that easily. She followed Ron through the portrait hole, 
+hissing at them like an angry goose. 
+ 
+ «Don’t you care about Gryffindor, do you only care about yourselves, I don’t want Slytherin to 
+win the house cup, and you’ll lose all the points I got from Professor McGonagall for knowing 
+about Switching Spells.» 
+ 
+ «Go away.» 
+ 
+ «All right, but I warned you, you just remember what I said when you’re on the train home 
+tomorrow, you’re so، » 
+ 
+ But what they were, they didn’t find out. Hermione had turned to the portrait of the Fat Lady to 
+get back inside and found herself facing an empty painting. The Fat Lady had gone on a 
+nighttime visit and Hermione was locked out of Gryffindor tower. 
+ 
+ «Now what am I going to do?» she asked shrilly. 
+ 
+ «That’s your problem,» said Ron. «We’ve got to go, we’re going to be late.» 
+ 
+ They hadn’t even reached the end of the corridor when Hermione caught up with them. 
+ 
+ «I’m coming with you,» she said. 
+ 
+ «You are not.» 
+ 
+ «D’you think I’m going to stand out here and wait for Filch to catch me? If he finds all three of 
+us I’ll tell him the truth, that I was trying to stop you, and you can back me up.»

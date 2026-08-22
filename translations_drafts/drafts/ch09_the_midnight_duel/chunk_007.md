@@ -1,0 +1,45 @@
+It was dinnertime. Harry had just finished telling Ron what had happened when he’d left the 
+grounds with Professor McGonagall. Ron had a piece of steak and kidney pie halfway to his 
+mouth, but he’d forgotten all about it. 
+ 
+ «Seeker?» he said. «But first years never، you must be the youngest house player in about، » 
+ 
+ «، a century,» said Harry, shoveling pie into his mouth. He felt particularly hungry after the 
+excitement of the afternoon. «Wood told me.» 
+ 
+ Ron was so amazed, so impressed, he just sat and gaped at Harry. 
+ 
+ «I start training next week,» said Harry. «Only don’t tell anyone, Wood wants to keep it a 
+secret.» 
+ 
+ Fred and George Weasley now came into the hall, spotted Harry, and hurried over. 
+ 
+ «Well done,» said George in a low voice. «Wood told us. We’re on the team too، Beaters.» 
+ 
+ «I tell you, we’re going to win that Quidditch cup for sure this year,» said Fred. «We haven’t 
+won since Charlie left, but this year’s team is going to be brilliant. You must be good, Harry, 
+Wood was almost skipping when he told us.» 
+ 
+ «Anyway, we’ve got to go, Lee Jordan reckons he’s found a new secret passageway out of the 
+school.» 
+ 
+ «Bet it’s that one behind the statue of Gregory the Smarmy that we found in our first week. See 
+you.» 
+ 
+ Fred and George had hardly disappeared when someone far less welcome turned up: Malfoy, 
+flanked by Crabbe and Goyle. 
+ 
+ «Having a last meal, Potter? When are you getting the train back to the Muggles?» 
+ 
+ «You’re a lot braver now that you’re back on the ground and you’ve got your little friends with 
+you,» said Harry coolly. There was of course nothing at all little about Crabbe and Goyle, but as 
+the High Table was full of teachers, neither of them could do more than crack their knuckles and 
+scowl. 
+ 
+ «I’d take you on anytime on my own,» said Malfoy. «Tonight, if you want. Wizard’s duel. 
+Wands only، no contact. What’s the matter? Never heard of a wizard’s duel before, I 
+suppose?» 
+ 
+ «Of course he has,» said Ron, wheeling around. «I’m his second, who’s yours?» 
+ 
+ Malfoy looked at Crabbe and Goyle, sizing them up.

@@ -1,0 +1,45 @@
+You might belong in Gryffindor, 
+ 
+ Where dwell the brave at heart, 
+ 
+ Their daring, nerve, and chivalry 
+ 
+ Set Gryffindors apart; 
+ 
+ You might belong in Hufflepuff, 
+ 
+ Where they are just and loyal, 
+ 
+ Those patient Hufflepuffs are true 
+ 
+ And unafraid of toil; 
+ 
+ Or yet in wise old Ravenclaw, 
+ 
+ if you’ve a ready mind, 
+ 
+ Where those of wit and learning, 
+ 
+ Will always find their kind; 
+ 
+ Or perhaps in Slytherin 
+ 
+ You’ll make your real friends, 
+ 
+ Those cunning folk use any means 
+ 
+ To achieve their ends. 
+ 
+ So put me on! Don’t be afraid! 
+ 
+ And don’t get in a flap! 
+ 
+ You’re in safe hands (though I have none) 
+ 
+ For I’m a Thinking Cap!» 
+ 
+ The whole hall burst into applause as the hat fini shed its song. It bowed to each of the four tables 
+and then became quite still again. 
+ 
+ «So we’ve just got to try on the hat!» Ron whispered to Harry. «I’ll kill Fred, he was going on 
+about wrestling a troll.»

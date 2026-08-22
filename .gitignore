@@ -1,0 +1,12 @@
+# Python & System
+__pycache__/
+*.py[cod]
+*$py.class
+.DS_Store
+*.swp
+*.zip
+
+# Sensitive keys or local temporary configs
+*.sqlite
+.env
+.hermes/

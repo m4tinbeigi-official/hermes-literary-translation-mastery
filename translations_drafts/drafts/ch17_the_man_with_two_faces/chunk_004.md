@@ -1,0 +1,46 @@
+Stone back in its pocket، and as it did so, Harry felt something heavy drop into his real pocket. 
+Somehow، incredibly، he’d gotten the Stone. 
+ 
+ «Well?» said Quirrell impatiently. «What do you see?» 
+ 
+ Harry screwed up his courage. 
+ 
+ «I see myself shaking hands with Dumbledore,» he invented. «I، I’ve won the house cup for 
+Gryffindor.» 
+ 
+ Quirrell cursed again. 
+ 
+ «Get out of the way,» he said. As Harry moved aside, he felt the Sorcerer’s Stone against his leg. 
+Dare he make a break for it? 
+ 
+ But he hadn’t walked five paces before a high voice spoke, though Quirrell wasn’t moving his 
+lips. 
+ 
+ «He lies… He lies…» 
+ 
+ «Potter, come back here!» Quirrell shouted. «Tell me the truth! What did you just see?» 
+ 
+ The high voice spoke again. 
+ 
+ «Let me speak to him… face-to-face…» 
+ 
+ «Master, you are not strong enough!» 
+ 
+ «I have strength enough… for this…» 
+ 
+ Harry felt as if Devil’s Snare was rooting him to the spot. He couldn’t move a muscle. Petrified, 
+he watched as Quirrell reached up and began to unwrap his turban. What was going on? The 
+turban fell away. Quirrell’s head looked strangely small without it. Then he turned slowly on the 
+spot. 
+ 
+ Harry would have screamed, but he couldn’t make a sound. Where there should have been a back 
+to Quirrell’s head, there was a face, the most terrible face Harry had ever seen. It was chalk 
+white with glaring red eyes and slits for nostrils, like a snake. 
+ 
+ «Harry Potter…» it whispered. 
+ 
+ Harry tried to take a step backward but his legs wouldn’t move. 
+ 
+ «See what I have become?» the face said. «Mere shadow and vapor… I have form only when I 
+can share another’s body… but there have always been those willing to let me into their hearts 
+and minds… Unicorn blood has strengthened me, these past weeks… you saw faithful Quirrell

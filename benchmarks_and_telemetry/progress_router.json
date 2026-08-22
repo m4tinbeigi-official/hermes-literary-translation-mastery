@@ -1,0 +1,777 @@
+{
+  "completed_sections": [
+    "ch01_the_boy_who_lived/sec01.md",
+    "ch01_the_boy_who_lived/sec02.md",
+    "ch01_the_boy_who_lived/sec03.md",
+    "ch01_the_boy_who_lived/sec04.md",
+    "ch01_the_boy_who_lived/sec05.md",
+    "ch01_the_boy_who_lived/sec06.md",
+    "ch01_the_boy_who_lived/sec07.md",
+    "ch01_the_boy_who_lived/sec08.md",
+    "ch02_the_vanishing_glass/sec01.md",
+    "ch02_the_vanishing_glass/sec02.md",
+    "ch02_the_vanishing_glass/sec03.md",
+    "ch02_the_vanishing_glass/sec04.md",
+    "ch02_the_vanishing_glass/sec05.md",
+    "ch03_letters_from_no_one/sec01.md",
+    "ch03_letters_from_no_one/sec02.md",
+    "ch03_letters_from_no_one/sec03.md",
+    "ch03_letters_from_no_one/sec04.md",
+    "ch03_letters_from_no_one/sec05.md",
+    "ch03_letters_from_no_one/sec06.md",
+    "ch03_letters_from_no_one/sec07.md",
+    "ch04_the_keeper_of_the_keys/sec01.md",
+    "ch04_the_keeper_of_the_keys/sec02.md",
+    "ch04_the_keeper_of_the_keys/sec03.md",
+    "ch04_the_keeper_of_the_keys/sec04.md",
+    "ch04_the_keeper_of_the_keys/sec05.md",
+    "ch04_the_keeper_of_the_keys/sec06.md",
+    "ch04_the_keeper_of_the_keys/sec07.md",
+    "ch05_diagon_alley/sec01.md",
+    "ch05_diagon_alley/sec02.md",
+    "ch05_diagon_alley/sec03.md",
+    "ch05_diagon_alley/sec04.md",
+    "ch05_diagon_alley/sec05.md",
+    "ch05_diagon_alley/sec06.md",
+    "ch06_the_journey_from_platform_nine_and_threequarters/sec04.md",
+    "ch06_the_journey_from_platform_nine_and_threequarters/sec05.md",
+    "ch06_the_journey_from_platform_nine_and_threequarters/sec06.md",
+    "ch06_the_journey_from_platform_nine_and_threequarters/sec07.md",
+    "ch06_the_journey_from_platform_nine_and_threequarters/sec08.md",
+    "ch06_the_journey_from_platform_nine_and_threequarters/sec09.md",
+    "ch06_the_journey_from_platform_nine_and_threequarters/sec10.md",
+    "ch06_the_journey_from_platform_nine_and_threequarters/sec11.md",
+    "ch06_the_journey_from_platform_nine_and_threequarters/sec12.md",
+    "ch07_the_sorting_hat/sec01.md",
+    "ch07_the_sorting_hat/sec02.md",
+    "ch07_the_sorting_hat/sec03.md",
+    "ch07_the_sorting_hat/sec04.md",
+    "ch07_the_sorting_hat/sec05.md",
+    "ch07_the_sorting_hat/sec06.md",
+    "ch07_the_sorting_hat/sec07.md",
+    "ch07_the_sorting_hat/sec08.md",
+    "ch05_diagon_alley/sec07.md",
+    "ch05_diagon_alley/sec08.md",
+    "ch05_diagon_alley/sec09.md",
+    "ch05_diagon_alley/sec10.md",
+    "ch05_diagon_alley/sec11.md",
+    "ch06_the_journey_from_platform_nine_and_threequarters/sec01.md",
+    "ch06_the_journey_from_platform_nine_and_threequarters/sec02.md",
+    "ch06_the_journey_from_platform_nine_and_threequarters/sec03.md",
+    "ch07_the_sorting_hat/sec09.md",
+    "ch08_the_potions_master/sec01.md",
+    "ch08_the_potions_master/sec02.md",
+    "ch08_the_potions_master/sec03.md",
+    "ch08_the_potions_master/sec04.md",
+    "ch08_the_potions_master/sec05.md",
+    "ch08_the_potions_master/sec06.md",
+    "ch09_the_midnight_duel/sec01.md",
+    "ch09_the_midnight_duel/sec02.md",
+    "ch09_the_midnight_duel/sec03.md",
+    "ch09_the_midnight_duel/sec04.md",
+    "ch09_the_midnight_duel/sec05.md",
+    "ch09_the_midnight_duel/sec06.md",
+    "ch09_the_midnight_duel/sec07.md",
+    "ch09_the_midnight_duel/sec08.md",
+    "ch09_the_midnight_duel/sec09.md",
+    "ch10_halloween/sec01.md",
+    "ch10_halloween/sec02.md",
+    "ch10_halloween/sec03.md",
+    "ch10_halloween/sec04.md",
+    "ch10_halloween/sec05.md",
+    "ch10_halloween/sec06.md",
+    "ch10_halloween/sec07.md",
+    "ch10_halloween/sec08.md",
+    "ch11_quidditch/sec01.md",
+    "ch11_quidditch/sec02.md",
+    "ch11_quidditch/sec03.md",
+    "ch11_quidditch/sec04.md",
+    "ch11_quidditch/sec05.md",
+    "ch11_quidditch/sec06.md",
+    "ch12_the_mirror_of_erised/sec01.md",
+    "ch12_the_mirror_of_erised/sec02.md",
+    "ch12_the_mirror_of_erised/sec03.md",
+    "ch12_the_mirror_of_erised/sec04.md",
+    "ch12_the_mirror_of_erised/sec05.md",
+    "ch12_the_mirror_of_erised/sec06.md",
+    "ch12_the_mirror_of_erised/sec07.md",
+    "ch12_the_mirror_of_erised/sec08.md",
+    "ch12_the_mirror_of_erised/sec09.md",
+    "ch12_the_mirror_of_erised/sec10.md",
+    "ch13_nicholas_flamel/sec01.md",
+    "ch13_nicholas_flamel/sec02.md",
+    "ch13_nicholas_flamel/sec03.md",
+    "ch13_nicholas_flamel/sec04.md",
+    "ch13_nicholas_flamel/sec05.md",
+    "ch13_nicholas_flamel/sec06.md",
+    "ch14_norbert_the_norwegian_ridgeback/sec01.md",
+    "ch14_norbert_the_norwegian_ridgeback/sec02.md",
+    "ch14_norbert_the_norwegian_ridgeback/sec03.md",
+    "ch14_norbert_the_norwegian_ridgeback/sec04.md",
+    "ch14_norbert_the_norwegian_ridgeback/sec05.md",
+    "ch14_norbert_the_norwegian_ridgeback/sec06.md",
+    "ch15_the_forbidden_forest/sec01.md",
+    "ch15_the_forbidden_forest/sec02.md",
+    "ch15_the_forbidden_forest/sec03.md",
+    "ch15_the_forbidden_forest/sec04.md",
+    "ch15_the_forbidden_forest/sec05.md",
+    "ch15_the_forbidden_forest/sec06.md",
+    "ch15_the_forbidden_forest/sec07.md",
+    "ch15_the_forbidden_forest/sec08.md",
+    "ch15_the_forbidden_forest/sec09.md",
+    "ch16_through_the_trapdoor/sec01.md",
+    "ch16_through_the_trapdoor/sec02.md",
+    "ch16_through_the_trapdoor/sec03.md",
+    "ch16_through_the_trapdoor/sec04.md",
+    "ch16_through_the_trapdoor/sec05.md",
+    "ch16_through_the_trapdoor/sec06.md",
+    "ch16_through_the_trapdoor/sec07.md",
+    "ch16_through_the_trapdoor/sec08.md",
+    "ch16_through_the_trapdoor/sec09.md",
+    "ch16_through_the_trapdoor/sec10.md",
+    "ch16_through_the_trapdoor/sec11.md",
+    "ch17_the_man_with_two_faces/sec01.md",
+    "ch17_the_man_with_two_faces/sec02.md",
+    "ch17_the_man_with_two_faces/sec03.md",
+    "ch17_the_man_with_two_faces/sec04.md",
+    "ch17_the_man_with_two_faces/sec05.md",
+    "ch17_the_man_with_two_faces/sec06.md",
+    "ch17_the_man_with_two_faces/sec07.md",
+    "ch17_the_man_with_two_faces/sec08.md",
+    "ch17_the_man_with_two_faces/sec09.md"
+  ],
+  "finalized_chapters": [],
+  "token_usage": {
+    "ch05_diagon_alley/sec05.md": {
+      "prompt_tokens": 1507,
+      "completion_tokens": 2166,
+      "total_tokens": 3673
+    },
+    "ch05_diagon_alley/sec06.md": {
+      "prompt_tokens": 1048,
+      "completion_tokens": 1268,
+      "total_tokens": 2316
+    },
+    "ch06_the_journey_from_platform_nine_and_threequarters/sec04.md": {
+      "prompt_tokens": 1246,
+      "completion_tokens": 1464,
+      "total_tokens": 2710
+    },
+    "ch06_the_journey_from_platform_nine_and_threequarters/sec05.md": {
+      "prompt_tokens": 1245,
+      "completion_tokens": 1477,
+      "total_tokens": 2722
+    },
+    "ch06_the_journey_from_platform_nine_and_threequarters/sec06.md": {
+      "prompt_tokens": 1003,
+      "completion_tokens": 1144,
+      "total_tokens": 2147
+    },
+    "ch06_the_journey_from_platform_nine_and_threequarters/sec07.md": {
+      "prompt_tokens": 1027,
+      "completion_tokens": 1171,
+      "total_tokens": 2198
+    },
+    "ch06_the_journey_from_platform_nine_and_threequarters/sec08.md": {
+      "prompt_tokens": 1481,
+      "completion_tokens": 1970,
+      "total_tokens": 3451
+    },
+    "ch06_the_journey_from_platform_nine_and_threequarters/sec09.md": {
+      "prompt_tokens": 1529,
+      "completion_tokens": 2107,
+      "total_tokens": 3636
+    },
+    "ch06_the_journey_from_platform_nine_and_threequarters/sec10.md": {
+      "prompt_tokens": 1041,
+      "completion_tokens": 1133,
+      "total_tokens": 2174
+    },
+    "ch06_the_journey_from_platform_nine_and_threequarters/sec11.md": {
+      "prompt_tokens": 1673,
+      "completion_tokens": 481,
+      "total_tokens": 2154
+    },
+    "ch06_the_journey_from_platform_nine_and_threequarters/sec12.md": {
+      "prompt_tokens": 593,
+      "completion_tokens": 317,
+      "total_tokens": 910
+    },
+    "ch07_the_sorting_hat/sec01.md": {
+      "prompt_tokens": 1057,
+      "completion_tokens": 1239,
+      "total_tokens": 2296
+    },
+    "ch07_the_sorting_hat/sec02.md": {
+      "prompt_tokens": 1024,
+      "completion_tokens": 1209,
+      "total_tokens": 2233
+    },
+    "ch07_the_sorting_hat/sec03.md": {
+      "prompt_tokens": 1179,
+      "completion_tokens": 1431,
+      "total_tokens": 2610
+    },
+    "ch07_the_sorting_hat/sec04.md": {
+      "prompt_tokens": 1532,
+      "completion_tokens": 2020,
+      "total_tokens": 3552
+    },
+    "ch07_the_sorting_hat/sec05.md": {
+      "prompt_tokens": 1154,
+      "completion_tokens": 1486,
+      "total_tokens": 2640
+    },
+    "ch07_the_sorting_hat/sec06.md": {
+      "prompt_tokens": 1067,
+      "completion_tokens": 1268,
+      "total_tokens": 2335
+    },
+    "ch07_the_sorting_hat/sec07.md": {
+      "prompt_tokens": 1070,
+      "completion_tokens": 306,
+      "total_tokens": 1376
+    },
+    "ch07_the_sorting_hat/sec08.md": {
+      "prompt_tokens": 1395,
+      "completion_tokens": 1887,
+      "total_tokens": 3282
+    }
+  },
+  "section_stats": {
+    "ch05_diagon_alley/sec07.md": {
+      "prompt_tokens": 1495,
+      "completion_tokens": 2027,
+      "total_tokens": 3522,
+      "duration_seconds": 15.65
+    },
+    "ch05_diagon_alley/sec08.md": {
+      "prompt_tokens": 1067,
+      "completion_tokens": 1313,
+      "total_tokens": 2380,
+      "duration_seconds": 10.59
+    },
+    "ch05_diagon_alley/sec09.md": {
+      "prompt_tokens": 1070,
+      "completion_tokens": 1320,
+      "total_tokens": 2390,
+      "duration_seconds": 11.02
+    },
+    "ch05_diagon_alley/sec10.md": {
+      "prompt_tokens": 1554,
+      "completion_tokens": 2214,
+      "total_tokens": 3768,
+      "duration_seconds": 12.84
+    },
+    "ch05_diagon_alley/sec11.md": {
+      "prompt_tokens": 1028,
+      "completion_tokens": 1196,
+      "total_tokens": 2224,
+      "duration_seconds": 11.52
+    },
+    "ch06_the_journey_from_platform_nine_and_threequarters/sec01.md": {
+      "prompt_tokens": 1538,
+      "completion_tokens": 2127,
+      "total_tokens": 3665,
+      "duration_seconds": 9.96
+    },
+    "ch06_the_journey_from_platform_nine_and_threequarters/sec02.md": {
+      "prompt_tokens": 1064,
+      "completion_tokens": 1256,
+      "total_tokens": 2320,
+      "duration_seconds": 7.56
+    },
+    "ch06_the_journey_from_platform_nine_and_threequarters/sec03.md": {
+      "prompt_tokens": 1023,
+      "completion_tokens": 1102,
+      "total_tokens": 2125,
+      "duration_seconds": 8.36
+    },
+    "ch07_the_sorting_hat/sec09.md": {
+      "prompt_tokens": 970,
+      "completion_tokens": 1088,
+      "total_tokens": 2058,
+      "duration_seconds": 8.1
+    },
+    "ch08_the_potions_master/sec01.md": {
+      "prompt_tokens": 1034,
+      "completion_tokens": 1254,
+      "total_tokens": 2288,
+      "duration_seconds": 11.2
+    },
+    "ch08_the_potions_master/sec02.md": {
+      "prompt_tokens": 1260,
+      "completion_tokens": 1662,
+      "total_tokens": 2922,
+      "duration_seconds": 10.05
+    },
+    "ch08_the_potions_master/sec03.md": {
+      "prompt_tokens": 1019,
+      "completion_tokens": 1074,
+      "total_tokens": 2093,
+      "duration_seconds": 7.49
+    },
+    "ch08_the_potions_master/sec04.md": {
+      "prompt_tokens": 1022,
+      "completion_tokens": 454,
+      "total_tokens": 1476,
+      "duration_seconds": 8.74
+    },
+    "ch08_the_potions_master/sec05.md": {
+      "prompt_tokens": 1092,
+      "completion_tokens": 289,
+      "total_tokens": 1381,
+      "duration_seconds": 5.92
+    },
+    "ch08_the_potions_master/sec06.md": {
+      "prompt_tokens": 1583,
+      "completion_tokens": 333,
+      "total_tokens": 1916,
+      "duration_seconds": 6.59
+    },
+    "ch09_the_midnight_duel/sec01.md": {
+      "prompt_tokens": 1149,
+      "completion_tokens": 1569,
+      "total_tokens": 2718,
+      "duration_seconds": 7.94
+    },
+    "ch09_the_midnight_duel/sec02.md": {
+      "prompt_tokens": 1581,
+      "completion_tokens": 333,
+      "total_tokens": 1914,
+      "duration_seconds": 5.23
+    },
+    "ch09_the_midnight_duel/sec03.md": {
+      "prompt_tokens": 1022,
+      "completion_tokens": 1136,
+      "total_tokens": 2158,
+      "duration_seconds": 8.9
+    },
+    "ch09_the_midnight_duel/sec04.md": {
+      "prompt_tokens": 1467,
+      "completion_tokens": 2097,
+      "total_tokens": 3564,
+      "duration_seconds": 16.15
+    },
+    "ch09_the_midnight_duel/sec05.md": {
+      "prompt_tokens": 1498,
+      "completion_tokens": 2093,
+      "total_tokens": 3591,
+      "duration_seconds": 19.53
+    },
+    "ch09_the_midnight_duel/sec06.md": {
+      "prompt_tokens": 1484,
+      "completion_tokens": 1957,
+      "total_tokens": 3441,
+      "duration_seconds": 12.1
+    },
+    "ch09_the_midnight_duel/sec07.md": {
+      "prompt_tokens": 1480,
+      "completion_tokens": 331,
+      "total_tokens": 1811,
+      "duration_seconds": 5.26
+    },
+    "ch09_the_midnight_duel/sec08.md": {
+      "prompt_tokens": 1048,
+      "completion_tokens": 1317,
+      "total_tokens": 2365,
+      "duration_seconds": 9.59
+    },
+    "ch09_the_midnight_duel/sec09.md": {
+      "prompt_tokens": 546,
+      "completion_tokens": 237,
+      "total_tokens": 783,
+      "duration_seconds": 4.35
+    },
+    "ch10_halloween/sec01.md": {
+      "prompt_tokens": 1574,
+      "completion_tokens": 220,
+      "total_tokens": 1794,
+      "duration_seconds": 4.85
+    },
+    "ch10_halloween/sec02.md": {
+      "prompt_tokens": 1035,
+      "completion_tokens": 1238,
+      "total_tokens": 2273,
+      "duration_seconds": 9.65
+    },
+    "ch10_halloween/sec03.md": {
+      "prompt_tokens": 1000,
+      "completion_tokens": 1208,
+      "total_tokens": 2208,
+      "duration_seconds": 9.89
+    },
+    "ch10_halloween/sec04.md": {
+      "prompt_tokens": 1183,
+      "completion_tokens": 397,
+      "total_tokens": 1580,
+      "duration_seconds": 5.06
+    },
+    "ch10_halloween/sec05.md": {
+      "prompt_tokens": 1020,
+      "completion_tokens": 1197,
+      "total_tokens": 2217,
+      "duration_seconds": 10.11
+    },
+    "ch10_halloween/sec06.md": {
+      "prompt_tokens": 1429,
+      "completion_tokens": 1933,
+      "total_tokens": 3362,
+      "duration_seconds": 14.34
+    },
+    "ch10_halloween/sec07.md": {
+      "prompt_tokens": 1054,
+      "completion_tokens": 1220,
+      "total_tokens": 2274,
+      "duration_seconds": 9.71
+    },
+    "ch10_halloween/sec08.md": {
+      "prompt_tokens": 1441,
+      "completion_tokens": 374,
+      "total_tokens": 1815,
+      "duration_seconds": 6.95
+    },
+    "ch11_quidditch/sec01.md": {
+      "prompt_tokens": 1110,
+      "completion_tokens": 1385,
+      "total_tokens": 2495,
+      "duration_seconds": 10.14
+    },
+    "ch11_quidditch/sec02.md": {
+      "prompt_tokens": 1503,
+      "completion_tokens": 2141,
+      "total_tokens": 3644,
+      "duration_seconds": 11.79
+    },
+    "ch11_quidditch/sec03.md": {
+      "prompt_tokens": 1481,
+      "completion_tokens": 752,
+      "total_tokens": 2233,
+      "duration_seconds": 5.17
+    },
+    "ch11_quidditch/sec04.md": {
+      "prompt_tokens": 1540,
+      "completion_tokens": 2144,
+      "total_tokens": 3684,
+      "duration_seconds": 13.42
+    },
+    "ch11_quidditch/sec05.md": {
+      "prompt_tokens": 1059,
+      "completion_tokens": 337,
+      "total_tokens": 1396,
+      "duration_seconds": 6.09
+    },
+    "ch11_quidditch/sec06.md": {
+      "prompt_tokens": 896,
+      "completion_tokens": 972,
+      "total_tokens": 1868,
+      "duration_seconds": 7.28
+    },
+    "ch12_the_mirror_of_erised/sec01.md": {
+      "prompt_tokens": 1116,
+      "completion_tokens": 1443,
+      "total_tokens": 2559,
+      "duration_seconds": 13.69
+    },
+    "ch12_the_mirror_of_erised/sec02.md": {
+      "prompt_tokens": 1599,
+      "completion_tokens": 2299,
+      "total_tokens": 3898,
+      "duration_seconds": 13.3
+    },
+    "ch12_the_mirror_of_erised/sec03.md": {
+      "prompt_tokens": 1084,
+      "completion_tokens": 1402,
+      "total_tokens": 2486,
+      "duration_seconds": 11.99
+    },
+    "ch12_the_mirror_of_erised/sec04.md": {
+      "prompt_tokens": 1359,
+      "completion_tokens": 322,
+      "total_tokens": 1681,
+      "duration_seconds": 5.27
+    },
+    "ch12_the_mirror_of_erised/sec05.md": {
+      "prompt_tokens": 1158,
+      "completion_tokens": 1567,
+      "total_tokens": 2725,
+      "duration_seconds": 10.66
+    },
+    "ch12_the_mirror_of_erised/sec06.md": {
+      "prompt_tokens": 1098,
+      "completion_tokens": 1322,
+      "total_tokens": 2420,
+      "duration_seconds": 6.85
+    },
+    "ch12_the_mirror_of_erised/sec07.md": {
+      "prompt_tokens": 1201,
+      "completion_tokens": 1392,
+      "total_tokens": 2593,
+      "duration_seconds": 10.4
+    },
+    "ch12_the_mirror_of_erised/sec08.md": {
+      "prompt_tokens": 1088,
+      "completion_tokens": 303,
+      "total_tokens": 1391,
+      "duration_seconds": 3.69
+    },
+    "ch12_the_mirror_of_erised/sec09.md": {
+      "prompt_tokens": 1243,
+      "completion_tokens": 1450,
+      "total_tokens": 2693,
+      "duration_seconds": 11.24
+    },
+    "ch12_the_mirror_of_erised/sec10.md": {
+      "prompt_tokens": 1378,
+      "completion_tokens": 1882,
+      "total_tokens": 3260,
+      "duration_seconds": 14.88
+    },
+    "ch13_nicholas_flamel/sec01.md": {
+      "prompt_tokens": 1069,
+      "completion_tokens": 1313,
+      "total_tokens": 2382,
+      "duration_seconds": 7.94
+    },
+    "ch13_nicholas_flamel/sec02.md": {
+      "prompt_tokens": 1479,
+      "completion_tokens": 352,
+      "total_tokens": 1831,
+      "duration_seconds": 4.73
+    },
+    "ch13_nicholas_flamel/sec03.md": {
+      "prompt_tokens": 1065,
+      "completion_tokens": 420,
+      "total_tokens": 1485,
+      "duration_seconds": 5.75
+    },
+    "ch13_nicholas_flamel/sec04.md": {
+      "prompt_tokens": 1018,
+      "completion_tokens": 1198,
+      "total_tokens": 2216,
+      "duration_seconds": 11.99
+    },
+    "ch13_nicholas_flamel/sec05.md": {
+      "prompt_tokens": 1665,
+      "completion_tokens": 376,
+      "total_tokens": 2041,
+      "duration_seconds": 5.5
+    },
+    "ch13_nicholas_flamel/sec06.md": {
+      "prompt_tokens": 1051,
+      "completion_tokens": 1162,
+      "total_tokens": 2213,
+      "duration_seconds": 7.41
+    },
+    "ch14_norbert_the_norwegian_ridgeback/sec01.md": {
+      "prompt_tokens": 1062,
+      "completion_tokens": 657,
+      "total_tokens": 1719,
+      "duration_seconds": 8.92
+    },
+    "ch14_norbert_the_norwegian_ridgeback/sec02.md": {
+      "prompt_tokens": 1609,
+      "completion_tokens": 556,
+      "total_tokens": 2165,
+      "duration_seconds": 6.66
+    },
+    "ch14_norbert_the_norwegian_ridgeback/sec03.md": {
+      "prompt_tokens": 1007,
+      "completion_tokens": 354,
+      "total_tokens": 1361,
+      "duration_seconds": 4.5
+    },
+    "ch14_norbert_the_norwegian_ridgeback/sec04.md": {
+      "prompt_tokens": 1538,
+      "completion_tokens": 370,
+      "total_tokens": 1908,
+      "duration_seconds": 6.03
+    },
+    "ch14_norbert_the_norwegian_ridgeback/sec05.md": {
+      "prompt_tokens": 1618,
+      "completion_tokens": 2305,
+      "total_tokens": 3923,
+      "duration_seconds": 29.27
+    },
+    "ch14_norbert_the_norwegian_ridgeback/sec06.md": {
+      "prompt_tokens": 877,
+      "completion_tokens": 927,
+      "total_tokens": 1804,
+      "duration_seconds": 7.94
+    },
+    "ch15_the_forbidden_forest/sec01.md": {
+      "prompt_tokens": 1114,
+      "completion_tokens": 1381,
+      "total_tokens": 2495,
+      "duration_seconds": 9.08
+    },
+    "ch15_the_forbidden_forest/sec02.md": {
+      "prompt_tokens": 1642,
+      "completion_tokens": 433,
+      "total_tokens": 2075,
+      "duration_seconds": 4.96
+    },
+    "ch15_the_forbidden_forest/sec03.md": {
+      "prompt_tokens": 1641,
+      "completion_tokens": 371,
+      "total_tokens": 2012,
+      "duration_seconds": 5.68
+    },
+    "ch15_the_forbidden_forest/sec04.md": {
+      "prompt_tokens": 1088,
+      "completion_tokens": 1306,
+      "total_tokens": 2394,
+      "duration_seconds": 12.71
+    },
+    "ch15_the_forbidden_forest/sec05.md": {
+      "prompt_tokens": 1448,
+      "completion_tokens": 1915,
+      "total_tokens": 3363,
+      "duration_seconds": 14.65
+    },
+    "ch15_the_forbidden_forest/sec06.md": {
+      "prompt_tokens": 1048,
+      "completion_tokens": 1245,
+      "total_tokens": 2293,
+      "duration_seconds": 7.55
+    },
+    "ch15_the_forbidden_forest/sec07.md": {
+      "prompt_tokens": 1065,
+      "completion_tokens": 1255,
+      "total_tokens": 2320,
+      "duration_seconds": 9.9
+    },
+    "ch15_the_forbidden_forest/sec08.md": {
+      "prompt_tokens": 1027,
+      "completion_tokens": 398,
+      "total_tokens": 1425,
+      "duration_seconds": 3.84
+    },
+    "ch15_the_forbidden_forest/sec09.md": {
+      "prompt_tokens": 1348,
+      "completion_tokens": 1829,
+      "total_tokens": 3177,
+      "duration_seconds": 14.95
+    },
+    "ch16_through_the_trapdoor/sec01.md": {
+      "prompt_tokens": 1152,
+      "completion_tokens": 468,
+      "total_tokens": 1620,
+      "duration_seconds": 6.88
+    },
+    "ch16_through_the_trapdoor/sec02.md": {
+      "prompt_tokens": 1604,
+      "completion_tokens": 2224,
+      "total_tokens": 3828,
+      "duration_seconds": 10.43
+    },
+    "ch16_through_the_trapdoor/sec03.md": {
+      "prompt_tokens": 1343,
+      "completion_tokens": 321,
+      "total_tokens": 1664,
+      "duration_seconds": 6.29
+    },
+    "ch16_through_the_trapdoor/sec04.md": {
+      "prompt_tokens": 1011,
+      "completion_tokens": 1131,
+      "total_tokens": 2142,
+      "duration_seconds": 11.27
+    },
+    "ch16_through_the_trapdoor/sec05.md": {
+      "prompt_tokens": 1404,
+      "completion_tokens": 1745,
+      "total_tokens": 3149,
+      "duration_seconds": 14.17
+    },
+    "ch16_through_the_trapdoor/sec06.md": {
+      "prompt_tokens": 1468,
+      "completion_tokens": 492,
+      "total_tokens": 1960,
+      "duration_seconds": 7.51
+    },
+    "ch16_through_the_trapdoor/sec07.md": {
+      "prompt_tokens": 1530,
+      "completion_tokens": 395,
+      "total_tokens": 1925,
+      "duration_seconds": 6.64
+    },
+    "ch16_through_the_trapdoor/sec08.md": {
+      "prompt_tokens": 1547,
+      "completion_tokens": 2077,
+      "total_tokens": 3624,
+      "duration_seconds": 12.19
+    },
+    "ch16_through_the_trapdoor/sec09.md": {
+      "prompt_tokens": 1406,
+      "completion_tokens": 339,
+      "total_tokens": 1745,
+      "duration_seconds": 8.77
+    },
+    "ch16_through_the_trapdoor/sec10.md": {
+      "prompt_tokens": 1263,
+      "completion_tokens": 1327,
+      "total_tokens": 2590,
+      "duration_seconds": 15.78
+    },
+    "ch16_through_the_trapdoor/sec11.md": {
+      "prompt_tokens": 620,
+      "completion_tokens": 335,
+      "total_tokens": 955,
+      "duration_seconds": 7.67
+    },
+    "ch17_the_man_with_two_faces/sec01.md": {
+      "prompt_tokens": 1492,
+      "completion_tokens": 2073,
+      "total_tokens": 3565,
+      "duration_seconds": 15.65
+    },
+    "ch17_the_man_with_two_faces/sec02.md": {
+      "prompt_tokens": 1459,
+      "completion_tokens": 433,
+      "total_tokens": 1892,
+      "duration_seconds": 6.25
+    },
+    "ch17_the_man_with_two_faces/sec03.md": {
+      "prompt_tokens": 1026,
+      "completion_tokens": 459,
+      "total_tokens": 1485,
+      "duration_seconds": 6.7
+    },
+    "ch17_the_man_with_two_faces/sec04.md": {
+      "prompt_tokens": 1502,
+      "completion_tokens": 697,
+      "total_tokens": 2199,
+      "duration_seconds": 4.56
+    },
+    "ch17_the_man_with_two_faces/sec05.md": {
+      "prompt_tokens": 1077,
+      "completion_tokens": 1359,
+      "total_tokens": 2436,
+      "duration_seconds": 9.65
+    },
+    "ch17_the_man_with_two_faces/sec06.md": {
+      "prompt_tokens": 1458,
+      "completion_tokens": 395,
+      "total_tokens": 1853,
+      "duration_seconds": 5.84
+    },
+    "ch17_the_man_with_two_faces/sec07.md": {
+      "prompt_tokens": 1613,
+      "completion_tokens": 2315,
+      "total_tokens": 3928,
+      "duration_seconds": 15.19
+    },
+    "ch17_the_man_with_two_faces/sec08.md": {
+      "prompt_tokens": 1132,
+      "completion_tokens": 374,
+      "total_tokens": 1506,
+      "duration_seconds": 6.46
+    },
+    "ch17_the_man_with_two_faces/sec09.md": {
+      "prompt_tokens": 1265,
+      "completion_tokens": 1587,
+      "total_tokens": 2852,
+      "duration_seconds": 11.39
+    }
+  }
+}

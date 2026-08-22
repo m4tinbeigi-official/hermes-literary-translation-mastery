@@ -1,0 +1,6 @@
+FROM qwen2.5:3b
+PARAMETER num_ctx 2048
+PARAMETER num_thread 4
+PARAMETER num_batch 256
+PARAMETER temperature 0.2
+PARAMETER top_p 0.9

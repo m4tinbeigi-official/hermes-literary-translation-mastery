@@ -1,0 +1,45 @@
+Our heads could do with filling 
+ 
+ With some interesting stuff, 
+ 
+ For now they’re bare and full of air, 
+ 
+ Dead flies and bits of fluff, 
+ 
+ So teach us things worth knowing, 
+ 
+ Bring back what we’ve forgot, 
+ 
+ just do your best, we’ll do the rest, 
+ 
+ And learn until our brains all rot.» 
+ 
+ Everybody finished the song at di fferent times. At last, only the Weasley twins were left singing 
+along to a very slow funeral march. Dumbledore conducted their last few lines with his wand and 
+when they had finished, he was one of those who clapped loudest. 
+ 
+ «Ah, music,» he said, wiping his eyes. «A magic beyond all we do here! And now, bedtime. Off 
+you trot!» 
+ 
+ The Gryffindor first years followed Percy through the chattering crowds, out of the Great Hall, 
+and up the marble staircase. Harry’s legs were like lead again, but only because he was so tired 
+and full of food. He was too sleepy even to be surprised that the people in the portraits along the 
+corridors whispered and pointed as they passed, or that twice Percy led them through doorways 
+hidden behind sliding panels and hanging tapestries. They climbed more staircases, yawning and 
+dragging their feet, and Harry was just wondering how much farther they had to go when they 
+came to a sudden halt. 
+ 
+ A bundle of walking sticks was floating in midair ahead of them, and as Percy took a step toward 
+them they started throwing themselves at him. 
+ 
+ «Peeves,» Percy whispered to the first years. «A poltergeist.» He raised his voice, «Peeves، 
+show yourself.» 
+ 
+ A loud, rude sound, like the air being let out of a balloon, answered. 
+ 
+ «Do you want me to go to the Bloody Baron?» 
+ 
+ There was a pop, and a little man with wicked, dark eyes and a wide mouth appeared, floating 
+cross-legged in the air, clutching the walking sticks. 
+ 
+ «Oooooooh!» he said, with an evil cackle. «Ickle Firsties! What fun!»

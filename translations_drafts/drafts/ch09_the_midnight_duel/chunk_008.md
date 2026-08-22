@@ -1,0 +1,45 @@
+«Crabbe,» he said. «Midnight all right? We’ll meet you in the trophy room; that’s always 
+unlocked.» 
+ 
+ When Malfoy had gone, Ron and Harry looked at each other. 
+ 
+ «What is a wizard’s duel?» said Harry. «And what do you mean, you’re my second?» 
+ 
+ «Well, a second’s there to take over if you die,» said Ron casually, getting started at last on his 
+cold pie. Catching the look on Harry’s face, he added quickly, «But people only die in proper 
+duels, you know, with real wizards. The most you and Malfoy’ll be able to do is send sparks at 
+each other. Neither of you knows enough magic to do any real damage. I bet he expected you to 
+refuse, anyway.» 
+ 
+ «And what if I wave my wand and nothing happens?» 
+ 
+ «Throw it away and punch him on the nose,» Ron suggested. 
+ 
+ «Excuse me.» 
+ 
+ They both looked up. It was Hermione Granger. 
+ 
+ «Can’t a person eat in peace in this place?» said Ron. 
+ 
+ Hermione ignored him and spoke to Harry. 
+ 
+ «I couldn’t help overhearing what you and Malfoy were saying، » 
+ 
+ «Bet you could,» Ron muttered. 
+ 
+ «، and you mustn’t go wandering around the school at night, think of the points you’ll lose 
+Gryffindor if you’re caught, and you’re bound to be. It’s really very selfish of you.» 
+ 
+ «And it’s really none of your business,» said Harry. 
+ 
+ «Good-bye,» said Ron. 
+ 
+ All the same, it wasn’t what you’d call the pe rfect end to the day, Harry thought, as he lay awake 
+much later listening to Dean and Seamus falling asleep (Neville wasn’t back from the hospital 
+wing). Ron had spent all evening giving him advice such as «If he tries to curse you, you’d better 
+dodge it, because I can’t remember how to block them.» There was a very good chance they 
+were going to get caught by Filch or Mrs. Norris, and Harry felt he was pushing his luck, 
+breaking another school rule today. On the other hand, Malfoy’s sneering face kept looming up 
+out of the darkness، this was his big chance to beat Malfoy face-to-face. He couldn’t miss it. 
+ 
+ «Half-past eleven,» Ron muttered at last, «we’d better go.»

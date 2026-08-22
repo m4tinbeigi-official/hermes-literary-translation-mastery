@@ -1,0 +1,46 @@
+CHAPTER SIX 
+ 
+ 
+The Journey From Platform Nine and Three-Quarters 
+ 
+ Harry’s last month with the Du rsleys wasn’t fun. True, Dudley was now so scared of Harry he 
+wouldn’t stay in the same room, while Aunt Petunia and Uncle Vernon didn’t shut Harry in his 
+cupboard, force him to do anything, or shout at him، in fact, they didn’t speak to him at all. 
+Half terrified, half furious, they acted as though any chair with Harry in it were empty. Although 
+this was an improvement in many ways, it did become a bit depressing after a while. 
+ 
+ Harry kept to his room, with his new owl for company. He had decided to call her Hedwig, a 
+name he had found in A History of Magic. His school books were very interesting. He lay on his 
+bed reading late into the night, Hedwig swooping in and out of the open window as she pleased. 
+It was lucky that Aunt Petunia didn’t come in to vacuum anymore, because Hedwig kept 
+bringing back dead mice. Every night before he went to sleep, Harry ticked off another day on 
+the piece of paper he had pinned to the wall, counting down to September the first. 
+ 
+ On the last day of August he thought he’d better speak to his aunt and uncle about getting to 
+King’s Cross station the next day, so he went down to the living room where they were watching 
+a quiz show on television. He cleared his throat to let them know he was there, and Dudley 
+screamed and ran from the room. 
+ 
+ «Er، Uncle Vernon?» 
+ 
+ Uncle Vernon grunted to show he was listening. 
+ 
+ «Er، I need to be at King’s Cross tomorrow to، to go to Hogwarts.» 
+ 
+ Uncle Vernon grunted again. 
+ 
+ «Would it be all right if you gave me a lift?» 
+ 
+ Grunt. Harry supposed that meant yes. 
+ 
+ «Thank you.» 
+ 
+ He was about to go back upstairs when Uncle Vernon actually spoke. 
+ 
+ «Funny way to get to a wizards’ school, the train. Magic carpets all got punctures, have they?» 
+ 
+ Harry didn’t say anything. 
+ 
+ «Where is this school, anyway?» 
+ 
+ «I don’t know,» said Harry, realizing this for the first time. He pulled the ticket Hagrid had given

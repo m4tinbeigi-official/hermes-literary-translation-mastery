@@ -1,0 +1,605 @@
+[2026-08-21 20:50:02] ==========================================================
+[2026-08-21 20:50:02] 🚀 سامانه جامع ترجمه چندمرحله‌ای، ماتریس لحن و پالایشگر فعال شد
+[2026-08-21 20:50:02] ==========================================================
+[2026-08-21 20:50:02] 📖 در حال پردازش: ch02_the_vanishing_glass -> chunk_007.txt
+[2026-08-21 20:52:32] Local model request error: timed out
+[2026-08-21 20:52:32] ✅ چانک chunk_007.txt با پالایش کامل ذخیره شد.
+[2026-08-21 20:52:33] 📖 در حال پردازش: ch02_the_vanishing_glass -> chunk_008.txt
+[2026-08-21 20:55:03] Local model request error: timed out
+[2026-08-21 20:55:03] ✅ چانک chunk_008.txt با پالایش کامل ذخیره شد.
+[2026-08-21 20:55:04] 📖 در حال پردازش: ch03_letters_from_no_one -> chunk_001.txt
+[2026-08-21 20:57:34] Local model request error: timed out
+[2026-08-21 20:57:34] ✅ چانک chunk_001.txt با پالایش کامل ذخیره شد.
+[2026-08-21 20:57:35] 📖 در حال پردازش: ch03_letters_from_no_one -> chunk_002.txt
+[2026-08-21 21:00:05] Local model request error: timed out
+[2026-08-21 21:00:05] ✅ چانک chunk_002.txt با پالایش کامل ذخیره شد.
+[2026-08-21 21:00:06] 📖 در حال پردازش: ch03_letters_from_no_one -> chunk_003.txt
+[2026-08-21 21:02:36] Local model request error: timed out
+[2026-08-21 21:02:36] ✅ چانک chunk_003.txt با پالایش کامل ذخیره شد.
+[2026-08-21 21:02:37] 📖 در حال پردازش: ch03_letters_from_no_one -> chunk_004.txt
+[2026-08-21 21:05:07] Local model request error: timed out
+[2026-08-21 21:05:07] ✅ چانک chunk_004.txt با پالایش کامل ذخیره شد.
+[2026-08-21 21:05:08] 📖 در حال پردازش: ch03_letters_from_no_one -> chunk_005.txt
+[2026-08-21 21:07:38] Local model request error: timed out
+[2026-08-21 21:07:38] ✅ چانک chunk_005.txt با پالایش کامل ذخیره شد.
+[2026-08-21 21:07:39] 📖 در حال پردازش: ch03_letters_from_no_one -> chunk_006.txt
+[2026-08-21 21:10:09] Local model request error: timed out
+[2026-08-21 21:10:09] ✅ چانک chunk_006.txt با پالایش کامل ذخیره شد.
+[2026-08-21 21:10:10] 📖 در حال پردازش: ch03_letters_from_no_one -> chunk_007.txt
+[2026-08-21 21:12:40] Local model request error: timed out
+[2026-08-21 21:12:40] ✅ چانک chunk_007.txt با پالایش کامل ذخیره شد.
+[2026-08-21 21:12:41] 📖 در حال پردازش: ch03_letters_from_no_one -> chunk_008.txt
+[2026-08-21 21:15:11] Local model request error: timed out
+[2026-08-21 21:15:11] ✅ چانک chunk_008.txt با پالایش کامل ذخیره شد.
+[2026-08-21 21:15:12] 📖 در حال پردازش: ch03_letters_from_no_one -> chunk_009.txt
+[2026-08-21 21:17:42] Local model request error: timed out
+[2026-08-21 21:17:42] ✅ چانک chunk_009.txt با پالایش کامل ذخیره شد.
+[2026-08-21 21:17:43] 📖 در حال پردازش: ch03_letters_from_no_one -> chunk_010.txt
+[2026-08-21 21:19:49] ✅ چانک chunk_010.txt با پالایش کامل ذخیره شد.
+[2026-08-21 21:19:50] 📖 در حال پردازش: ch04_the_keeper_of_the_keys -> chunk_001.txt
+[2026-08-21 21:22:20] Local model request error: timed out
+[2026-08-21 21:22:20] ✅ چانک chunk_001.txt با پالایش کامل ذخیره شد.
+[2026-08-21 21:22:21] 📖 در حال پردازش: ch04_the_keeper_of_the_keys -> chunk_002.txt
+[2026-08-21 21:24:51] Local model request error: timed out
+[2026-08-21 21:24:51] ✅ چانک chunk_002.txt با پالایش کامل ذخیره شد.
+[2026-08-21 21:24:52] 📖 در حال پردازش: ch04_the_keeper_of_the_keys -> chunk_003.txt
+[2026-08-21 21:27:22] Local model request error: timed out
+[2026-08-21 21:27:22] ✅ چانک chunk_003.txt با پالایش کامل ذخیره شد.
+[2026-08-21 21:27:23] 📖 در حال پردازش: ch04_the_keeper_of_the_keys -> chunk_004.txt
+[2026-08-21 21:29:53] Local model request error: timed out
+[2026-08-21 21:29:53] ✅ چانک chunk_004.txt با پالایش کامل ذخیره شد.
+[2026-08-21 21:29:54] 📖 در حال پردازش: ch04_the_keeper_of_the_keys -> chunk_005.txt
+[2026-08-21 21:32:24] Local model request error: timed out
+[2026-08-21 21:32:24] ✅ چانک chunk_005.txt با پالایش کامل ذخیره شد.
+[2026-08-21 21:32:25] 📖 در حال پردازش: ch04_the_keeper_of_the_keys -> chunk_006.txt
+[2026-08-21 21:34:55] Local model request error: timed out
+[2026-08-21 21:34:55] ✅ چانک chunk_006.txt با پالایش کامل ذخیره شد.
+[2026-08-21 21:34:56] 📖 در حال پردازش: ch04_the_keeper_of_the_keys -> chunk_007.txt
+[2026-08-21 21:36:55] ✅ چانک chunk_007.txt با پالایش کامل ذخیره شد.
+[2026-08-21 21:36:56] 📖 در حال پردازش: ch04_the_keeper_of_the_keys -> chunk_008.txt
+[2026-08-21 21:39:26] Local model request error: timed out
+[2026-08-21 21:39:26] ✅ چانک chunk_008.txt با پالایش کامل ذخیره شد.
+[2026-08-21 21:39:27] 📖 در حال پردازش: ch04_the_keeper_of_the_keys -> chunk_009.txt
+[2026-08-21 21:41:58] Local model request error: timed out
+[2026-08-21 21:41:58] ✅ چانک chunk_009.txt با پالایش کامل ذخیره شد.
+[2026-08-21 21:41:59] 📖 در حال پردازش: ch04_the_keeper_of_the_keys -> chunk_010.txt
+[2026-08-21 21:44:29] Local model request error: timed out
+[2026-08-21 21:44:29] ✅ چانک chunk_010.txt با پالایش کامل ذخیره شد.
+[2026-08-21 21:44:30] 📖 در حال پردازش: ch05_diagon_alley -> chunk_001.txt
+[2026-08-21 21:47:00] Local model request error: timed out
+[2026-08-21 21:47:00] ✅ چانک chunk_001.txt با پالایش کامل ذخیره شد.
+[2026-08-21 21:47:01] 📖 در حال پردازش: ch05_diagon_alley -> chunk_002.txt
+[2026-08-21 21:49:31] Local model request error: timed out
+[2026-08-21 21:49:31] ✅ چانک chunk_002.txt با پالایش کامل ذخیره شد.
+[2026-08-21 21:49:32] 📖 در حال پردازش: ch05_diagon_alley -> chunk_003.txt
+[2026-08-21 21:52:02] Local model request error: timed out
+[2026-08-21 21:52:02] ✅ چانک chunk_003.txt با پالایش کامل ذخیره شد.
+[2026-08-21 21:52:03] 📖 در حال پردازش: ch05_diagon_alley -> chunk_004.txt
+[2026-08-21 21:54:33] Local model request error: timed out
+[2026-08-21 21:54:33] ✅ چانک chunk_004.txt با پالایش کامل ذخیره شد.
+[2026-08-21 21:54:34] 📖 در حال پردازش: ch05_diagon_alley -> chunk_005.txt
+[2026-08-21 21:57:04] Local model request error: timed out
+[2026-08-21 21:57:04] ✅ چانک chunk_005.txt با پالایش کامل ذخیره شد.
+[2026-08-21 21:57:05] 📖 در حال پردازش: ch05_diagon_alley -> chunk_006.txt
+[2026-08-21 21:59:35] Local model request error: timed out
+[2026-08-21 21:59:35] ✅ چانک chunk_006.txt با پالایش کامل ذخیره شد.
+[2026-08-21 21:59:36] 📖 در حال پردازش: ch05_diagon_alley -> chunk_007.txt
+[2026-08-21 22:02:06] Local model request error: timed out
+[2026-08-21 22:02:06] ✅ چانک chunk_007.txt با پالایش کامل ذخیره شد.
+[2026-08-21 22:02:07] 📖 در حال پردازش: ch05_diagon_alley -> chunk_008.txt
+[2026-08-21 22:04:37] Local model request error: timed out
+[2026-08-21 22:04:37] ✅ چانک chunk_008.txt با پالایش کامل ذخیره شد.
+[2026-08-21 22:04:38] 📖 در حال پردازش: ch05_diagon_alley -> chunk_009.txt
+[2026-08-21 22:07:08] Local model request error: timed out
+[2026-08-21 22:07:08] ✅ چانک chunk_009.txt با پالایش کامل ذخیره شد.
+[2026-08-21 22:07:09] 📖 در حال پردازش: ch05_diagon_alley -> chunk_010.txt
+[2026-08-21 22:09:39] Local model request error: timed out
+[2026-08-21 22:09:39] ✅ چانک chunk_010.txt با پالایش کامل ذخیره شد.
+[2026-08-21 22:09:40] 📖 در حال پردازش: ch05_diagon_alley -> chunk_011.txt
+[2026-08-21 22:12:10] Local model request error: timed out
+[2026-08-21 22:12:10] ✅ چانک chunk_011.txt با پالایش کامل ذخیره شد.
+[2026-08-21 22:12:11] 📖 در حال پردازش: ch05_diagon_alley -> chunk_012.txt
+[2026-08-21 22:13:24] ✅ چانک chunk_012.txt با پالایش کامل ذخیره شد.
+[2026-08-21 22:13:25] 📖 در حال پردازش: ch05_diagon_alley -> chunk_013.txt
+[2026-08-21 22:15:55] Local model request error: timed out
+[2026-08-21 22:15:55] ✅ چانک chunk_013.txt با پالایش کامل ذخیره شد.
+[2026-08-21 22:15:56] 📖 در حال پردازش: ch05_diagon_alley -> chunk_014.txt
+[2026-08-21 22:18:26] Local model request error: timed out
+[2026-08-21 22:18:26] ✅ چانک chunk_014.txt با پالایش کامل ذخیره شد.
+[2026-08-21 22:18:27] 📖 در حال پردازش: ch05_diagon_alley -> chunk_015.txt
+[2026-08-21 22:20:57] Local model request error: timed out
+[2026-08-21 22:20:57] ✅ چانک chunk_015.txt با پالایش کامل ذخیره شد.
+[2026-08-21 22:20:58] 📖 در حال پردازش: ch05_diagon_alley -> chunk_016.txt
+[2026-08-21 22:23:28] Local model request error: timed out
+[2026-08-21 22:23:28] ✅ چانک chunk_016.txt با پالایش کامل ذخیره شد.
+[2026-08-21 22:23:29] 📖 در حال پردازش: ch05_diagon_alley -> chunk_017.txt
+[2026-08-21 22:25:59] Local model request error: timed out
+[2026-08-21 22:25:59] ✅ چانک chunk_017.txt با پالایش کامل ذخیره شد.
+[2026-08-21 22:26:00] 📖 در حال پردازش: ch05_diagon_alley -> chunk_018.txt
+[2026-08-21 22:28:30] Local model request error: timed out
+[2026-08-21 22:28:30] ✅ چانک chunk_018.txt با پالایش کامل ذخیره شد.
+[2026-08-21 22:28:31] 📖 در حال پردازش: ch06_the_journey_from_platform_nine_and_threequarters -> chunk_001.txt
+[2026-08-21 22:31:01] Local model request error: timed out
+[2026-08-21 22:31:01] ✅ چانک chunk_001.txt با پالایش کامل ذخیره شد.
+[2026-08-21 22:31:03] 📖 در حال پردازش: ch06_the_journey_from_platform_nine_and_threequarters -> chunk_002.txt
+[2026-08-21 22:33:33] Local model request error: timed out
+[2026-08-21 22:33:33] ✅ چانک chunk_002.txt با پالایش کامل ذخیره شد.
+[2026-08-21 22:33:34] 📖 در حال پردازش: ch06_the_journey_from_platform_nine_and_threequarters -> chunk_003.txt
+[2026-08-21 22:36:04] Local model request error: timed out
+[2026-08-21 22:36:04] ✅ چانک chunk_003.txt با پالایش کامل ذخیره شد.
+[2026-08-21 22:36:05] 📖 در حال پردازش: ch06_the_journey_from_platform_nine_and_threequarters -> chunk_004.txt
+[2026-08-21 22:38:35] Local model request error: timed out
+[2026-08-21 22:38:35] ✅ چانک chunk_004.txt با پالایش کامل ذخیره شد.
+[2026-08-21 22:38:36] 📖 در حال پردازش: ch06_the_journey_from_platform_nine_and_threequarters -> chunk_005.txt
+[2026-08-21 22:41:06] Local model request error: timed out
+[2026-08-21 22:41:06] ✅ چانک chunk_005.txt با پالایش کامل ذخیره شد.
+[2026-08-21 22:41:07] 📖 در حال پردازش: ch06_the_journey_from_platform_nine_and_threequarters -> chunk_006.txt
+[2026-08-21 23:42:13] Local model request error: timed out
+[2026-08-21 23:42:13] ✅ چانک chunk_006.txt با پالایش کامل ذخیره شد.
+[2026-08-21 23:42:14] 📖 در حال پردازش: ch06_the_journey_from_platform_nine_and_threequarters -> chunk_007.txt
+[2026-08-22 01:30:44] Local model request error: timed out
+[2026-08-22 01:30:44] ✅ چانک chunk_007.txt با پالایش کامل ذخیره شد.
+[2026-08-22 01:30:45] 📖 در حال پردازش: ch06_the_journey_from_platform_nine_and_threequarters -> chunk_008.txt
+[2026-08-22 02:32:15] Local model request error: timed out
+[2026-08-22 02:32:15] ✅ چانک chunk_008.txt با پالایش کامل ذخیره شد.
+[2026-08-22 02:32:16] 📖 در حال پردازش: ch06_the_journey_from_platform_nine_and_threequarters -> chunk_009.txt
+[2026-08-22 02:59:18] Local model request error: timed out
+[2026-08-22 02:59:18] ✅ چانک chunk_009.txt با پالایش کامل ذخیره شد.
+[2026-08-22 02:59:19] 📖 در حال پردازش: ch06_the_journey_from_platform_nine_and_threequarters -> chunk_010.txt
+[2026-08-22 03:01:49] Local model request error: timed out
+[2026-08-22 03:01:49] ✅ چانک chunk_010.txt با پالایش کامل ذخیره شد.
+[2026-08-22 03:01:50] 📖 در حال پردازش: ch06_the_journey_from_platform_nine_and_threequarters -> chunk_011.txt
+[2026-08-22 03:04:20] Local model request error: timed out
+[2026-08-22 03:04:20] ✅ چانک chunk_011.txt با پالایش کامل ذخیره شد.
+[2026-08-22 03:04:21] 📖 در حال پردازش: ch06_the_journey_from_platform_nine_and_threequarters -> chunk_012.txt
+[2026-08-22 03:06:51] Local model request error: timed out
+[2026-08-22 03:06:51] ✅ چانک chunk_012.txt با پالایش کامل ذخیره شد.
+[2026-08-22 03:06:52] 📖 در حال پردازش: ch06_the_journey_from_platform_nine_and_threequarters -> chunk_013.txt
+[2026-08-22 03:09:22] Local model request error: timed out
+[2026-08-22 03:09:22] ✅ چانک chunk_013.txt با پالایش کامل ذخیره شد.
+[2026-08-22 03:09:23] 📖 در حال پردازش: ch06_the_journey_from_platform_nine_and_threequarters -> chunk_014.txt
+[2026-08-22 03:11:53] Local model request error: timed out
+[2026-08-22 03:11:53] ✅ چانک chunk_014.txt با پالایش کامل ذخیره شد.
+[2026-08-22 03:11:54] 📖 در حال پردازش: ch06_the_journey_from_platform_nine_and_threequarters -> chunk_015.txt
+[2026-08-22 03:14:24] Local model request error: timed out
+[2026-08-22 03:14:24] ✅ چانک chunk_015.txt با پالایش کامل ذخیره شد.
+[2026-08-22 03:14:25] 📖 در حال پردازش: ch06_the_journey_from_platform_nine_and_threequarters -> chunk_016.txt
+[2026-08-22 03:17:08] Local model request error: timed out
+[2026-08-22 03:17:09] ✅ چانک chunk_016.txt با پالایش کامل ذخیره شد.
+[2026-08-22 03:17:10] 📖 در حال پردازش: ch06_the_journey_from_platform_nine_and_threequarters -> chunk_017.txt
+[2026-08-22 03:19:40] Local model request error: timed out
+[2026-08-22 03:19:40] ✅ چانک chunk_017.txt با پالایش کامل ذخیره شد.
+[2026-08-22 03:19:42] 📖 در حال پردازش: ch06_the_journey_from_platform_nine_and_threequarters -> chunk_018.txt
+[2026-08-22 03:22:12] Local model request error: timed out
+[2026-08-22 03:22:12] ✅ چانک chunk_018.txt با پالایش کامل ذخیره شد.
+[2026-08-22 03:22:13] 📖 در حال پردازش: ch07_the_sorting_hat -> chunk_001.txt
+[2026-08-22 03:24:43] Local model request error: timed out
+[2026-08-22 03:24:43] ✅ چانک chunk_001.txt با پالایش کامل ذخیره شد.
+[2026-08-22 03:24:44] 📖 در حال پردازش: ch07_the_sorting_hat -> chunk_002.txt
+[2026-08-22 03:27:14] Local model request error: timed out
+[2026-08-22 03:27:14] ✅ چانک chunk_002.txt با پالایش کامل ذخیره شد.
+[2026-08-22 03:27:15] 📖 در حال پردازش: ch07_the_sorting_hat -> chunk_003.txt
+[2026-08-22 03:29:45] Local model request error: timed out
+[2026-08-22 03:29:45] ✅ چانک chunk_003.txt با پالایش کامل ذخیره شد.
+[2026-08-22 03:29:46] 📖 در حال پردازش: ch07_the_sorting_hat -> chunk_004.txt
+[2026-08-22 03:32:16] Local model request error: timed out
+[2026-08-22 03:32:16] ✅ چانک chunk_004.txt با پالایش کامل ذخیره شد.
+[2026-08-22 03:32:17] 📖 در حال پردازش: ch07_the_sorting_hat -> chunk_005.txt
+[2026-08-22 03:34:47] Local model request error: timed out
+[2026-08-22 03:34:47] ✅ چانک chunk_005.txt با پالایش کامل ذخیره شد.
+[2026-08-22 03:34:48] 📖 در حال پردازش: ch07_the_sorting_hat -> chunk_006.txt
+[2026-08-22 03:37:18] Local model request error: timed out
+[2026-08-22 03:37:18] ✅ چانک chunk_006.txt با پالایش کامل ذخیره شد.
+[2026-08-22 03:37:19] 📖 در حال پردازش: ch07_the_sorting_hat -> chunk_007.txt
+[2026-08-22 03:39:49] Local model request error: timed out
+[2026-08-22 03:39:49] ✅ چانک chunk_007.txt با پالایش کامل ذخیره شد.
+[2026-08-22 03:39:50] 📖 در حال پردازش: ch07_the_sorting_hat -> chunk_008.txt
+[2026-08-22 03:42:20] Local model request error: timed out
+[2026-08-22 03:42:20] ✅ چانک chunk_008.txt با پالایش کامل ذخیره شد.
+[2026-08-22 03:42:21] 📖 در حال پردازش: ch07_the_sorting_hat -> chunk_009.txt
+[2026-08-22 03:44:51] Local model request error: timed out
+[2026-08-22 03:44:51] ✅ چانک chunk_009.txt با پالایش کامل ذخیره شد.
+[2026-08-22 03:44:52] 📖 در حال پردازش: ch07_the_sorting_hat -> chunk_010.txt
+[2026-08-22 03:47:22] Local model request error: timed out
+[2026-08-22 03:47:22] ✅ چانک chunk_010.txt با پالایش کامل ذخیره شد.
+[2026-08-22 03:47:23] 📖 در حال پردازش: ch07_the_sorting_hat -> chunk_011.txt
+[2026-08-22 03:49:53] Local model request error: timed out
+[2026-08-22 03:49:53] ✅ چانک chunk_011.txt با پالایش کامل ذخیره شد.
+[2026-08-22 03:49:54] 📖 در حال پردازش: ch07_the_sorting_hat -> chunk_012.txt
+[2026-08-22 03:52:24] Local model request error: timed out
+[2026-08-22 03:52:24] ✅ چانک chunk_012.txt با پالایش کامل ذخیره شد.
+[2026-08-22 03:52:25] 📖 در حال پردازش: ch08_the_potions_master -> chunk_001.txt
+[2026-08-22 03:54:55] Local model request error: timed out
+[2026-08-22 03:54:55] ✅ چانک chunk_001.txt با پالایش کامل ذخیره شد.
+[2026-08-22 03:54:56] 📖 در حال پردازش: ch08_the_potions_master -> chunk_002.txt
+[2026-08-22 03:57:26] Local model request error: timed out
+[2026-08-22 03:57:26] ✅ چانک chunk_002.txt با پالایش کامل ذخیره شد.
+[2026-08-22 03:57:27] 📖 در حال پردازش: ch08_the_potions_master -> chunk_003.txt
+[2026-08-22 03:59:57] Local model request error: timed out
+[2026-08-22 03:59:57] ✅ چانک chunk_003.txt با پالایش کامل ذخیره شد.
+[2026-08-22 03:59:58] 📖 در حال پردازش: ch08_the_potions_master -> chunk_004.txt
+[2026-08-22 04:02:28] Local model request error: timed out
+[2026-08-22 04:02:28] ✅ چانک chunk_004.txt با پالایش کامل ذخیره شد.
+[2026-08-22 04:02:29] 📖 در حال پردازش: ch08_the_potions_master -> chunk_005.txt
+[2026-08-22 04:04:59] Local model request error: timed out
+[2026-08-22 04:04:59] ✅ چانک chunk_005.txt با پالایش کامل ذخیره شد.
+[2026-08-22 04:05:00] 📖 در حال پردازش: ch08_the_potions_master -> chunk_006.txt
+[2026-08-22 04:07:30] Local model request error: timed out
+[2026-08-22 04:07:30] ✅ چانک chunk_006.txt با پالایش کامل ذخیره شد.
+[2026-08-22 04:07:31] 📖 در حال پردازش: ch08_the_potions_master -> chunk_007.txt
+[2026-08-22 04:10:01] Local model request error: timed out
+[2026-08-22 04:10:01] ✅ چانک chunk_007.txt با پالایش کامل ذخیره شد.
+[2026-08-22 04:10:02] 📖 در حال پردازش: ch09_the_midnight_duel -> chunk_001.txt
+[2026-08-22 04:12:32] Local model request error: timed out
+[2026-08-22 04:12:32] ✅ چانک chunk_001.txt با پالایش کامل ذخیره شد.
+[2026-08-22 04:12:33] 📖 در حال پردازش: ch09_the_midnight_duel -> chunk_002.txt
+[2026-08-22 04:15:03] Local model request error: timed out
+[2026-08-22 04:15:03] ✅ چانک chunk_002.txt با پالایش کامل ذخیره شد.
+[2026-08-22 04:15:04] 📖 در حال پردازش: ch09_the_midnight_duel -> chunk_003.txt
+[2026-08-22 04:17:34] Local model request error: timed out
+[2026-08-22 04:17:34] ✅ چانک chunk_003.txt با پالایش کامل ذخیره شد.
+[2026-08-22 04:17:35] 📖 در حال پردازش: ch09_the_midnight_duel -> chunk_004.txt
+[2026-08-22 04:20:05] Local model request error: timed out
+[2026-08-22 04:20:05] ✅ چانک chunk_004.txt با پالایش کامل ذخیره شد.
+[2026-08-22 04:20:06] 📖 در حال پردازش: ch09_the_midnight_duel -> chunk_005.txt
+[2026-08-22 04:22:36] Local model request error: timed out
+[2026-08-22 04:22:36] ✅ چانک chunk_005.txt با پالایش کامل ذخیره شد.
+[2026-08-22 04:22:38] 📖 در حال پردازش: ch09_the_midnight_duel -> chunk_006.txt
+[2026-08-22 04:25:08] Local model request error: timed out
+[2026-08-22 04:25:08] ✅ چانک chunk_006.txt با پالایش کامل ذخیره شد.
+[2026-08-22 04:25:09] 📖 در حال پردازش: ch09_the_midnight_duel -> chunk_007.txt
+[2026-08-22 04:27:39] Local model request error: timed out
+[2026-08-22 04:27:39] ✅ چانک chunk_007.txt با پالایش کامل ذخیره شد.
+[2026-08-22 04:27:40] 📖 در حال پردازش: ch09_the_midnight_duel -> chunk_008.txt
+[2026-08-22 04:30:10] Local model request error: timed out
+[2026-08-22 04:30:10] ✅ چانک chunk_008.txt با پالایش کامل ذخیره شد.
+[2026-08-22 04:30:11] 📖 در حال پردازش: ch09_the_midnight_duel -> chunk_009.txt
+[2026-08-22 04:32:41] Local model request error: timed out
+[2026-08-22 04:32:41] ✅ چانک chunk_009.txt با پالایش کامل ذخیره شد.
+[2026-08-22 04:32:42] 📖 در حال پردازش: ch09_the_midnight_duel -> chunk_010.txt
+[2026-08-22 04:35:12] Local model request error: timed out
+[2026-08-22 04:35:12] ✅ چانک chunk_010.txt با پالایش کامل ذخیره شد.
+[2026-08-22 04:35:13] 📖 در حال پردازش: ch09_the_midnight_duel -> chunk_011.txt
+[2026-08-22 04:37:43] Local model request error: timed out
+[2026-08-22 04:37:43] ✅ چانک chunk_011.txt با پالایش کامل ذخیره شد.
+[2026-08-22 04:37:44] 📖 در حال پردازش: ch09_the_midnight_duel -> chunk_012.txt
+[2026-08-22 04:40:14] Local model request error: timed out
+[2026-08-22 04:40:14] ✅ چانک chunk_012.txt با پالایش کامل ذخیره شد.
+[2026-08-22 04:40:15] 📖 در حال پردازش: ch09_the_midnight_duel -> chunk_013.txt
+[2026-08-22 04:42:45] Local model request error: timed out
+[2026-08-22 04:42:45] ✅ چانک chunk_013.txt با پالایش کامل ذخیره شد.
+[2026-08-22 04:42:46] 📖 در حال پردازش: ch09_the_midnight_duel -> chunk_014.txt
+[2026-08-22 04:44:56] ✅ چانک chunk_014.txt با پالایش کامل ذخیره شد.
+[2026-08-22 04:44:57] 📖 در حال پردازش: ch10_halloween -> chunk_001.txt
+[2026-08-22 04:47:27] Local model request error: timed out
+[2026-08-22 04:47:27] ✅ چانک chunk_001.txt با پالایش کامل ذخیره شد.
+[2026-08-22 04:47:28] 📖 در حال پردازش: ch10_halloween -> chunk_002.txt
+[2026-08-22 04:49:58] Local model request error: timed out
+[2026-08-22 04:49:58] ✅ چانک chunk_002.txt با پالایش کامل ذخیره شد.
+[2026-08-22 04:49:59] 📖 در حال پردازش: ch10_halloween -> chunk_003.txt
+[2026-08-22 04:52:29] Local model request error: timed out
+[2026-08-22 04:52:29] ✅ چانک chunk_003.txt با پالایش کامل ذخیره شد.
+[2026-08-22 04:52:30] 📖 در حال پردازش: ch10_halloween -> chunk_004.txt
+[2026-08-22 04:55:00] Local model request error: timed out
+[2026-08-22 04:55:00] ✅ چانک chunk_004.txt با پالایش کامل ذخیره شد.
+[2026-08-22 04:55:01] 📖 در حال پردازش: ch10_halloween -> chunk_005.txt
+[2026-08-22 04:57:31] Local model request error: timed out
+[2026-08-22 04:57:31] ✅ چانک chunk_005.txt با پالایش کامل ذخیره شد.
+[2026-08-22 04:57:32] 📖 در حال پردازش: ch10_halloween -> chunk_006.txt
+[2026-08-22 05:00:02] Local model request error: timed out
+[2026-08-22 05:00:02] ✅ چانک chunk_006.txt با پالایش کامل ذخیره شد.
+[2026-08-22 05:00:03] 📖 در حال پردازش: ch10_halloween -> chunk_007.txt
+[2026-08-22 05:02:33] Local model request error: timed out
+[2026-08-22 05:02:33] ✅ چانک chunk_007.txt با پالایش کامل ذخیره شد.
+[2026-08-22 05:02:34] 📖 در حال پردازش: ch10_halloween -> chunk_008.txt
+[2026-08-22 05:05:04] Local model request error: timed out
+[2026-08-22 05:05:04] ✅ چانک chunk_008.txt با پالایش کامل ذخیره شد.
+[2026-08-22 05:05:05] 📖 در حال پردازش: ch10_halloween -> chunk_009.txt
+[2026-08-22 05:07:35] Local model request error: timed out
+[2026-08-22 05:07:35] ✅ چانک chunk_009.txt با پالایش کامل ذخیره شد.
+[2026-08-22 05:07:36] 📖 در حال پردازش: ch10_halloween -> chunk_010.txt
+[2026-08-22 05:09:20] ✅ چانک chunk_010.txt با پالایش کامل ذخیره شد.
+[2026-08-22 05:09:21] 📖 در حال پردازش: ch10_halloween -> chunk_011.txt
+[2026-08-22 05:11:51] Local model request error: timed out
+[2026-08-22 05:11:51] ✅ چانک chunk_011.txt با پالایش کامل ذخیره شد.
+[2026-08-22 05:11:52] 📖 در حال پردازش: ch11_quidditch -> chunk_001.txt
+[2026-08-22 05:14:22] Local model request error: timed out
+[2026-08-22 05:14:22] ✅ چانک chunk_001.txt با پالایش کامل ذخیره شد.
+[2026-08-22 05:14:23] 📖 در حال پردازش: ch11_quidditch -> chunk_002.txt
+[2026-08-22 05:16:53] Local model request error: timed out
+[2026-08-22 05:16:53] ✅ چانک chunk_002.txt با پالایش کامل ذخیره شد.
+[2026-08-22 05:16:54] 📖 در حال پردازش: ch11_quidditch -> chunk_003.txt
+[2026-08-22 05:19:24] Local model request error: timed out
+[2026-08-22 05:19:24] ✅ چانک chunk_003.txt با پالایش کامل ذخیره شد.
+[2026-08-22 05:19:25] 📖 در حال پردازش: ch11_quidditch -> chunk_004.txt
+[2026-08-22 05:21:55] Local model request error: timed out
+[2026-08-22 05:21:55] ✅ چانک chunk_004.txt با پالایش کامل ذخیره شد.
+[2026-08-22 05:21:56] 📖 در حال پردازش: ch11_quidditch -> chunk_005.txt
+[2026-08-22 05:24:26] Local model request error: timed out
+[2026-08-22 05:24:26] ✅ چانک chunk_005.txt با پالایش کامل ذخیره شد.
+[2026-08-22 05:24:27] 📖 در حال پردازش: ch11_quidditch -> chunk_006.txt
+[2026-08-22 05:26:57] Local model request error: timed out
+[2026-08-22 05:26:57] ✅ چانک chunk_006.txt با پالایش کامل ذخیره شد.
+[2026-08-22 05:26:58] 📖 در حال پردازش: ch11_quidditch -> chunk_007.txt
+[2026-08-22 05:29:28] Local model request error: timed out
+[2026-08-22 05:29:28] ✅ چانک chunk_007.txt با پالایش کامل ذخیره شد.
+[2026-08-22 05:29:29] 📖 در حال پردازش: ch11_quidditch -> chunk_008.txt
+[2026-08-22 05:31:59] Local model request error: timed out
+[2026-08-22 05:31:59] ✅ چانک chunk_008.txt با پالایش کامل ذخیره شد.
+[2026-08-22 05:32:00] 📖 در حال پردازش: ch11_quidditch -> chunk_009.txt
+[2026-08-22 05:34:30] Local model request error: timed out
+[2026-08-22 05:34:30] ✅ چانک chunk_009.txt با پالایش کامل ذخیره شد.
+[2026-08-22 05:34:31] 📖 در حال پردازش: ch12_the_mirror_of_erised -> chunk_001.txt
+[2026-08-22 05:37:01] Local model request error: timed out
+[2026-08-22 05:37:01] ✅ چانک chunk_001.txt با پالایش کامل ذخیره شد.
+[2026-08-22 05:37:02] 📖 در حال پردازش: ch12_the_mirror_of_erised -> chunk_002.txt
+[2026-08-22 05:39:32] Local model request error: timed out
+[2026-08-22 05:39:32] ✅ چانک chunk_002.txt با پالایش کامل ذخیره شد.
+[2026-08-22 05:39:33] 📖 در حال پردازش: ch12_the_mirror_of_erised -> chunk_003.txt
+[2026-08-22 05:42:03] Local model request error: timed out
+[2026-08-22 05:42:03] ✅ چانک chunk_003.txt با پالایش کامل ذخیره شد.
+[2026-08-22 05:42:04] 📖 در حال پردازش: ch12_the_mirror_of_erised -> chunk_004.txt
+[2026-08-22 05:44:34] Local model request error: timed out
+[2026-08-22 05:44:34] ✅ چانک chunk_004.txt با پالایش کامل ذخیره شد.
+[2026-08-22 05:44:35] 📖 در حال پردازش: ch12_the_mirror_of_erised -> chunk_005.txt
+[2026-08-22 05:47:05] Local model request error: timed out
+[2026-08-22 05:47:05] ✅ چانک chunk_005.txt با پالایش کامل ذخیره شد.
+[2026-08-22 05:47:06] 📖 در حال پردازش: ch12_the_mirror_of_erised -> chunk_006.txt
+[2026-08-22 05:49:36] Local model request error: timed out
+[2026-08-22 05:49:36] ✅ چانک chunk_006.txt با پالایش کامل ذخیره شد.
+[2026-08-22 05:49:37] 📖 در حال پردازش: ch12_the_mirror_of_erised -> chunk_007.txt
+[2026-08-22 05:52:07] Local model request error: timed out
+[2026-08-22 05:52:07] ✅ چانک chunk_007.txt با پالایش کامل ذخیره شد.
+[2026-08-22 05:52:08] 📖 در حال پردازش: ch12_the_mirror_of_erised -> chunk_008.txt
+[2026-08-22 05:54:38] Local model request error: timed out
+[2026-08-22 05:54:38] ✅ چانک chunk_008.txt با پالایش کامل ذخیره شد.
+[2026-08-22 05:54:39] 📖 در حال پردازش: ch12_the_mirror_of_erised -> chunk_009.txt
+[2026-08-22 05:57:09] Local model request error: timed out
+[2026-08-22 05:57:09] ✅ چانک chunk_009.txt با پالایش کامل ذخیره شد.
+[2026-08-22 05:57:10] 📖 در حال پردازش: ch12_the_mirror_of_erised -> chunk_010.txt
+[2026-08-22 05:59:40] Local model request error: timed out
+[2026-08-22 05:59:41] ✅ چانک chunk_010.txt با پالایش کامل ذخیره شد.
+[2026-08-22 05:59:42] 📖 در حال پردازش: ch12_the_mirror_of_erised -> chunk_011.txt
+[2026-08-22 06:02:12] Local model request error: timed out
+[2026-08-22 06:02:12] ✅ چانک chunk_011.txt با پالایش کامل ذخیره شد.
+[2026-08-22 06:02:13] 📖 در حال پردازش: ch12_the_mirror_of_erised -> chunk_012.txt
+[2026-08-22 06:04:43] Local model request error: timed out
+[2026-08-22 06:04:43] ✅ چانک chunk_012.txt با پالایش کامل ذخیره شد.
+[2026-08-22 06:04:44] 📖 در حال پردازش: ch12_the_mirror_of_erised -> chunk_013.txt
+[2026-08-22 06:07:14] Local model request error: timed out
+[2026-08-22 06:07:14] ✅ چانک chunk_013.txt با پالایش کامل ذخیره شد.
+[2026-08-22 06:07:15] 📖 در حال پردازش: ch12_the_mirror_of_erised -> chunk_014.txt
+[2026-08-22 06:09:45] Local model request error: timed out
+[2026-08-22 06:09:45] ✅ چانک chunk_014.txt با پالایش کامل ذخیره شد.
+[2026-08-22 06:09:46] 📖 در حال پردازش: ch13_nicholas_flamel -> chunk_001.txt
+[2026-08-22 06:12:16] Local model request error: timed out
+[2026-08-22 06:12:16] ✅ چانک chunk_001.txt با پالایش کامل ذخیره شد.
+[2026-08-22 06:12:17] 📖 در حال پردازش: ch13_nicholas_flamel -> chunk_002.txt
+[2026-08-22 06:14:47] Local model request error: timed out
+[2026-08-22 06:14:47] ✅ چانک chunk_002.txt با پالایش کامل ذخیره شد.
+[2026-08-22 06:14:48] 📖 در حال پردازش: ch13_nicholas_flamel -> chunk_003.txt
+[2026-08-22 06:17:18] Local model request error: timed out
+[2026-08-22 06:17:18] ✅ چانک chunk_003.txt با پالایش کامل ذخیره شد.
+[2026-08-22 06:17:19] 📖 در حال پردازش: ch13_nicholas_flamel -> chunk_004.txt
+[2026-08-22 06:19:49] Local model request error: timed out
+[2026-08-22 06:19:49] ✅ چانک chunk_004.txt با پالایش کامل ذخیره شد.
+[2026-08-22 06:19:50] 📖 در حال پردازش: ch13_nicholas_flamel -> chunk_005.txt
+[2026-08-22 06:22:20] Local model request error: timed out
+[2026-08-22 06:22:20] ✅ چانک chunk_005.txt با پالایش کامل ذخیره شد.
+[2026-08-22 06:22:21] 📖 در حال پردازش: ch13_nicholas_flamel -> chunk_006.txt
+[2026-08-22 06:24:51] Local model request error: timed out
+[2026-08-22 06:24:51] ✅ چانک chunk_006.txt با پالایش کامل ذخیره شد.
+[2026-08-22 06:24:52] 📖 در حال پردازش: ch13_nicholas_flamel -> chunk_007.txt
+[2026-08-22 06:27:22] Local model request error: timed out
+[2026-08-22 06:27:22] ✅ چانک chunk_007.txt با پالایش کامل ذخیره شد.
+[2026-08-22 06:27:23] 📖 در حال پردازش: ch13_nicholas_flamel -> chunk_008.txt
+[2026-08-22 06:29:53] Local model request error: timed out
+[2026-08-22 06:29:53] ✅ چانک chunk_008.txt با پالایش کامل ذخیره شد.
+[2026-08-22 06:29:54] 📖 در حال پردازش: ch13_nicholas_flamel -> chunk_009.txt
+[2026-08-22 06:32:24] Local model request error: timed out
+[2026-08-22 06:32:24] ✅ چانک chunk_009.txt با پالایش کامل ذخیره شد.
+[2026-08-22 06:32:25] 📖 در حال پردازش: ch14_norbert_the_norwegian_ridgeback -> chunk_001.txt
+[2026-08-22 06:34:55] Local model request error: timed out
+[2026-08-22 06:34:55] ✅ چانک chunk_001.txt با پالایش کامل ذخیره شد.
+[2026-08-22 06:34:56] 📖 در حال پردازش: ch14_norbert_the_norwegian_ridgeback -> chunk_002.txt
+[2026-08-22 06:37:26] Local model request error: timed out
+[2026-08-22 06:37:26] ✅ چانک chunk_002.txt با پالایش کامل ذخیره شد.
+[2026-08-22 06:37:27] 📖 در حال پردازش: ch14_norbert_the_norwegian_ridgeback -> chunk_003.txt
+[2026-08-22 06:39:57] Local model request error: timed out
+[2026-08-22 06:39:57] ✅ چانک chunk_003.txt با پالایش کامل ذخیره شد.
+[2026-08-22 06:39:58] 📖 در حال پردازش: ch14_norbert_the_norwegian_ridgeback -> chunk_004.txt
+[2026-08-22 06:42:28] Local model request error: timed out
+[2026-08-22 06:42:28] ✅ چانک chunk_004.txt با پالایش کامل ذخیره شد.
+[2026-08-22 06:42:29] 📖 در حال پردازش: ch14_norbert_the_norwegian_ridgeback -> chunk_005.txt
+[2026-08-22 06:44:59] Local model request error: timed out
+[2026-08-22 06:44:59] ✅ چانک chunk_005.txt با پالایش کامل ذخیره شد.
+[2026-08-22 06:45:00] 📖 در حال پردازش: ch14_norbert_the_norwegian_ridgeback -> chunk_006.txt
+[2026-08-22 06:47:30] Local model request error: timed out
+[2026-08-22 06:47:30] ✅ چانک chunk_006.txt با پالایش کامل ذخیره شد.
+[2026-08-22 06:47:31] 📖 در حال پردازش: ch14_norbert_the_norwegian_ridgeback -> chunk_007.txt
+[2026-08-22 06:50:01] Local model request error: timed out
+[2026-08-22 06:50:01] ✅ چانک chunk_007.txt با پالایش کامل ذخیره شد.
+[2026-08-22 06:50:02] 📖 در حال پردازش: ch14_norbert_the_norwegian_ridgeback -> chunk_008.txt
+[2026-08-22 06:52:32] Local model request error: timed out
+[2026-08-22 06:52:32] ✅ چانک chunk_008.txt با پالایش کامل ذخیره شد.
+[2026-08-22 06:52:33] 📖 در حال پردازش: ch14_norbert_the_norwegian_ridgeback -> chunk_009.txt
+[2026-08-22 06:55:03] Local model request error: timed out
+[2026-08-22 06:55:03] ✅ چانک chunk_009.txt با پالایش کامل ذخیره شد.
+[2026-08-22 06:55:04] 📖 در حال پردازش: ch15_the_forbidden_forest -> chunk_001.txt
+[2026-08-22 06:55:53] ✅ چانک chunk_001.txt با پالایش کامل ذخیره شد.
+[2026-08-22 06:55:54] 📖 در حال پردازش: ch15_the_forbidden_forest -> chunk_002.txt
+[2026-08-22 06:58:24] Local model request error: timed out
+[2026-08-22 06:58:24] ✅ چانک chunk_002.txt با پالایش کامل ذخیره شد.
+[2026-08-22 06:58:25] 📖 در حال پردازش: ch15_the_forbidden_forest -> chunk_003.txt
+[2026-08-22 07:00:55] Local model request error: timed out
+[2026-08-22 07:00:55] ✅ چانک chunk_003.txt با پالایش کامل ذخیره شد.
+[2026-08-22 07:00:56] 📖 در حال پردازش: ch15_the_forbidden_forest -> chunk_004.txt
+[2026-08-22 07:03:26] Local model request error: timed out
+[2026-08-22 07:03:26] ✅ چانک chunk_004.txt با پالایش کامل ذخیره شد.
+[2026-08-22 07:03:27] 📖 در حال پردازش: ch15_the_forbidden_forest -> chunk_005.txt
+[2026-08-22 07:05:57] Local model request error: timed out
+[2026-08-22 07:05:57] ✅ چانک chunk_005.txt با پالایش کامل ذخیره شد.
+[2026-08-22 07:05:58] 📖 در حال پردازش: ch15_the_forbidden_forest -> chunk_006.txt
+[2026-08-22 07:08:28] Local model request error: timed out
+[2026-08-22 07:08:28] ✅ چانک chunk_006.txt با پالایش کامل ذخیره شد.
+[2026-08-22 07:08:29] 📖 در حال پردازش: ch15_the_forbidden_forest -> chunk_007.txt
+[2026-08-22 07:10:59] Local model request error: timed out
+[2026-08-22 07:10:59] ✅ چانک chunk_007.txt با پالایش کامل ذخیره شد.
+[2026-08-22 07:11:00] 📖 در حال پردازش: ch15_the_forbidden_forest -> chunk_008.txt
+[2026-08-22 07:13:30] Local model request error: timed out
+[2026-08-22 07:13:30] ✅ چانک chunk_008.txt با پالایش کامل ذخیره شد.
+[2026-08-22 07:13:31] 📖 در حال پردازش: ch15_the_forbidden_forest -> chunk_009.txt
+[2026-08-22 07:16:01] Local model request error: timed out
+[2026-08-22 07:16:01] ✅ چانک chunk_009.txt با پالایش کامل ذخیره شد.
+[2026-08-22 07:16:02] 📖 در حال پردازش: ch15_the_forbidden_forest -> chunk_010.txt
+[2026-08-22 07:18:32] Local model request error: timed out
+[2026-08-22 07:18:32] ✅ چانک chunk_010.txt با پالایش کامل ذخیره شد.
+[2026-08-22 07:18:33] 📖 در حال پردازش: ch15_the_forbidden_forest -> chunk_011.txt
+[2026-08-22 07:21:03] Local model request error: timed out
+[2026-08-22 07:21:03] ✅ چانک chunk_011.txt با پالایش کامل ذخیره شد.
+[2026-08-22 07:21:04] 📖 در حال پردازش: ch15_the_forbidden_forest -> chunk_012.txt
+[2026-08-22 07:21:41] ✅ چانک chunk_012.txt با پالایش کامل ذخیره شد.
+[2026-08-22 07:21:42] 📖 در حال پردازش: ch15_the_forbidden_forest -> chunk_013.txt
+[2026-08-22 07:24:12] Local model request error: timed out
+[2026-08-22 07:24:12] ✅ چانک chunk_013.txt با پالایش کامل ذخیره شد.
+[2026-08-22 07:24:13] 📖 در حال پردازش: ch16_through_the_trapdoor -> chunk_001.txt
+[2026-08-22 07:26:43] Local model request error: timed out
+[2026-08-22 07:26:43] ✅ چانک chunk_001.txt با پالایش کامل ذخیره شد.
+[2026-08-22 07:26:44] 📖 در حال پردازش: ch16_through_the_trapdoor -> chunk_002.txt
+[2026-08-22 07:29:14] Local model request error: timed out
+[2026-08-22 07:29:14] ✅ چانک chunk_002.txt با پالایش کامل ذخیره شد.
+[2026-08-22 07:29:15] 📖 در حال پردازش: ch16_through_the_trapdoor -> chunk_003.txt
+[2026-08-22 07:31:45] Local model request error: timed out
+[2026-08-22 07:31:45] ✅ چانک chunk_003.txt با پالایش کامل ذخیره شد.
+[2026-08-22 07:31:46] 📖 در حال پردازش: ch16_through_the_trapdoor -> chunk_004.txt
+[2026-08-22 07:34:16] Local model request error: timed out
+[2026-08-22 07:34:16] ✅ چانک chunk_004.txt با پالایش کامل ذخیره شد.
+[2026-08-22 07:34:17] 📖 در حال پردازش: ch16_through_the_trapdoor -> chunk_005.txt
+[2026-08-22 07:36:47] Local model request error: timed out
+[2026-08-22 07:36:47] ✅ چانک chunk_005.txt با پالایش کامل ذخیره شد.
+[2026-08-22 07:36:48] 📖 در حال پردازش: ch16_through_the_trapdoor -> chunk_006.txt
+[2026-08-22 07:39:18] Local model request error: timed out
+[2026-08-22 07:39:18] ✅ چانک chunk_006.txt با پالایش کامل ذخیره شد.
+[2026-08-22 07:39:19] 📖 در حال پردازش: ch16_through_the_trapdoor -> chunk_007.txt
+[2026-08-22 07:41:49] Local model request error: timed out
+[2026-08-22 07:41:49] ✅ چانک chunk_007.txt با پالایش کامل ذخیره شد.
+[2026-08-22 07:41:50] 📖 در حال پردازش: ch16_through_the_trapdoor -> chunk_008.txt
+[2026-08-22 07:44:20] Local model request error: timed out
+[2026-08-22 07:44:20] ✅ چانک chunk_008.txt با پالایش کامل ذخیره شد.
+[2026-08-22 07:44:21] 📖 در حال پردازش: ch16_through_the_trapdoor -> chunk_009.txt
+[2026-08-22 07:46:51] Local model request error: timed out
+[2026-08-22 07:46:51] ✅ چانک chunk_009.txt با پالایش کامل ذخیره شد.
+[2026-08-22 07:46:52] 📖 در حال پردازش: ch16_through_the_trapdoor -> chunk_010.txt
+[2026-08-22 07:49:22] Local model request error: timed out
+[2026-08-22 07:49:22] ✅ چانک chunk_010.txt با پالایش کامل ذخیره شد.
+[2026-08-22 07:49:23] 📖 در حال پردازش: ch16_through_the_trapdoor -> chunk_011.txt
+[2026-08-22 07:51:54] Local model request error: timed out
+[2026-08-22 07:51:54] ✅ چانک chunk_011.txt با پالایش کامل ذخیره شد.
+[2026-08-22 07:51:55] 📖 در حال پردازش: ch16_through_the_trapdoor -> chunk_012.txt
+[2026-08-22 07:54:25] Local model request error: timed out
+[2026-08-22 07:54:25] ✅ چانک chunk_012.txt با پالایش کامل ذخیره شد.
+[2026-08-22 07:54:26] 📖 در حال پردازش: ch16_through_the_trapdoor -> chunk_013.txt
+[2026-08-22 07:56:56] Local model request error: timed out
+[2026-08-22 07:56:56] ✅ چانک chunk_013.txt با پالایش کامل ذخیره شد.
+[2026-08-22 07:56:57] 📖 در حال پردازش: ch16_through_the_trapdoor -> chunk_014.txt
+[2026-08-22 07:59:27] Local model request error: timed out
+[2026-08-22 07:59:27] ✅ چانک chunk_014.txt با پالایش کامل ذخیره شد.
+[2026-08-22 07:59:28] 📖 در حال پردازش: ch16_through_the_trapdoor -> chunk_015.txt
+[2026-08-22 08:01:58] Local model request error: timed out
+[2026-08-22 08:01:58] ✅ چانک chunk_015.txt با پالایش کامل ذخیره شد.
+[2026-08-22 08:01:59] 📖 در حال پردازش: ch16_through_the_trapdoor -> chunk_016.txt
+[2026-08-22 08:04:29] Local model request error: timed out
+[2026-08-22 08:04:29] ✅ چانک chunk_016.txt با پالایش کامل ذخیره شد.
+[2026-08-22 08:04:30] 📖 در حال پردازش: ch16_through_the_trapdoor -> chunk_017.txt
+[2026-08-22 08:07:00] Local model request error: timed out
+[2026-08-22 08:07:00] ✅ چانک chunk_017.txt با پالایش کامل ذخیره شد.
+[2026-08-22 08:07:01] 📖 در حال پردازش: ch16_through_the_trapdoor -> chunk_018.txt
+[2026-08-22 08:09:31] Local model request error: timed out
+[2026-08-22 08:09:31] ✅ چانک chunk_018.txt با پالایش کامل ذخیره شد.
+[2026-08-22 08:09:32] 📖 در حال پردازش: ch16_through_the_trapdoor -> chunk_019.txt
+[2026-08-22 08:11:31] ✅ چانک chunk_019.txt با پالایش کامل ذخیره شد.
+[2026-08-22 08:11:32] 📖 در حال پردازش: ch17_the_man_with_two_faces -> chunk_001.txt
+[2026-08-22 08:14:02] Local model request error: timed out
+[2026-08-22 08:14:02] ✅ چانک chunk_001.txt با پالایش کامل ذخیره شد.
+[2026-08-22 08:14:03] 📖 در حال پردازش: ch17_the_man_with_two_faces -> chunk_002.txt
+[2026-08-22 08:16:33] Local model request error: timed out
+[2026-08-22 08:16:33] ✅ چانک chunk_002.txt با پالایش کامل ذخیره شد.
+[2026-08-22 08:16:34] 📖 در حال پردازش: ch17_the_man_with_two_faces -> chunk_003.txt
+[2026-08-22 08:19:04] Local model request error: timed out
+[2026-08-22 08:19:04] ✅ چانک chunk_003.txt با پالایش کامل ذخیره شد.
+[2026-08-22 08:19:05] 📖 در حال پردازش: ch17_the_man_with_two_faces -> chunk_004.txt
+[2026-08-22 08:21:35] Local model request error: timed out
+[2026-08-22 08:21:35] ✅ چانک chunk_004.txt با پالایش کامل ذخیره شد.
+[2026-08-22 08:21:36] 📖 در حال پردازش: ch17_the_man_with_two_faces -> chunk_005.txt
+[2026-08-22 08:22:54] ✅ چانک chunk_005.txt با پالایش کامل ذخیره شد.
+[2026-08-22 08:22:55] 📖 در حال پردازش: ch17_the_man_with_two_faces -> chunk_006.txt
+[2026-08-22 08:25:25] Local model request error: timed out
+[2026-08-22 08:25:25] ✅ چانک chunk_006.txt با پالایش کامل ذخیره شد.
+[2026-08-22 08:25:26] 📖 در حال پردازش: ch17_the_man_with_two_faces -> chunk_007.txt
+[2026-08-22 08:27:56] Local model request error: timed out
+[2026-08-22 08:27:56] ✅ چانک chunk_007.txt با پالایش کامل ذخیره شد.
+[2026-08-22 08:27:57] 📖 در حال پردازش: ch17_the_man_with_two_faces -> chunk_008.txt
+[2026-08-22 08:30:27] Local model request error: timed out
+[2026-08-22 08:30:27] ✅ چانک chunk_008.txt با پالایش کامل ذخیره شد.
+[2026-08-22 08:30:28] 📖 در حال پردازش: ch17_the_man_with_two_faces -> chunk_009.txt
+[2026-08-22 08:32:58] Local model request error: timed out
+[2026-08-22 08:32:58] ✅ چانک chunk_009.txt با پالایش کامل ذخیره شد.
+[2026-08-22 08:32:59] 📖 در حال پردازش: ch17_the_man_with_two_faces -> chunk_010.txt
+[2026-08-22 08:35:29] Local model request error: timed out
+[2026-08-22 08:35:29] ✅ چانک chunk_010.txt با پالایش کامل ذخیره شد.
+[2026-08-22 08:35:30] 📖 در حال پردازش: ch17_the_man_with_two_faces -> chunk_011.txt
+[2026-08-22 08:38:00] Local model request error: timed out
+[2026-08-22 08:38:01] ✅ چانک chunk_011.txt با پالایش کامل ذخیره شد.
+[2026-08-22 08:38:02] 📖 در حال پردازش: ch17_the_man_with_two_faces -> chunk_012.txt
+[2026-08-22 08:40:32] Local model request error: timed out
+[2026-08-22 08:40:32] ✅ چانک chunk_012.txt با پالایش کامل ذخیره شد.
+[2026-08-22 08:40:33] 📖 در حال پردازش: ch17_the_man_with_two_faces -> chunk_013.txt
+[2026-08-22 08:43:03] Local model request error: timed out
+[2026-08-22 08:43:03] ✅ چانک chunk_013.txt با پالایش کامل ذخیره شد.
+[2026-08-22 08:43:04] 📖 در حال پردازش: ch17_the_man_with_two_faces -> chunk_014.txt
+[2026-08-22 08:45:34] Local model request error: timed out
+[2026-08-22 08:45:34] خطا در حلقه اجرا: [Errno 28] No space left on device: '/Users/ricksabchez/workspace/drafts/ch17_the_man_with_two_faces/chunk_014.md'
+[2026-08-22 08:45:39] 📖 در حال پردازش: ch17_the_man_with_two_faces -> chunk_014.txt
+[2026-08-22 08:48:09] Local model request error: timed out
+[2026-08-22 08:48:09] ✅ چانک chunk_014.txt با پالایش کامل ذخیره شد.
+[2026-08-22 08:48:10] 📖 در حال پردازش: ch17_the_man_with_two_faces -> chunk_015.txt
+[2026-08-22 08:50:40] Local model request error: timed out
+[2026-08-22 08:50:40] ✅ چانک chunk_015.txt با پالایش کامل ذخیره شد.
+[2026-08-22 08:50:41] 🎉 تمامی چانک‌ها پردازش و ترجمه شده‌اند.
+[2026-08-22 08:51:11] 🎉 تمامی چانک‌ها پردازش و ترجمه شده‌اند.
+[2026-08-22 08:51:41] 🎉 تمامی چانک‌ها پردازش و ترجمه شده‌اند.
+[2026-08-22 08:52:11] 🎉 تمامی چانک‌ها پردازش و ترجمه شده‌اند.
+[2026-08-22 08:52:41] 🎉 تمامی چانک‌ها پردازش و ترجمه شده‌اند.
+[2026-08-22 08:53:11] 🎉 تمامی چانک‌ها پردازش و ترجمه شده‌اند.
+[2026-08-22 08:53:41] 🎉 تمامی چانک‌ها پردازش و ترجمه شده‌اند.
+[2026-08-22 08:54:11] 🎉 تمامی چانک‌ها پردازش و ترجمه شده‌اند.
+[2026-08-22 08:54:41] 🎉 تمامی چانک‌ها پردازش و ترجمه شده‌اند.
+[2026-08-22 08:55:11] 🎉 تمامی چانک‌ها پردازش و ترجمه شده‌اند.
+[2026-08-22 08:55:41] 🎉 تمامی چانک‌ها پردازش و ترجمه شده‌اند.
+[2026-08-22 08:56:11] 🎉 تمامی چانک‌ها پردازش و ترجمه شده‌اند.
+[2026-08-22 08:56:41] 🎉 تمامی چانک‌ها پردازش و ترجمه شده‌اند.
+[2026-08-22 08:57:11] 🎉 تمامی چانک‌ها پردازش و ترجمه شده‌اند.
+[2026-08-22 08:57:41] 🎉 تمامی چانک‌ها پردازش و ترجمه شده‌اند.
+[2026-08-22 08:58:11] 🎉 تمامی چانک‌ها پردازش و ترجمه شده‌اند.
+[2026-08-22 08:58:42] 🎉 تمامی چانک‌ها پردازش و ترجمه شده‌اند.
+[2026-08-22 08:59:12] 🎉 تمامی چانک‌ها پردازش و ترجمه شده‌اند.
+[2026-08-22 08:59:42] 🎉 تمامی چانک‌ها پردازش و ترجمه شده‌اند.
+[2026-08-22 09:00:12] 🎉 تمامی چانک‌ها پردازش و ترجمه شده‌اند.
+[2026-08-22 09:00:42] 🎉 تمامی چانک‌ها پردازش و ترجمه شده‌اند.
+[2026-08-22 09:01:12] 🎉 تمامی چانک‌ها پردازش و ترجمه شده‌اند.
+[2026-08-22 09:01:42] 🎉 تمامی چانک‌ها پردازش و ترجمه شده‌اند.
+[2026-08-22 09:02:12] 🎉 تمامی چانک‌ها پردازش و ترجمه شده‌اند.
+[2026-08-22 09:02:42] 🎉 تمامی چانک‌ها پردازش و ترجمه شده‌اند.
+[2026-08-22 09:03:12] 🎉 تمامی چانک‌ها پردازش و ترجمه شده‌اند.
+[2026-08-22 09:03:42] 🎉 تمامی چانک‌ها پردازش و ترجمه شده‌اند.
+[2026-08-22 09:04:12] 🎉 تمامی چانک‌ها پردازش و ترجمه شده‌اند.
+[2026-08-22 09:04:42] 🎉 تمامی چانک‌ها پردازش و ترجمه شده‌اند.
+[2026-08-22 09:05:12] 🎉 تمامی چانک‌ها پردازش و ترجمه شده‌اند.
+[2026-08-22 09:05:42] 🎉 تمامی چانک‌ها پردازش و ترجمه شده‌اند.
+[2026-08-22 09:06:12] 🎉 تمامی چانک‌ها پردازش و ترجمه شده‌اند.
+[2026-08-22 09:06:42] 🎉 تمامی چانک‌ها پردازش و ترجمه شده‌اند.
+[2026-08-22 09:07:12] 🎉 تمامی چانک‌ها پردازش و ترجمه شده‌اند.
+[2026-08-22 09:07:42] 🎉 تمامی چانک‌ها پردازش و ترجمه شده‌اند.
+[2026-08-22 09:08:12] 🎉 تمامی چانک‌ها پردازش و ترجمه شده‌اند.
+[2026-08-22 09:08:42] 🎉 تمامی چانک‌ها پردازش و ترجمه شده‌اند.
+[2026-08-22 09:09:12] 🎉 تمامی چانک‌ها پردازش و ترجمه شده‌اند.
