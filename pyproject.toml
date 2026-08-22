@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "hermes-literary-translation-mastery"
+version = "1.0.0"
+description = "Autonomous, high-speed, multi-pass literary novel translation engine and publishing suite."
+readme = "README.md"
+requires-python = ">=3.9"
+authors = [{ name = "Nous Research / Hermes Agent", email = "hermes@nousresearch.com" }]
+license = { text = "MIT" }
+keywords = ["translation", "literary", "persian", "llm", "gemini", "qwen", "epub", "cli"]
+dependencies = [
+    "pypdf>=4.0.0",
+]
+
+[project.scripts]
+hlt = "hlt_cli.main:cli"
+
+[tool.setuptools.packages.find]
+where = ["src"]

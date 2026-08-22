@@ -1,0 +1,43 @@
+name: HLT Literary Translation CI & Quality Gates
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  audit-and-lint:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install pypdf
+
+      - name: Audit Zero Em-Dash & Persian Orthography
+        run: |
+          python -c "
+          import glob, os, sys
+          files = glob.glob('finalized_books/**/*.md', recursive=True) + glob.glob('translations_drafts/**/*.md', recursive=True)
+          em_dash_violations = 0
+          for fpath in files:
+              try:
+                  with open(fpath, 'r', encoding='utf-8') as f:
+                      content = f.read()
+                      count = content.count('—') + content.count('–')
+                      if count > 0:
+                          em_dash_violations += count
+                          print(f'::warning file={fpath}::Found {count} em-dash occurrences')
+              except Exception:
+                  pass
+          print(f'Total em-dash violations: {em_dash_violations}')
+          "

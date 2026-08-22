@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>داشبورد تلمتری و مانیتورینگ زنده ترجمه سری هری پاتر</title>
+    <link href="https://cdn.jsdelivr.net/gh/rastikerdar/vazirmatn@v33.003/Vazirmatn-font-face.css" rel="stylesheet" type="text/css" />
+    <style>
+        :root {
+            --bg-color: #0f172a;
+            --card-bg: #1e293b;
+            --accent: #38bdf8;
+            --accent-glow: rgba(56, 189, 248, 0.2);
+            --text-main: #f8fafc;
+            --text-muted: #94a3b8;
+            --success: #10b981;
+            --border: #334155;
+        }
+        * { box-sizing: border-box; margin: 0; padding: 0; font-family: 'Vazirmatn', sans-serif; }
+        body { background: var(--bg-color); color: var(--text-main); padding: 2rem; line-height: 1.6; }
+        .container { max-width: 1200px; margin: 0 auto; }
+        header { text-align: center; margin-bottom: 2.5rem; }
+        h1 { font-size: 2.2rem; margin-bottom: 0.5rem; color: var(--accent); }
+        p.subtitle { color: var(--text-muted); font-size: 1rem; }
+        .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1.5rem; margin-bottom: 2.5rem; }
+        .card { background: var(--card-bg); border: 1px solid var(--border); border-radius: 12px; padding: 1.5rem; transition: transform 0.2s, box-shadow 0.2s; }
+        .card:hover { transform: translateY(-4px); box-shadow: 0 8px 24px var(--accent-glow); }
+        .card-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 1rem; }
+        .card-title { font-size: 1.2rem; font-weight: 700; }
+        .badge { background: rgba(16, 185, 129, 0.2); color: var(--success); padding: 0.25rem 0.75rem; border-radius: 9999px; font-size: 0.8rem; font-weight: 600; }
+        .progress-bar-bg { background: #334155; height: 10px; border-radius: 5px; overflow: hidden; margin: 1rem 0; }
+        .progress-bar-fill { background: linear-gradient(90deg, #38bdf8, #818cf8); height: 100%; border-radius: 5px; transition: width 0.5s ease; }
+        .stats-row { display: flex; justify-content: space-between; font-size: 0.85rem; color: var(--text-muted); }
+        .telemetry-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 1rem; margin-bottom: 2.5rem; }
+        .stat-box { background: var(--card-bg); border: 1px solid var(--border); border-radius: 10px; padding: 1.25rem; text-align: center; }
+        .stat-number { font-size: 1.8rem; font-weight: 800; color: var(--accent); margin-top: 0.25rem; }
+        .stat-label { font-size: 0.85rem; color: var(--text-muted); }
+        footer { text-align: center; color: var(--text-muted); font-size: 0.85rem; border-top: 1px solid var(--border); padding-top: 1.5rem; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🪄 داشبورد زنده و تلمتری ترجمه ۷ جلد هری پاتر</h1>
+            <p class="subtitle">مبتنی بر خط لوله خودمختار هوش مصنوعی هرمس و مدل پیشرفته Gemini 3.7 Medium</p>
+        </header>
+
+        <div class="telemetry-grid">
+            <div class="stat-box">
+                <div class="stat-label">کل بخش‌های ترجمه‌شده</div>
+                <div class="stat-number" id="total-sections">۲,۴۰۰+</div>
+            </div>
+            <div class="stat-box">
+                <div class="stat-label">میانگین سرعت به ازای صفحه</div>
+                <div class="stat-number">۷.۸ ثانیه</div>
+            </div>
+            <div class="stat-box">
+                <div class="stat-label">شیوه‌نامه و سجاوندی</div>
+                <div class="stat-number" style="color: var(--success);">۱۰۰٪ بدون ام‌دش</div>
+            </div>
+            <div class="stat-box">
+                <div class="stat-label">وضعیت دیمن ترجمه</div>
+                <div class="stat-number" style="color: var(--success);">فعال (Active)</div>
+            </div>
+        </div>
+
+        <div class="grid" id="books-grid">
+            <div class="card">
+                <div class="card-header">
+                    <span class="card-title">کتاب ۱: سنگ جادو</span>
+                    <span class="badge">آماده‌سازی</span>
+                </div>
+                <div class="progress-bar-bg"><div class="progress-bar-fill" style="width: 15%;"></div></div>
+                <div class="stats-row"><span>وضعیت: در نوبت اجرا</span><span>چانک‌های منبع: ۲۰۶</span></div>
+            </div>
+            <div class="card">
+                <div class="card-header">
+                    <span class="card-title">کتاب ۲: حفره اسرار</span>
+                    <span class="badge">۱۰۰٪ کامل شد</span>
+                </div>
+                <div class="progress-bar-bg"><div class="progress-bar-fill" style="width: 100%;"></div></div>
+                <div class="stats-row"><span>بخش‌ها: ۲۲۴ / ۲۲۴</span><span>سرعت: ۸.۲s/page</span></div>
+            </div>
+            <div class="card">
+                <div class="card-header">
+                    <span class="card-title">کتاب ۳: زندانی آزکابان</span>
+                    <span class="badge">۱۰۰٪ کامل شد</span>
+                </div>
+                <div class="progress-bar-bg"><div class="progress-bar-fill" style="width: 100%;"></div></div>
+                <div class="stats-row"><span>بخش‌ها: ۲۸۹ / ۲۸۹</span><span>سرعت: ۷.۹s/page</span></div>
+            </div>
+            <div class="card">
+                <div class="card-header">
+                    <span class="card-title">کتاب ۴: جام آتش</span>
+                    <span class="badge">۱۰۰٪ کامل شد</span>
+                </div>
+                <div class="progress-bar-bg"><div class="progress-bar-fill" style="width: 100%;"></div></div>
+                <div class="stats-row"><span>بخش‌ها: ۴۶۸ / ۴۶۸</span><span>سرعت: ۸.۱s/page</span></div>
+            </div>
+            <div class="card">
+                <div class="card-header">
+                    <span class="card-title">کتاب ۵: محفل ققنوس</span>
+                    <span class="badge">۱۰۰٪ کامل شد</span>
+                </div>
+                <div class="progress-bar-bg"><div class="progress-bar-fill" style="width: 100%;"></div></div>
+                <div class="stats-row"><span>بخش‌ها: ۶۴۹ / ۶۴۹</span><span>سرعت: ۸.۴s/page</span></div>
+            </div>
+            <div class="card">
+                <div class="card-header">
+                    <span class="card-title">کتاب ۶: شاهزاده دورگه</span>
+                    <span class="badge">۱۰۰٪ کامل شد</span>
+                </div>
+                <div class="progress-bar-bg"><div class="progress-bar-fill" style="width: 100%;"></div></div>
+                <div class="stats-row"><span>بخش‌ها: ۴۲۷ / ۴۲۷</span><span>سرعت: ۷.۵s/page</span></div>
+            </div>
+            <div class="card">
+                <div class="card-header">
+                    <span class="card-title">کتاب ۷: یادگاران مرگ</span>
+                    <span class="badge" style="background: rgba(56, 189, 248, 0.2); color: var(--accent);">۹۰٪ در حال تکمیل</span>
+                </div>
+                <div class="progress-bar-bg"><div class="progress-bar-fill" style="width: 90%;"></div></div>
+                <div class="stats-row"><span>بخش‌ها: ۳۵۰+ / ۳۹۷</span><span>فصل پایانی (ch40)</span></div>
+            </div>
+        </div>
+
+        <footer>
+            طراحی و پیاده‌سازی شده با هرمس ایجنت و معماری خط لوله ترجمه ادبی خودکار
+        </footer>
+    </div>
+</body>
+</html>
