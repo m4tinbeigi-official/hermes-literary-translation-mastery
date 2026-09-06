@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
-Hermes Book Translator Desktop / Web Interface
-Run locally on macOS & Windows.
+Hermes Book Translator Native Desktop App
+Cross-platform Desktop Window (WebKit on macOS / WebView2 on Windows)
 """
 
 import os
@@ -10,13 +10,20 @@ import json
 import re
 import time
 import threading
-import webbrowser
 import urllib.request
 import urllib.error
 from http.server import HTTPServer, BaseHTTPRequestHandler
 from pathlib import Path
 
-PORT = 7860
+# Try to use native webview, fallback to browser if not available
+try:
+    import webview
+    HAS_WEBVIEW = True
+except ImportError:
+    HAS_WEBVIEW = False
+    import webbrowser
+
+PORT = 7861
 BASE_DIR = Path(__file__).resolve().parent
 
 STATE = {
@@ -114,7 +121,7 @@ def run_translation_task(book_text: str, book_title: str, api_key: str, model: s
                 break
             
             STATE["current_chunk"] = i + 1
-            STATE["current_status"] = f"در حال ترجمه بخش {i+1} از {len(chunks)} با مدل {model}..."
+            STATE["current_status"] = f"در حال ترجمه بخش {i+1} از {len(chunks)}..."
             
             res = call_llm(chunk, api_key=api_key, model=model)
             cleaned = clean_persian_text(res)
@@ -122,7 +129,7 @@ def run_translation_task(book_text: str, book_title: str, api_key: str, model: s
             time.sleep(0.5)
 
         if STATE["is_translating"]:
-            STATE["current_status"] = "ترجمه کامل شد!"
+            STATE["current_status"] = "ترجمه با موفقیت کامل شد!"
     except Exception as e:
         STATE["last_error"] = str(e)
         STATE["current_status"] = f"خطا در ترجمه: {e}"
@@ -134,7 +141,7 @@ HTML_TEMPLATE = """<!DOCTYPE html>
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Hermes Book Translator | مترجم هوشمند کتاب</title>
+    <title>Hermes Book Translator</title>
     <link href="https://cdn.jsdelivr.net/gh/rastikerdar/vazirmatn@v33.003/Vazirmatn-font-face.css" rel="stylesheet" />
     <style>
         :root {
@@ -149,46 +156,46 @@ HTML_TEMPLATE = """<!DOCTYPE html>
             --success: #34d399;
             --danger: #f87171;
         }
-        * { box-sizing: border-box; margin: 0; padding: 0; }
+        * { box-sizing: border-box; margin: 0; padding: 0; user-select: none; }
         body {
             font-family: 'Vazirmatn', sans-serif;
-            background: radial-gradient(circle at 50% 0%, #172554 0%, var(--bg) 75%);
+            background: radial-gradient(circle at 50% 0%, #172554 0%, var(--bg) 80%);
             color: var(--text-main);
             min-height: 100vh;
-            padding: 2rem 1rem;
+            padding: 1.5rem 1rem;
         }
         .container {
-            max-width: 900px;
+            max-width: 820px;
             margin: 0 auto;
         }
         .header {
             text-align: center;
-            margin-bottom: 2.5rem;
+            margin-bottom: 1.5rem;
         }
         .header h1 {
-            font-size: 2.3rem;
+            font-size: 2rem;
             font-weight: 800;
             background: linear-gradient(135deg, #38bdf8, #818cf8);
             -webkit-background-clip: text;
             -webkit-text-fill-color: transparent;
-            margin-bottom: 0.5rem;
+            margin-bottom: 0.3rem;
         }
-        .header p { color: var(--text-muted); font-size: 1.05rem; }
+        .header p { color: var(--text-muted); font-size: 0.95rem; }
         .card {
             background: var(--surface);
             border: 1px solid var(--surface-border);
-            border-radius: 16px;
-            padding: 1.8rem;
-            margin-bottom: 1.5rem;
+            border-radius: 14px;
+            padding: 1.5rem;
+            margin-bottom: 1.2rem;
             box-shadow: 0 10px 30px rgba(0,0,0,0.3);
         }
         .form-group {
-            margin-bottom: 1.2rem;
+            margin-bottom: 1rem;
         }
         label {
             display: block;
-            margin-bottom: 0.5rem;
-            font-size: 0.95rem;
+            margin-bottom: 0.4rem;
+            font-size: 0.9rem;
             color: var(--text-muted);
             font-weight: 600;
         }
@@ -196,12 +203,13 @@ HTML_TEMPLATE = """<!DOCTYPE html>
             width: 100%;
             background: #0d1322;
             border: 1px solid var(--surface-border);
-            border-radius: 10px;
+            border-radius: 8px;
             color: var(--text-main);
-            padding: 0.75rem 1rem;
+            padding: 0.65rem 0.85rem;
             font-family: inherit;
-            font-size: 0.95rem;
+            font-size: 0.9rem;
             outline: none;
+            user-select: text;
             transition: border-color 0.2s;
         }
         input:focus, select:focus, textarea:focus {
@@ -209,25 +217,24 @@ HTML_TEMPLATE = """<!DOCTYPE html>
             box-shadow: 0 0 0 3px var(--primary-glow);
         }
         .api-helper {
-            font-size: 0.85rem;
-            margin-top: 0.4rem;
+            font-size: 0.82rem;
+            margin-top: 0.3rem;
             color: var(--accent);
         }
-        .api-helper a { color: var(--primary); text-decoration: none; font-weight: bold; }
-        .api-helper a:hover { text-decoration: underline; }
+        .api-helper a { color: var(--primary); text-decoration: none; font-weight: bold; cursor: pointer; }
         .btn-group {
             display: flex;
-            gap: 1rem;
-            margin-top: 1.5rem;
+            gap: 0.8rem;
+            margin-top: 1.2rem;
         }
         button {
             flex: 1;
-            padding: 0.85rem;
+            padding: 0.75rem;
             font-family: inherit;
-            font-size: 1.05rem;
+            font-size: 1rem;
             font-weight: bold;
             border: none;
-            border-radius: 10px;
+            border-radius: 8px;
             cursor: pointer;
             transition: all 0.2s;
         }
@@ -249,8 +256,8 @@ HTML_TEMPLATE = """<!DOCTYPE html>
             text-decoration: none;
             display: inline-block;
             text-align: center;
-            padding: 0.85rem;
-            border-radius: 10px;
+            padding: 0.75rem;
+            border-radius: 8px;
             font-weight: bold;
             flex: 1;
         }
@@ -260,9 +267,9 @@ HTML_TEMPLATE = """<!DOCTYPE html>
         .progress-bar-bg {
             background: #0d1322;
             border-radius: 8px;
-            height: 14px;
+            height: 12px;
             overflow: hidden;
-            margin: 1rem 0;
+            margin: 0.8rem 0;
             border: 1px solid var(--surface-border);
         }
         .progress-bar-fill {
@@ -274,14 +281,15 @@ HTML_TEMPLATE = """<!DOCTYPE html>
         .preview-box {
             background: #090d16;
             border: 1px solid var(--surface-border);
-            border-radius: 10px;
-            padding: 1.2rem;
-            max-height: 350px;
+            border-radius: 8px;
+            padding: 1rem;
+            max-height: 250px;
             overflow-y: auto;
-            line-height: 1.9;
-            font-size: 1rem;
+            line-height: 1.8;
+            font-size: 0.92rem;
             color: #cbd5e1;
             white-space: pre-wrap;
+            user-select: text;
         }
     </style>
 </head>
@@ -289,7 +297,7 @@ HTML_TEMPLATE = """<!DOCTYPE html>
     <div class="container">
         <div class="header">
             <h1>🪄 Hermes Book Translator</h1>
-            <p>مترجم هوشمند و ادبی کتاب به زبان فارسی فاخر و بدون سانسور</p>
+            <p>نرم‌افزار دسکتاپ ترجمه ادبی و هوشمند کتاب به زبان فارسی</p>
         </div>
 
         <div class="card">
@@ -312,13 +320,13 @@ HTML_TEMPLATE = """<!DOCTYPE html>
 
             <div class="form-group">
                 <label>عنوان کتاب:</label>
-                <input type="text" id="bookTitle" placeholder="مثال: هری پاتر و سنگ جادو" />
+                <input type="text" id="bookTitle" placeholder="مثال: رمان هری پاتر" />
             </div>
 
             <div class="form-group">
-                <label>فایل کتاب یا متن انگلیسی:</label>
-                <input type="file" id="fileInput" accept=".txt,.md" style="margin-bottom: 0.8rem;" />
-                <textarea id="bookText" rows="7" placeholder="یا متن کتاب را مستقیماً اینجا پیست کنید..."></textarea>
+                <label>انتخاب فایل متنی کتاب (.txt یا .md):</label>
+                <input type="file" id="fileInput" accept=".txt,.md" style="margin-bottom: 0.6rem;" />
+                <textarea id="bookText" rows="5" placeholder="یا متن کتاب را مستقیماً اینجا پیست کنید..."></textarea>
             </div>
 
             <div class="btn-group">
@@ -328,19 +336,19 @@ HTML_TEMPLATE = """<!DOCTYPE html>
         </div>
 
         <div class="card progress-box" id="progressCard">
-            <h3 style="margin-bottom: 0.5rem; color: var(--primary);" id="statusText">در حال آماده‌سازی...</h3>
+            <h3 style="margin-bottom: 0.4rem; color: var(--primary); font-size: 1.1rem;" id="statusText">در حال آماده‌سازی...</h3>
             <div class="progress-bar-bg">
                 <div class="progress-bar-fill" id="progressFill"></div>
             </div>
-            <div style="display: flex; justify-content: space-between; font-size: 0.9rem; color: var(--text-muted); margin-bottom: 1rem;">
+            <div style="display: flex; justify-content: space-between; font-size: 0.85rem; color: var(--text-muted); margin-bottom: 0.8rem;">
                 <span id="chunkText">بخش ۰ از ۰</span>
                 <span id="percentText">۰٪</span>
             </div>
 
-            <label style="margin-top: 1rem;">پیش‌نمایش متن ترجمه شده:</label>
+            <label style="margin-top: 0.8rem;">پیش‌نمایش زنده ترجمه:</label>
             <div class="preview-box" id="previewText">در انتظار شروع...</div>
 
-            <div class="btn-group" id="downloadGroup" style="display: none; margin-top: 1.5rem;">
+            <div class="btn-group" id="downloadGroup" style="display: none; margin-top: 1.2rem;">
                 <a class="btn-download" id="downloadHtml" href="/download/html" target="_blank">دانلود کتابخوان وب (HTML)</a>
                 <a class="btn-download" id="downloadMd" href="/download/md" target="_blank" style="background: linear-gradient(135deg, #0284c7, #0369a1);">دانلود مارک‌داون (MD)</a>
             </div>
@@ -355,13 +363,12 @@ HTML_TEMPLATE = """<!DOCTYPE html>
             reader.onload = function(evt) {
                 document.getElementById('bookText').value = evt.target.result;
                 if (!document.getElementById('bookTitle').value) {
-                    document.getElementById('bookTitle').value = file.name.replace(/\.[^/.]+$/, "");
+                    document.getElementById('bookTitle').value = file.name.replace(/\\.[^/.]+$/, "");
                 }
             };
             reader.readAsText(file);
         });
 
-        // Load saved API key from localStorage
         const savedKey = localStorage.getItem('nara_api_key');
         if (savedKey) document.getElementById('apiKey').value = savedKey;
 
@@ -514,18 +521,27 @@ class RequestHandler(BaseHTTPRequestHandler):
             self.send_response(404)
             self.end_headers()
 
-def main():
-    print(f"==================================================")
-    print(f"🚀 Hermes Book Translator UI")
-    print(f"🌐 نرم‌افزار در حال اجرا روی آدرس: http://localhost:{PORT}")
-    print(f"==================================================")
-    
+def start_server():
     server = HTTPServer(("127.0.0.1", PORT), RequestHandler)
-    threading.Timer(1.0, lambda: webbrowser.open(f"http://localhost:{PORT}")).start()
-    try:
-        server.serve_forever()
-    except KeyboardInterrupt:
-        print("\nخروج از برنامه.")
+    server.serve_forever()
+
+def main():
+    threading.Thread(target=start_server, daemon=True).start()
+    
+    if HAS_WEBVIEW:
+        webview.create_window(
+            title="Hermes Book Translator",
+            url=f"http://127.0.0.1:{PORT}",
+            width=900,
+            height=800,
+            resizable=True
+        )
+        webview.start()
+    else:
+        import webbrowser
+        webbrowser.open(f"http://127.0.0.1:{PORT}")
+        while True:
+            time.sleep(1)
 
 if __name__ == "__main__":
     main()
