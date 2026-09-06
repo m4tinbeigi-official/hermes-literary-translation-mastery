@@ -1,0 +1,48 @@
+name: Build Cross-Platform Releases
+
+on:
+  push:
+    tags:
+      - 'v*'
+  workflow_dispatch:
+
+jobs:
+  build:
+    strategy:
+      matrix:
+        os: [macos-latest, windows-latest]
+    runs-on: ${{ matrix.os }}
+
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install PyInstaller
+        run: |
+          python -m pip install --upgrade pip
+          pip install pyinstaller
+
+      - name: Build macOS App
+        if: runner.os == 'macOS'
+        run: |
+          pyinstaller --noconfirm --onedir --windowed --name "HermesBookTranslator" app.py
+          cd dist
+          zip -r HermesBookTranslator-macOS.zip HermesBookTranslator.app
+
+      - name: Build Windows Executable
+        if: runner.os == 'Windows'
+        run: |
+          pyinstaller --noconfirm --onefile --windowed --name "HermesBookTranslator" app.py
+          cd dist
+          powershell Compress-Archive -Path HermesBookTranslator.exe -DestinationPath HermesBookTranslator-Windows.zip
+
+      - name: Upload Artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: release-${{ runner.os }}
+          path: dist/*.zip
