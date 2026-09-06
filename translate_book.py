@@ -159,7 +159,8 @@ def main():
 
     if not args.api_key:
         print("\n❌ خطا: کلید API وارد نشده است.")
-        print("💡 شما می‌توانید از سایت نارا روتر (https://nara.sh) به‌صورت کاملاً رایگان API Key دریافت کنید.")
+        print("💡 شما می‌توانید از سایت نارا روتر به‌صورت کاملاً رایگان API Key دریافت کنید:")
+        print("🔗 https://router.bynara.id/register?ref=NMAP6F9D\n")
         print("سپس کلید را به شکل زیر وارد کنید:")
         print(f"python3 translate_book.py {args.input_file} --api-key YOUR_NARA_KEY\n")
         print("یا متغیر محیطی را ست کنید:")

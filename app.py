@@ -297,7 +297,7 @@ HTML_TEMPLATE = """<!DOCTYPE html>
                 <label>کلید API نارا روتر (Nara Router API Key):</label>
                 <input type="password" id="apiKey" placeholder="sk-nry-..." />
                 <div class="api-helper">
-                    💡 کلید ندارید؟ دریافت کاملاً رایگان از <a href="https://nara.sh" target="_blank">سایت نارا روتر (nara.sh)</a>
+                    💡 کلید ندارید؟ دریافت کاملاً رایگان از <a href="https://router.bynara.id/register?ref=NMAP6F9D" target="_blank">سایت نارا روتر (کلیک کنید)</a>
                 </div>
             </div>
 
